@@ -37,7 +37,7 @@
 
 - Meu gosto tecnológico ..
   
-        Curiosidade em como as coisas acontecem
-        Brinquedinhos tecnológicos
-        Novidades que facilitam o nosso dia-a-dia
-        Área Gráfica: desde que comecei a trabalhar aos 14 anos com desenho técnico de projetos arquitetônicos
+        Curiosidade em como as coisas acontecem  
+        Brinquedinhos tecnológicos da computação  
+        Novidades que facilitam o nosso dia-a-dia  
+        Área Gráfica: desde que comecei a trabalhar aos 14 anos com desenho técnico de projetos arquitetônicos  
