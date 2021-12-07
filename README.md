@@ -13,11 +13,11 @@
 
 - Leciono atualmente:
 
-        1a fase - Introdução à Programação  
 <!--
         2a fase - Introdução à Computação  
         2a fase - Lógica para Computação  
 -->
+        1a fase - Introdução à Programação  
         7a fase - Computação Gráfica  
         8a fase - Realidade Virtual  
         8a fase - Desenvolvimento para Plataformas Móveis 
