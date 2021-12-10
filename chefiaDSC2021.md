@@ -1,4 +1,4 @@
-# Chefia do DSC
+# Candidatura da Chefia do DSC
 
 Caro(a)s professore(a)s do Departamento de Sistemas e Computação (DSC) venho manifestar o meu interesse em assumir o cargo de chefe do DSC.  
 
