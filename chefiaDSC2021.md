@@ -10,8 +10,10 @@ Comecei como aluno no curso de Computação (BCC) em 1988 (2a semestre) na prime
 
 Em 1989 (03/08/1989) comecei a trabalhar no laboratório de Computação da FURB que era de uso geral para todos os alunos da FURB (no bloco G). Que por sinal na época era o único laboratório que existia. Em 1992 me graduei, e em 1994 à 1997 fiz o meu mestrado na UFRGS.
 
-Em 1998 fiz o concurso para disciplina de Computação Gráfica, e venho lecionado como professor desta disciplina até hoje. Durante este tempo já tive oportunidade de lecionar algumas disciplinas, mas atualmente me concentro nas disciplinas: Introdução à Programação (1a fase), Computação Gráfica (7a fase) e Realidade Virtual/Desenvolvimento para Plataformas Móveis/Trabalho de Conclusão de Curso I ((8a fase). Também auto em orientações de Trabalhos de Conclusão de Curso (TCCs) e projetos de pesquisa e extensão (<https://github.com/dalton-reis/dalton-reis/>).  
+Em 1998 fiz o concurso para disciplina de Computação Gráfica, e venho lecionando como professor desta disciplina até hoje. Durante este tempo já tive oportunidade de lecionar algumas disciplinas, mas atualmente me concentro nas disciplinas: Introdução à Programação (1a fase), Computação Gráfica (7a fase) e Realidade Virtual / Desenvolvimento para Plataformas Móveis / Trabalho de Conclusão de Curso I (8a fase). Também auto em orientações de Trabalhos de Conclusão de Curso (TCCs) e projetos de pesquisa e extensão (<https://github.com/dalton-reis/dalton-reis/>).  
 
 Na parte administrativa atuei por vários anos como coordenador do Laboratório de Computação e Informática (LCI), inclusive participando de três mudanças de campus do nosso departamento. E, ainda dois períodos de enchentes que envolveram um grande empenho de gerência administrativa para dentro de um curto período de tempo termos restaurado todos os nossos laboratórios com quase nenhuma perda, mesmo com os todos os nossos laboratórios "submersos" na enchente.  
 
-Bom, atualmente sou professor de Tempo Integral (TI) e este ano completo 32 anos de atuação na FURB. Assim espero contar com a apoio de vocês no dia da eleição, mas principalmente caso consiga assumir a chefia, o mais importante, com o apoio de vocês na minha atuação como chefe.
+Atualmente sou professor de Tempo Integral (TI) e este ano completo 32 anos de atuação na FURB. Assim espero contar com a apoio de vocês no dia da eleição, mas principalmente caso consiga assumir a chefia, o mais importante, com o apoio de vocês na minha atuação como chefe.
+
+Att.
