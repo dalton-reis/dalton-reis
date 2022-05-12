@@ -17,3 +17,7 @@ Na parte administrativa atuei por vários anos como coordenador do Laboratório 
 Atualmente sou professor de Tempo Integral (TI) e este ano completo 32 anos de atuação na FURB. Assim espero contar com a apoio de vocês no dia da eleição, mas principalmente caso consiga assumir a chefia, o mais importante, com o apoio de vocês na minha atuação como chefe.
 
 Att.
+
+<!--
+Como candidato a Vice-Diretor, ao lado da Prof. Simone me comprometo a dedicar-me aos anseios dos colegas e ao fortalecimento do nosso CCEN junto a FURB.
+-->
