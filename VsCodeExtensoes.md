@@ -74,4 +74,8 @@ code --install-extension vscjava.vscode-maven
 code --install-extension WakaTime.vscode-wakatime  
 code --install-extension wayou.vscode-todo-highlight  
 code --install-extension YuTengjing.open-in-external-app  
+<<<<<<< HEAD
 code --install-extension yzhang.markdown-all-in-one  
+=======
+code --install-extension yzhang.markdown-all-in-one  
+>>>>>>> fa8947cc5dceb6e02f73057e08e70e893b394899
