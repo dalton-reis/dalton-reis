@@ -44,3 +44,7 @@
         Novidades que facilitam o nosso dia-a-dia  
         Área Gráfica: desde que comecei a trabalhar aos 14 anos com desenho técnico
          de projetos arquitetônicos  
+
+- VSCode
+
+As extensões que eu uso no VSCode (22/06/2022): [Extensões](VsCodeExtensoes.md "Extensões")  
