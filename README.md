@@ -11,17 +11,24 @@
 
 - Resumo: Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em Computação pela UFRGS (1997). Atualmente é professor titular da FURB. Tem experiência na área de Ciência da Computação, com ênfase Computação Gráfica, atuando principalmente nos seguintes temas: Computação Gráfica, Realidade Virtual, Jogos e Aplicações móveis, e desenvolvimento de material educacional explorando Tecnologias de Desenvolvimento de Sistemas Aplicadas à Educação.
 
+- Já lecionei:
+        1a fase - Introdução à Computação  
+        1a fase - Introdução à Programação  
+        2a fase - Lógica para Computação  
+        4a fase - Compiladores  
+        7a fase - Sistemas Multimídia  
+        8a fase - Desenvolvimento para Plataformas Móveis  
+
 - Leciono atualmente:
 
-<!--
-        2a fase - Introdução à Computação  
-        2a fase - Lógica para Computação  
--->
-        1a fase - Introdução à Programação  
         7a fase - Computação Gráfica  
         8a fase - Realidade Virtual  
-        8a fase - Desenvolvimento para Plataformas Móveis 
-        8a fase - Trabalho de Conclusão de Curso I
+        8a fase - Trabalho de Conclusão de Curso I  
+
+- Profissional
+
+        1989/XXXX - Início na FURB  
+        2022/XXXX - Chefe do Departamento de Sistemas e Computação (DSC)  
 
 - Linhas pesquisa:
 
