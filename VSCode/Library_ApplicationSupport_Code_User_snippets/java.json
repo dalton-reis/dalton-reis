@@ -1,0 +1,45 @@
+// https://code.visualstudio.com/docs/editor/userdefinedsnippets
+// Code / Preferences / User Snippets
+
+// ln -s para: /Users/daltonreis/Library/Application Support/Code/User/snippets
+
+// Place your snippets for java here. Each snippet is defined under a snippet name and has a prefix, body and 
+// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+// same ids are connected.
+{
+	"Java: teclado": {
+		"prefix": "java_Problema",
+		"body": [
+			"/*",
+			"__ Enunciado: ",
+			"",
+			"",
+			"__ Análise: ",
+			"",
+			"__ Gordura: ",
+			"",
+			"//__ Entradas: ",
+			"",
+			"//__ Processos: ",
+			"",
+			"//__ Saídas: ",
+			"",
+			"*/"
+		],
+		"description": "Java: template teclado"
+	},
+	"Java: teste": {
+		"prefix": "java_Teste",
+		"body": [
+			"/*",
+			"__ Valores de Testes: ",
+			"_ Caso 1 ___",
+			"",
+			"_ Caso 2 ___",
+			"",
+			"*/"
+		],
+		"description": "Java: template teste"
+	}
+}
