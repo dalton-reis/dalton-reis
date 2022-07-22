@@ -1,6 +1,6 @@
 # Apresentação do Professor
 
- ![Foto professor](./img_DaltonReis.png "Foto professor")  
+ ![Foto professor](./_._/img_DaltonReis.png "Foto professor")  
 
         Nome: Dalton Solano dos Reis
         Contato: dalton@furb.br
@@ -54,4 +54,4 @@
 
 - VSCode
 
-As extensões que eu uso no VSCode (22/06/2022): [Extensões](VsCodeExtensoes.md "Extensões")  
+As extensões que eu uso no VSCode (22/06/2022): [Extensões](_._/VsCodeExtensoes.md "Extensões")  

@@ -1,5 +1,5 @@
 {
-	"dart.flutterSdkPath": "/Volumes/HD_APOIO/Applications/flutter",
+	"dart.flutterSdkPath": "D:\\z_Softwares\\___Instalado__\\flutter",
 		"git.autofetch": true,
     "docomment.advanced": {
         "cs": {
@@ -202,7 +202,6 @@
 				"editor.minimap.enabled": false,
 				"workbench.editor.enablePreview": false,
 				"remoteHub.commitDirectlyWarning": "off",
-				"workbench.colorTheme": "Visual Studio Light",
 				"github.copilot.enable": {
 					"*": false,
 					"yaml": false,
@@ -224,5 +223,7 @@
 			"diffEditor.ignoreTrimWhitespace": false,
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
-			"window.zoomLevel": 2
+			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
+			"window.zoomLevel": 1,
+			"workbench.colorTheme": "Kimbie Dark"
 }
