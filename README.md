@@ -54,4 +54,4 @@
 
 - VSCode
 
-As extensões que eu uso no VSCode (22/06/2022): [Extensões](_._/VsCodeExtensoes.md "Extensões")  
+As extensões que eu uso no VSCode (22/06/2022): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  

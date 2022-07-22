@@ -224,6 +224,6 @@
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
-			"window.zoomLevel": 1,
-			"workbench.colorTheme": "Kimbie Dark"
+			"workbench.colorTheme": "Kimbie Dark",
+			"window.zoomLevel": -1
 }
