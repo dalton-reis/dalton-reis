@@ -32,8 +32,10 @@
 
 - Linhas pesquisa:
 
-        projetos relacionados com as disciplinas (área gráfica)  
-        assuntos relacionados com a área da educação  
+<!-- TODO: arrumar formatação -->
+Projetos relacionados com as disciplinas (área gráfica)  
+Assuntos relacionados com a área da educação  
+[Pensamento Computacional na Educação Básica](<https://youtu.be/gfks3z1zsYk> "Pensamento Computacional na Educação Básica")  
 
 - Grupos de Pesquisa:  
         [<http://gcg.inf.furb.br/>](<http://gcg.inf.furb.br/> "grupo de pesquisa GCG")  
