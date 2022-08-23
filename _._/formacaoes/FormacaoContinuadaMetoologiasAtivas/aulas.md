@@ -177,7 +177,10 @@ Qual a função do professor no processo de ensinar?
 - buscar exemplos pessoais para motivar os alunos.  
 <!-- TODO: colocar perguntas no meio do conteúdo que instiguem os alunos a usarem o conteúdo demonstrado>-->
 
+#### Grupo 3
+
+"Ensino envolve a troca de ideias. Depois, a ideia é formatada ou adaptada até poder ser captada pelos alunos. Este captar, porém, não é um ato passivo. Assim como a compreensão do professor requer uma interação vigorosa com as ideias, espera-se que também os alunos lidem ativamente com as ideias" (SHULMAN,2005).  
+
 #### Grupo 4
 
-"O que os professores sabem ou não, que lhes permite ensinar de uma certa
-maneira" (SHULMAN, 2005)?
+"O que os professores sabem ou não, que lhes permite ensinar de uma certa maneira" (SHULMAN, 2005)?  
