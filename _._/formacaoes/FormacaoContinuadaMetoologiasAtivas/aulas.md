@@ -1,16 +1,16 @@
 # Aulas
 
-## 2021-08-16
+## 2022-08-16
 
 [AVA3](<https://ava3.furb.br/course/view.php?id=33346> "AVA3")  
+
+[Slides_Aula_2022-08-16](Slides_Aula_2022-08-16.pdf "Slides_Aula_2022-08-16")  
 
 [Slides_001](001_AberturaPrograma_Etapa%201.pdf "Slides_001")  
 [Slides_002](002_Apresentacao_Marcel.pdf "Slides_002")  
 [Slides_003](003_Apresentacao_Paula.pdf "Slides_003")  
 [Video_004](004_Thiago_parte1.mov "Video_004")  
 [Video_005](005_Thiago_parte2.mov "Video_005")  
-[Slides_Aula](Slides_Aula.pdf "Slides_Aula")  
-
 profa. Daniela Maysa de Souza (enfermeira)  
 99102-7007  
 
@@ -140,7 +140,15 @@ Escolher uma palavra que define o encontro!
 
 - Diversidade  
 
-## 2021-08-23
+## 2022-08-23
+
+[Slides_Aula_2022-08-23](Slides_Aula_2022-08-23.pdf "Slides_Aula_2022-08-23")  
+
+[SorrisoMonalisa_Parte1](SorrisoMonalisa_Parte1.mp4 "SorrisoMonalisa_Parte1")  
+[SorrisoMonalisa_Parte2](SorrisoMonalisa_Parte2.mp4 "SorrisoMonalisa_Parte2")  
+[PauloFreire_PedagogiaDoOprimido](PauloFreire_PedagogiaDoOprimido.pdf "PauloFreire_PedagogiaDoOprimido")  
+[PauloFreire_Grupo2](PauloFreire_Grupo2.pdf "PauloFreire_Grupo2")  
+[PauloFreire_Grupo4](PauloFreire_Grupo4.pdf "PauloFreire_Grupo4")  
 
 Apresentou dois novos alunos  
 Fez uma revisão da última aula  
@@ -175,7 +183,7 @@ Qual a função do professor no processo de ensinar?
 "Ideias compreendidas precisam ser transformadas de alguma maneira para serem ensinadas. Para encontrar seu caminho por meio do ato de ensinar, o professor deve pensar no caminho entre o conteúdo que entendeu e as mentes e motivações dos alunos" (SHULMAN, 2005).  
 
 - buscar exemplos pessoais para motivar os alunos.  
-<!-- TODO: colocar perguntas no meio do conteúdo que instiguem os alunos a usarem o conteúdo demonstrado>-->
+TODO: colocar perguntas no meio do conteúdo que instiguem os alunos a usarem o conteúdo demonstrado.  
 
 #### Grupo 3
 
@@ -184,3 +192,31 @@ Qual a função do professor no processo de ensinar?
 #### Grupo 4
 
 "O que os professores sabem ou não, que lhes permite ensinar de uma certa maneira" (SHULMAN, 2005)?  
+
+Estratégia: trazer "recortes" para enfatizar conteúdos.  
+Fazer os alunos a pensarem ... fazer perguntas boas.  
+
+Filme "O Sorriso de Monalisa".  
+
+Dois modos de ensino:  
+
+- educação bancária  
+- problematizadora (metodologia ativa)  
+
+### Tarefa: Atividade de dispersão
+
+[](./aulas.md#tarefa-atividade-de-dispersão)
+
+Resgatar momentos de sua trajetória profissional como docente em que você utilizou método tradicional de ensino e outro com o uso de métodos ativos, relacionando com a resposta aos estímulos dos alunos. Registrar suas reflexões
+no portfólio.  
+
+Registrar suas reflexões sobre a avaliação do encontro.  
+
+Realizar a leitura de: BERBEL, N. A. N. Metodologia da Problematização em três versões no contexto da didática e da formação de professores. Revista Diálogo Educacional, Pontifícia Universidade Católica do Paraná, v. 12, n. 35, p. 103-120, 2012. Disponível em: <http://www.redalyc.org/pdf/1891/189123706006.pdf>  
+
+E o que mais você sentir necessidade de registrar..
+
+### Indicação de filme
+
+Filme Chinês: “Nenhum a Menos” (Yi Ge Dou BuNengShao), de 1999, história se passa na zona rural, onde uma jovem professora substituta de uma carente escola primária substitui um modelo positivista pela metodologia da problematização, com conhecimento da realidade dos alunos.  
+<https://www.filmesdetv.com/yi-ge-dou-bu-neng-shao.html>  
