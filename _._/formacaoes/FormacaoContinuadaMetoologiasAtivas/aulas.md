@@ -9,6 +9,7 @@
 [Slides_003](003_Apresentacao_Paula.pdf "Slides_003")  
 [Video_004](004_Thiago_parte1.mov "Video_004")  
 [Video_005](005_Thiago_parte2.mov "Video_005")  
+[Slides_Aula](Slides_Aula.pdf "Slides_Aula")  
 
 profa. Daniela Maysa de Souza (enfermeira)  
 99102-7007  
