@@ -1,8 +1,9 @@
 # Aulas
 
-## 2022-08-16
-
 [AVA3](<https://ava3.furb.br/course/view.php?id=33346> "AVA3")  
+[MarginNote](<marginnote3app://note/C9327C1C-3A50-41FF-9C0B-C1A2385E9A09> "MarginNote")  
+
+## 2022-08-16
 
 [Slides_Aula_2022-08-16](Slides_Aula_2022-08-16.pdf "Slides_Aula_2022-08-16")  
 
@@ -220,3 +221,9 @@ E o que mais você sentir necessidade de registrar..
 
 Filme Chinês: “Nenhum a Menos” (Yi Ge Dou BuNengShao), de 1999, história se passa na zona rural, onde uma jovem professora substituta de uma carente escola primária substitui um modelo positivista pela metodologia da problematização, com conhecimento da realidade dos alunos.  
 <https://www.filmesdetv.com/yi-ge-dou-bu-neng-shao.html>  
+
+### Atividade Aula 02
+
+[Aula02_atividade_msg](Aula02_atividade_msg.pdf "Aula02_atividade_msg")  
+[Aula02_atividade_artigo](Aula02_atividade_artigo.pdf "Aula02_atividade_artigo")  
+
