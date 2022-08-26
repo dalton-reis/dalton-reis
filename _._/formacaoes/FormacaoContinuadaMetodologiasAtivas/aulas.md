@@ -226,4 +226,4 @@ Filme Chinês: “Nenhum a Menos” (Yi Ge Dou BuNengShao), de 1999, história s
 
 [Aula02_atividade_msg](Aula02_atividade_msg.pdf "Aula02_atividade_msg")  
 [Aula02_atividade_artigo](Aula02_atividade_artigo.pdf "Aula02_atividade_artigo")  
-
+[LerArtigo](<marginnote3app://note/B70AE1F4-61FE-45BE-9600-0398E14D1299> "LerArtigo")  
