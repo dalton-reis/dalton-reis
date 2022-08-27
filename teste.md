@@ -1,5 +1,10 @@
 # Teste
 
+- [ ] teste
+- [ ] um
+- [ ] dois
+- [ ] três
+ 
 
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
