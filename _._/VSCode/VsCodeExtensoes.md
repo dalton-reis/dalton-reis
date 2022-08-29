@@ -1,6 +1,7 @@
 # Extensões que eu uso no VsCode
 
 code --install-extension 4tron.stack-overflow-view  
+code --install-extension A-WS-M.zotenote  
 code --install-extension alefragnani.Bookmarks  
 code --install-extension arthurwang.vsc-prolog  
 code --install-extension BillDietrich.linkcheckerhtml  
@@ -9,6 +10,7 @@ code --install-extension cschlosser.doxdocgen
 code --install-extension Dart-Code.dart-code  
 code --install-extension Dart-Code.flutter  
 code --install-extension DavidAnson.vscode-markdownlint  
+code --install-extension dlyz.md-link-checker  
 code --install-extension donjayamanne.githistory  
 code --install-extension eamodio.gitlens  
 code --install-extension fernandoescolar.vscode-solution-explorer  
@@ -16,6 +18,8 @@ code --install-extension GitHub.copilot
 code --install-extension GitHub.remotehub  
 code --install-extension GitHub.vscode-pull-request-github  
 code --install-extension gitkraken.gitkraken-authentication  
+code --install-extension Gruntfuggly.discord-chat  
+code --install-extension Gruntfuggly.todo-tree  
 code --install-extension hediet.debug-visualizer  
 code --install-extension hediet.vscode-drawio  
 code --install-extension idleberg.applescript  
@@ -30,6 +34,7 @@ code --install-extension link-checker.link-checker
 code --install-extension lkytal.pomodoro  
 code --install-extension marco-pierobon.git-graphy  
 code --install-extension mark-fobert.stackfinder  
+code --install-extension mblode.zotero  
 code --install-extension mhutchie.git-graph  
 code --install-extension moshfeu.compare-folders  
 code --install-extension MS-CEINTL.vscode-language-pack-pt-BR  
@@ -49,8 +54,10 @@ code --install-extension ms-vsliveshare.vsliveshare-audio
 code --install-extension ms-vsliveshare.vsliveshare-pack  
 code --install-extension pdconsec.vscode-print  
 code --install-extension pierre3.csharp-to-plantuml  
+code --install-extension Pod212.vscode-github-projects  
 code --install-extension pomber.git-file-history  
 code --install-extension redhat.java  
+code --install-extension rubenvandeven.zoterolens  
 code --install-extension slevesque.shader  
 code --install-extension slevesque.vscode-multiclip  
 code --install-extension stevensona.shader-toy  
@@ -73,6 +80,6 @@ code --install-extension vscjava.vscode-java-test
 code --install-extension vscjava.vscode-maven  
 code --install-extension WakaTime.vscode-wakatime  
 code --install-extension wayou.vscode-todo-highlight  
+code --install-extension XING.zotero-cite  
 code --install-extension YuTengjing.open-in-external-app  
-code --install-extension yzhang.markdown-all-in-one  
 code --install-extension yzhang.markdown-all-in-one  
