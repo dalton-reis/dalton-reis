@@ -224,6 +224,7 @@
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
-			"workbench.colorTheme": "Visual Studio Light",
-			"window.zoomLevel": 2
+			"workbench.colorTheme": "Monokai",
+			"git.ignoreRebaseWarning": true,
+			"window.zoomLevel": 1
 }
