@@ -61,6 +61,12 @@ Assuntos relacionados com a área da educação
 
 As extensões que eu uso no VSCode (22/06/2022): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  
 
+Caso queira listar quais extensões está usando pode usar os comando em:  
+Unix:  
+> code --list-extensions | xargs -L 1 echo code --install-extension
+
+Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):  
+> code --list-extensions | % { "code --install-extension $_" }
 ----
 
 ## WakaTime
