@@ -38,14 +38,14 @@ Assuntos relacionados com a área da educação
 [Pensamento Computacional na Educação Básica](<https://youtu.be/gfks3z1zsYk> "Pensamento Computacional na Educação Básica")  
 
 - Grupos de Pesquisa:  
-        [<http://gcg.inf.furb.br/>](<http://gcg.inf.furb.br/> "grupo de pesquisa GCG")  
-        [<http://tecedu.inf.furb.br/>](<http://tecedu.inf.furb.br/> "grupo de pesquisa TecEdu")  
+        [<http://gcg.inf.furb.br/>](http://gcg.inf.furb.br/ "grupo de pesquisa GCG")  
+        [<http://tecedu.inf.furb.br/>](http://tecedu.inf.furb.br/ "grupo de pesquisa TecEdu")  
 
 - Zotero:
-        [<https://www.zotero.org/daltonreis>](<https://www.zotero.org/daltonreis> "Zotero")  
+        [<https://www.zotero.org/daltonreis>](https://www.zotero.org/daltonreis "Zotero")  
 
 - WebPage:
-        [<https://dalton-reis.github.io/dalton-reis/>](<https://dalton-reis.github.io/dalton-reis/> "WebPage")  
+        [<https://dalton-reis.github.io/dalton-reis/>](https://dalton-reis.github.io/dalton-reis/ "WebPage")  
 
 - Oportunidade para fazer pesquisa: ser bolsista  
 

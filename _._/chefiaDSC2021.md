@@ -6,7 +6,7 @@ Com a Licença Prêmio pré-aposentadoria do professor Everaldo Artur Grahl (atu
 
 Bom, para quem não me conhece (para os professores novos no DSC) segue um pouco do meu histórico de atuação na FURB.  
 
-Comecei como aluno no curso de Computação (BCC) em 1988 (2a semestre) na primeira turma do curso de computação (com muito orgulho), que antes era de Tecnologo em Processamento de Dados. Tive oportunidade de estudar junto (nas carteiras) com vários colegas que hoje se tornaram grandes representantes na comunidade da Computação, entre eles, alunos que se tornaram professores do nosso departamento.  
+Comecei como aluno no curso de Computação (BCC) em 1988 (2a semestre) na primeira turma do curso de computação (com muito orgulho), que antes era de Tecnólogo em Processamento de Dados. Tive oportunidade de estudar junto (nas carteiras) com vários colegas que hoje se tornaram grandes representantes na comunidade da Computação, entre eles, alunos que se tornaram professores do nosso departamento.  
 
 Em 1989 (03/08/1989) comecei a trabalhar no laboratório de Computação da FURB que era de uso geral para todos os alunos da FURB (no bloco G). Que por sinal na época era o único laboratório que existia. Em 1992 me graduei, e em 1994 à 1997 fiz o meu mestrado na UFRGS.
 
