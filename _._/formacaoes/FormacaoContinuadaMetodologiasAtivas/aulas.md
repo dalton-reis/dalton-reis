@@ -1,7 +1,7 @@
 # Aulas
 
-[AVA3](<https://ava3.furb.br/course/view.php?id=33346> "AVA3")  
-[MarginNote](<marginnote3app://note/C9327C1C-3A50-41FF-9C0B-C1A2385E9A09> "MarginNote")  
+[AVA3](https://ava3.furb.br/course/view.php?id=33346 "AVA3")  
+[MarginNote](marginnote3app://note/C9327C1C-3A50-41FF-9C0B-C1A2385E9A09 "MarginNote")  
 
 ## 2022-08-16
 
@@ -167,8 +167,8 @@ Registrem suas memórias relacionadas à trajetória escolar/aprendizagem (como 
   - Pedagogicamente:  
 
 - Lembrança negativa  
-  - Comportamental: Atitude do prof. de Banco de Dados (UFRGS) que se achava "melhor que Deus". Situação particular numa aula/palestra que derrubei o material dele da carteira sem querer e me respondeu "[...] desculpa não, Vê se ajunta.". E a aula de apresentações de trabalhos do prof. Processamento de Imagens (UFRGS) ... "para, para ... não me faz perder o meu tempo".  
-  - Pedagogicamente:  
+  - Comportamental: Atitude do prof. de Banco de Dados (UFRGS) que se achava "melhor que Deus". Situação particular numa aula/palestra que derrubei o material dele da carteira sem querer e me respondeu "\[...] desculpa não, Vê se ajunta.". E a aula de apresentações de trabalhos do prof. Processamento de Imagens (UFRGS) ... "para, para ... não me faz perder o meu tempo".  
+  - Pedagogicamente  
 
 Frase icônica de um professor  
 "Cada vez que ele evacuava uma nova ideia entrava na mente"  
