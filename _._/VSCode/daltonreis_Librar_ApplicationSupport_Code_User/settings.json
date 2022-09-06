@@ -209,7 +209,6 @@
 					"markdown": false,
 					"java": false
 				},
-				"timeline.excludeSources": [],
 				"workbench.experimental.editor.dragAndDropIntoEditor.enabled": true,
 				"openInExternalApp.openMapper": [
 					{
@@ -225,6 +224,8 @@
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
 			"workbench.colorTheme": "Monokai",
-			"git.ignoreRebaseWarning": true,
-			"window.zoomLevel": 1
+						"git.ignoreRebaseWarning": true,
+						"encrypted-notes.timeFormat": "## \\YYYY-\\MM-\\DD - \\HH:\\mm\\n\\n",
+						"encrypted-notes.promptPassword": false,
+						"window.zoomLevel": 1
 }
