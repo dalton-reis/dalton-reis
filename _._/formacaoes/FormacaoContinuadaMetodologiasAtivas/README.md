@@ -357,9 +357,12 @@ criar desafios para cada unidade com algo relacionado
 
 1. Conhecimento do Conteúdo  
 2. Conhecimento Pedagógico Geral  
-3. 
-5
-Professor precisa ter uma interação/conhecimento da organização e gestão entre os três âmbitos (sala - microcontexto, escola - mesocontexto e comunidade - macrocontexto) relacionados aos processos administrativos.  
+3. Conhecimento do Currículo  
+4. Conhecimento sobre os alunos e suas características  
+5. Conhecimento do contexto educacional: Professor precisa ter uma interação/conhecimento da organização e gestão entre os três âmbitos (sala - microcontexto, escola - mesocontexto e comunidade - macrocontexto) relacionados aos processos administrativos.  
+6. Conhecimento dos fins, propósitos e valores: Professor precisa ter conhecimento das Diretrizes Curriculares Nacionais e trazer para o seu contexto de aula. E outros, BNCC, Sociedade Brasileira de Computação (SBC), expectativa das empresas etc.  
+7. Conhecimento Pedagógico do Contexto (CPC)  
 
-6
-Professor precisa ter conhecimento das Diretrizes Curriculares Nacionais e trazer para o seu contexto de aula.  
+### 2022-09-06_Atividade
+
+No final do slide.
