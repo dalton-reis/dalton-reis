@@ -286,7 +286,11 @@ Seguira os passos:
 - tentar identificar o perfil dos alunos (pode ser que seja uma turma que já lecionei)  
 - verificar se tenho quantidade de alunos, qual espaço físico será disponibilizado, se tem equipamentos  
 - busca novamente por revisão bibliográfica sobre o assunto, agora observando o que identifiquei nas etapas anteriores  
-- preparar material de aula
+- preparar material de aula, qual metodologia usar  
+
+## Objetivos  
+
+## Habilidades
 
 [x] Providenciar para o próximo encontro, a estrutura curricular do curso em que atua como docente.  
 Avaliações Enade: 4 (2017)  
@@ -303,15 +307,59 @@ Mensalidades: R$ 1.356,19 + 5x R$ 1.327,33
 
 [ ] Realizar a leitura do Projeto Pedagógico de Curso (PPC) e buscar as orientações relacionadas à metodologia de ensino.  
 
+Ver: 4.3 Metodologias - página 40 e 41
+
+- modalidade à distância: on line ou híbrida  
+- curricularização do Autoestudo: aluas invertidas (teoria em casa e prática no laboratório)  
+- metodologias ativas  
+
 [x] Escolher uma turma em que atua e brevemente relatar as características dos alunos.  
 
 Turma: Computação Gráfica
 Quantidade: 20 alunos (+/-)
 Matriz curricular, ver [BCC_Grade](2022-08-30_Aula/BCC_Grade.pdf "BCC_Grade")  
 Azul: pré-requisito  
+
+- Fase 1  
+  - Fundamentos Matemáticos: Teoria dos Conjuntos. Relações e Funções: função constante, função de primeiro grau, função do segundo grau, funções polinomiais, função exponencial, função logarítmica, **funções trigonométricas**. Análise Combinatória.  
+  - Introdução à Programação: Fundamentos da programação de computadores. Construção de algoritmos. Introdução a linguagem de programação. Comandos de controle de fluxo: seleção, repetição e sub-rotinas. Tipos estruturados: vetores. Introdução a OO: classes e objetos, atributos e métodos.  
+- Fase 2  
+  - Programação Orientação a Objetos (Marcel): Programação Orientada a Objetos: classes e objetos; atributos e métodos; encapsulamento; relacionamentos entre objetos; herança; polimorfismo; interface. UML: diagrama de classes. Testes unitários. Interface gráfica e eventos. Tratamento de exceções. Persistência. Framework de estruturas de dados.  
+- Fase 3  
+  - Algoritmos e Estruturas de Dados (Gilvan): Estruturas de dados: pilhas, filas e listas encadeadas. **Árvores** e suas generalizações: árvores binárias, árvores de busca e árvores balanceadas. Espalhamento: tabelas hash. Algoritmos para manipulação de estruturas de dados: pesquisa e ordenação.  
+- Fase 4  
+  - Teorias dos Grafos (Aurélio): Definições de grafos e suas propriedades. Modelagem. Representação de grafos. Busca em grafos. Conexidade. Ciclos e caminhos. Árvores e Coloração.  
+- Fase 5
+  - Álgebra Linear: Matrizes. Determinantes. Sistemas lineares. Vetores. Espaço Vetorial. Transformações Lineares. Estudo da reta e curvas planas.  
+  - Análise de Algoritmos: Análise de complexidade de algoritmos: notações de melhor caso, caso médio e pior caso. Classes de complexidade de problemas: P, NP e NP-completo. Implementações de paradigmas e técnicas para projeto de algoritmos.  
+- Fase 6
+  - Geometria Analítica: Retas e circunferência no R2. Estudo geral das cônicas. Retas e planos no espaço R3. Estudo das quádricas. Representação de superfícies no espaço. Sistemas de coordenadas no espaço.  
+- Fase 7  
+  - Computação Gráfica (Dalton): Conceitos básicos de Computação Gráfica: primitivas geométricas, modelagem de curvas, sistemas de cores, componentes de sistemas gráficos e programação utilizando API gráfica. Computação Gráfica 2D: representação e modelagem de objetos, transformações geométricas e processo clássico de visualização. Computação Gráfica 3D: representação e modelagem de objetos, transformações geométricas, câmera sintética, aplicação de textura e iluminação.  
+  - Processamento de Imagens (Aurélio): Fundamentos de Processamento de Imagens. Aquisição. Realce e restauração. Segmentação. Representação e descrição. Compressão. Análise e classificação.  
+- Fase 8  
+  - Realidade Virtual (Dalton): Conceitos de Realidade Virtual e Realidade Aumentada. Dispositivos e interação em ambientes virtuais e aumentados. Técnicas de modelagem de ambientes virtuais. Realidade Virtual não imersiva e imersiva. Tecnologias para desenvolvimento de ambientes virtuais e aumentados. Implementação de ambientes virtuais e aumentados.  
+- Fase 9  
+  - Trabalho de Conclusão de Curso II (Maurício)  
+
 Vermelho: atual  
 Laranja: segunda etapa  
 Verde: futuro  
 Mais ou menos a metade da turma já foram meus alunos na primeira fase do curso.  Trabalham o dia inteiro, em sua maioria na área da computação. Aceitam um pouco de atividades extra-classe (30 %). Professor de Processamento de Imagens passa várias atividades extra-classe. É necessário fazer controle de frequência senão começam a falta para ficar trabalhando na empresa. Aceitam melhor atividades práticas e trabalhos, e menos só teoria e provas. Procuro deixar um pouco diferente de Realidade Virtual (que vem na sequência).  
 
 Registrar suas reflexões sobre a avaliação do encontro.  
+
+## 2022-09-06_Aula
+
+Conhecimento Pedagógico do Conteúdo (CPC)  
+Ter mais ambiência: espaços mais "humanos" ... na Unidade 1 poderia de espaço  
+criar desafios para cada unidade com algo relacionado  
+
+1. Conhecimento do Conteúdo  
+2. Conhecimento Pedagógico Geral  
+3. 
+5
+Professor precisa ter uma interação/conhecimento da organização e gestão entre os três âmbitos (sala - microcontexto, escola - mesocontexto e comunidade - macrocontexto) relacionados aos processos administrativos.  
+
+6
+Professor precisa ter conhecimento das Diretrizes Curriculares Nacionais e trazer para o seu contexto de aula.  
