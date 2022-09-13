@@ -310,7 +310,7 @@ Mensalidades: R$ 1.356,19 + 5x R$ 1.327,33
 Ver: 4.3 Metodologias - página 40 e 41
 
 - modalidade à distância: on line ou híbrida  
-- curricularização do Autoestudo: aluas invertidas (teoria em casa e prática no laboratório)  
+- curricularização do Autoestudo: aulas invertidas (teoria em casa e prática no laboratório)  
 - metodologias ativas  
 
 [x] Escolher uma turma em que atua e brevemente relatar as características dos alunos.  
@@ -365,4 +365,21 @@ criar desafios para cada unidade com algo relacionado
 
 ### 2022-09-06_Atividade
 
-No final do slide.
+[2022-08-23_Aula](2022-09-06_Aula/2022-08-23_Aula.pdf "2022-08-23_Aula")  
+[ConhecimentoBaseParaEnsino](2022-09-06_Aula/ConhecimentoBaseParaEnsino.pdf "ConhecimentoBaseParaEnsino")  
+
+Atividades: Registrar no portfólio quais as estratégias de ensino aprendizagem que utiliza rotineiramente em suas práticas.  
+
+Introdução à Programação:  
+6 créditos na FURB - 1 crédito Autoestudo e aulas invertidas (teoria em casa e prática no laboratório).  
+Uma mini maratona de programação  
+Uso do URI  
+
+Computação Gráfica
+Modelo tradicional com uma carga média de 60% teórica e 40% prática  
+
+Realidade Virtual
+Por projetos com algumas aulas junto com outra turma (Pedagogia), três momentos de discussão do andamento do projeto e com uma mini feira no final para apresentar os projetos  
+
+Trabalho de Conclusão de Curso I
+Poucas aulas teóricas no modelo tradicional (expositiva)  
