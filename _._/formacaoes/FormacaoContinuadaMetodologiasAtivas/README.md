@@ -383,3 +383,16 @@ Por projetos com algumas aulas junto com outra turma (Pedagogia), três momentos
 
 Trabalho de Conclusão de Curso I
 Poucas aulas teóricas no modelo tradicional (expositiva)  
+
+## 2022-09-13_Aula
+
+Método do PhotoVoice: cada um escolhe uma imagem/foto para trazer para discussão. Lançar um assunto para nortear a escolha da imagem. Achar uma imagem que represente uma das áreas gráficas.  
+
+O alunos ser mais ativo e menos passivo.  
+
+Estratégias para grande grupos de alunos.  
+Se usa a mesma "situação problema" nos grupos horizontais?  
+E melhor ter grupo com mesmo tamanho para o horizontal e vertical, ou melhor ter grupos maiores no grupos horizontais?  
+
+Estratégias de ensino-aprendizagem  
+Adair Martins Pereira, Juan Díaz Bordenave  
