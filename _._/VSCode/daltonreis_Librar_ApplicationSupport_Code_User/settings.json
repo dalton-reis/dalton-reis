@@ -223,7 +223,6 @@
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
-			"workbench.colorTheme": "Monokai",
 						"git.ignoreRebaseWarning": true,
 						"encrypted-notes.timeFormat": "## \\YYYY-\\MM-\\DD - \\HH:\\mm\\n\\n",
 						"encrypted-notes.promptPassword": false,
