@@ -7,9 +7,6 @@ VI Semana do Programa de Pós-Graduação dm Química
 
 ![QRCode link Palestra Semana Química](Material/semanaQuimicaQR.png "QRCode link Palestra Semana Química")  
 
-https://is.gd/XBYclK
-
-
 ## Agenda
 
 - (50 min)
@@ -321,6 +318,10 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 [Outros Exemplos](ExemplosSoftware/ "Outros Exemplos")  
 
 ----------
+
+    Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
+
+Ciência Básica e Pesquisa para o Desenvolvimento da Sociedade
 
 ## Perguntas  
 
