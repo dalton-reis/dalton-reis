@@ -38,9 +38,10 @@ Assuntos relacionados com a área da educação
 [Pensamento Computacional na Educação Básica](<https://youtu.be/gfks3z1zsYk> "Pensamento Computacional na Educação Básica")  
 
 - Grupos de Pesquisa:  
-        [<http://gcg.inf.furb.br/>](http://gcg.inf.furb.br/ "grupo de pesquisa GCG")  
-        [<http://tecedu.inf.furb.br/>](http://tecedu.inf.furb.br/ "grupo de pesquisa TecEdu")  
-
+        [LDTT - <https://furbotldtt.wixsite.com/my-site-1>](https://furbotldtt.wixsite.com/my-site-1 "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
+        [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
+        [TecEdu - <http://tecedu.inf.furb.br/>](http://tecedu.inf.furb.br/ "grupo de pesquisa TecEdu")  
+        [GCG - <http://gcg.inf.furb.br/>](http://gcg.inf.furb.br/ "grupo de pesquisa GCG")  
 - Zotero:
         [<https://www.zotero.org/daltonreis>](https://www.zotero.org/daltonreis "Zotero")  
 
