@@ -5,7 +5,7 @@ VI Semana do Programa de Pós-Graduação dm Química
 
     Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
-![QRCode link Palestra Semana Química](Material/semanaQuimicaQR.png "QRCode link Palestra Semana Química")  
+![QRCode link Palestra Semana Química](Material/semanaQuimicaQRcode.png "QRCode link Palestra Semana Química")  
 
 ## Agenda
 
