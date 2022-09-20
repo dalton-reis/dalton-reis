@@ -42,7 +42,7 @@ Assuntos relacionados com a área da educação
         [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
         [TecEdu - <http://tecedu.inf.furb.br/>](http://tecedu.inf.furb.br/ "grupo de pesquisa TecEdu")  
         [GCG - <http://gcg.inf.furb.br/>](http://gcg.inf.furb.br/ "grupo de pesquisa GCG")  
-- Zotero:
+- Zotero bibliografias:
         [<https://www.zotero.org/daltonreis>](https://www.zotero.org/daltonreis "Zotero")  
 
 - WebPage:
