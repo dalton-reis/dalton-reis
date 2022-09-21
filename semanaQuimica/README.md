@@ -28,7 +28,7 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 - etapas: entrada, processo e saída  
 - O Metaverso é uma subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas")  
 
-![EcoSistema](Conceitos/EcoSistema.svg "EcoSistema")  
+![EcoSistema](Conceitos/EcoSistema.png "EcoSistema")  
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Termos  
