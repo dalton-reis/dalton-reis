@@ -47,7 +47,7 @@ Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das pe
     Eu já usei algo de Realidade Virtual?  
 
 Propaganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
-![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell")  
+![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell") ( 📢 )  
 
 Exemplo sensor de ré do carro com projeção de percurso virtual  
 ![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
@@ -80,7 +80,7 @@ LeapMotion - Explorando objetos virtuais: "descascador" de gatos
 ![LeapMotion_Cat](Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
 
 Alguns Trabalhos nossos usando LeapMotion  
-![2014 - Trabalho de Aula - LIFE](Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE")  
+![2014 - Trabalho de Aula - LIFE](Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE") ( 📢 )  
 
 - [2015 Julio Cesar Batista](http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_1_julio-cesar-batista_monografia.pdf "2015 Julio Cesar Batista")  
 - [2019 Matheus Adriano Pereira](https://www.furb.br/dsc/arquivos/tccs/monografias/2019_2_matheus-adriano-pereira_monografia.pdf "2019 Matheus Adriano Pereira")  
@@ -193,7 +193,7 @@ iOS Google Street View: entrada (ao vivo 😅)
 [iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
 
 Braçadeira Myo  
-![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
+![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
 
 ##### RVi - Exemplos
 
@@ -201,7 +201,7 @@ Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D
 
 A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
 
-![Usuário Imerso](Conceitos/RVi_Usuario.mov "Usuário Imerso")  
+![Usuário Imerso](Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
@@ -220,13 +220,13 @@ Alguns pontos que devem ser observados:
 ##### RA - Exemplos
 
 Rótulos de Garrafas  
-![Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
+![Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
 
 Mesa Tátil da TV Globo  
-![Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
+![Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
 Painel de Fotos com Jogadores  
-![Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
+![Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 )  
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
 ![Smartphone_Habitat_2021_2](Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
@@ -263,7 +263,7 @@ Google Glass
 ![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")  
 
 [2021 - Bruno Henrique de Borba](https://github.com/GCG-FURB/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
-![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC")  
+![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
 ![Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
 [Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
@@ -351,7 +351,7 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit, desenvolvimento Nativo) e assumi o compromisso de ser a maior plataforma de RA do Mundo. Como também a Google vem com a plataforma ARCore (desenvolvimento Nativo), e a Microsoft já alguns anos no desenvolvimento do Hololens. Ou ainda opções de desenvolvimento Multiplataforma, como: [Vuforia](https://en.wikipedia.org/wiki/Vuforia_Augmented_Reality_SDK "Vuforia") ([Vuforia SDK](https://developer.vuforia.com)) e [Unity](https://unity.com "Unity") com o [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html "AR Foundation").  
 
 Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
-![MV Apple](Conceitos/MV_Apple.mov "MV Apple").  
+![MV Apple](Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
 
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
 [MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
