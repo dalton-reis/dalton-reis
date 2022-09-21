@@ -130,7 +130,7 @@ O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em
 
 ### Tipos de Realidades Virtuais
 
-Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Aumentada, Realidades Virtual Diminuída, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
+Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades.
 
 ![TiposRealidadeVirtual](Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
 
@@ -271,10 +271,7 @@ Google Glass
 
 #### Realidade Virtual Diminuída (RD)  
 
-Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
-
-- _Observacional_ utiliza imagens pré-capturadas ou existentes do plano de fundo. Então, quando os novos elementos são adicionados em cena, as imagens de plano de fundo são utilizadas como referência para remover o objeto que “obstruiu” a imagem;  
-- _In Painting_ tenta “pintar” os objetos indesejados utilizando texturas da imagem de origem.  
+Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual").  
 
 Alguns pontos que devem ser observados com a RD:
 
@@ -349,7 +346,7 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 
 [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit, desenvolvimento Nativo) e assumi o compromisso de ser a maior plataforma de RA do Mundo. Como também a Google vem com a plataforma ARCore (desenvolvimento Nativo), e a Microsoft já alguns anos no desenvolvimento do Hololens. Ou ainda opções de desenvolvimento Multiplataforma, como: [Vuforia](https://en.wikipedia.org/wiki/Vuforia_Augmented_Reality_SDK "Vuforia") ([Vuforia SDK](https://developer.vuforia.com)) e [Unity](https://unity.com "Unity") com o [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html "AR Foundation").  
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso.  
 
 Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
 ![MV Apple](Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
@@ -369,8 +366,8 @@ Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://
 
 ##### Críticas e preocupações
 
-A privacidade das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
-O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
+A **privacidade** das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
+O *vício* do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O **transtorno do vício em Internet**, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma **'fuga' da realidade** de uma forma semelhante às tecnologias existentes da Internet.  
 O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
 
 ##### Vantagens
