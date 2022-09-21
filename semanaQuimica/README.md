@@ -14,7 +14,7 @@ Pensei em algumas perguntas para tentarmos responder
 - Será que Realidade Virtual é algo novo?  
 - Eu já usei algo de Realidade Virtual?  
 - Eu sei o que é Realidade Virtual?  
-- Qual a diferença entre Realidade Virtual e Metaverso? Hum, Metaverso é a palavra da "moda".  
+- Qual a diferença entre Realidade Virtual e Metaverso? Hum, será que Metaverso é a palavra da "moda".  
 - Onde se pode usar Realidade Virtual?  
 - Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
 - e outras perguntas de vocês no final da apresentação ... assim espero 😁  
@@ -28,9 +28,7 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 - etapas: entrada, processo e saída  
 - O Metaverso é uma subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas")  
 
-![EcoSistema](Conceitos/EcoSistema.drawio "EcoSistema")  
-
-![EcoSistema](Conceitos/EcoSistema.drawio.svg "EcoSistema")  
+![EcoSistema](Conceitos/EcoSistema.svg "EcoSistema")  
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Termos  
