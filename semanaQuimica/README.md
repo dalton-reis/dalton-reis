@@ -41,7 +41,7 @@ TODO: EcoSistema da Realidade Virtual
 
 Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais .. "- Eu já usei algo de Realidade Virtual?"  
 
-Proganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
+Propaganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
 ![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell")  
 
 Exemplo sensor de ré do carro com projeção de percurso virtual  
@@ -307,6 +307,8 @@ Para se pensar ...
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
 ![Corpo Humano](Conceitos/RM_CorpoHololens.mov "Corpo Humano")  
+
+![Aquário Virtual (ao vivo 😅)](Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")
 
 #### Realidade Virtual Alternativa  
 
