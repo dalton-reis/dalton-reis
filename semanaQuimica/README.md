@@ -52,6 +52,7 @@ Propaganda da caixa de lápis da Faber Castell com animações em Realidade Aume
 Exemplo sensor de ré do carro com projeção de percurso virtual  
 ![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
 
+Ponto de ônibus com Realidade Virtual  
 ![Ponto de ônibus com Realidade Virtual](Conceitos/PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
 ### Termos
@@ -104,7 +105,7 @@ Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "m
 
 O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
-Existem várias formas de aumentar a [Credibilidade](#credibilidade) "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
+Existem várias formas de aumentar a [Credibilidade](#credibilidade "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
 ![Truques de Ilusão de Ótica](Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
 
 Relação forte da forma como percebemos o [Mundo Real](#mundo-real "Mundo Real").  
