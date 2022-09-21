@@ -30,6 +30,14 @@ Pensei em algumas perguntas para tentarmos responder
 
 ## Conceitos
 
+Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais .. "- Eu já usei algo de Realidade Virtual?"  
+
+Proganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
+![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell")  
+
+Exemplo sensor de ré do carro com projeção de percurso virtual  
+![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
+
 O Metaverso é uam subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas").  
 
 ### Termos
@@ -50,7 +58,7 @@ Se busca por formas mais "naturais" de [Interação](#interação "Interação")
 Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
 ![TecladoVirtual](Conceitos/TecladoVirtual.png "TecladoVirtual")  
 
-Teclado Virtual - ao vivo 😅  
+Teclado Virtual (ao vivo 😅)  
 
 LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
 ![LeapMotion_Menu](Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
@@ -88,6 +96,9 @@ Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "m
 
 O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
+Existem várias formas de aumentar a [Credibilidade](#credibilidade) "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
+![Truques de Ilusão de Ótica](Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
+
 ### Linha do Tempo
 
 Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
@@ -112,7 +123,7 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 #### Realidade Virtual Imersiva (RV / RVi)
 
-A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete <!-- FIXME: link --> e luva <!-- FIXME: link --> para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
+A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
 
 Alguns pontos que devem ser observados para aumentar a [imersão](#imersão "imersão"):
 
@@ -124,9 +135,12 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 
 Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.  
 
+##### RVi - Hardwares
+
+De uma forma geral, independente de qual tipo de Realidade Virtual se pretende usar é interessante pensar como o hardware pode proporcionar entrada, processamento e saída.  
 Alguns exemplos de equipamentos usados em RVi.  
 
-##### Data Glove
+##### Data Gloves - Luvas
 
 Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e ter a sensação de tato. O LeapMotion não da retorno de tato.  
 
@@ -134,7 +148,7 @@ Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e t
 
 ![DataGlove_Articulacao](Conceitos/DataGlove_Articulacao.png "DataGlove_Articulacao")
 
-##### Head-Mounted Display
+##### Head-Mounted Display - Capacetes
 
 Conhecidos como óculos virtuais, cardboard etc.  
 
@@ -144,14 +158,31 @@ Conhecidos como óculos virtuais, cardboard etc.
 ![HMD_OculosSamsungGearVR](Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
 ![HMD_OculusHololens](Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
 ![HMD_OculusQualquer](Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
-![HMD_OculusQuest2](Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
 ![HMD_Oculus_TreinamentoParaquedas](Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
 ![HMD_Oculus_VirtuSphere](Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
 
-##### RV - Exemplos
+![HMD_OculusQuest2](Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
+
+Uso do Oculus Quest 2 por professores da FURB.  
+![HMD_Habitat_2021_2](Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
+
+Uso do Oculus Quest 2 por professores da FURB - vídeo completo.  
+[HMD_Habitat_2021_2](Conceitos/HMD_Habitat_2021_2.mp4 "HMD_Habitat_2021_2")  
+
+Uso do Oculus Quest 2 por professores da FURB - TCCs.  
+[2021 - Gabriel Garcia Salvador](https://github.com/GCG-FURB/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
+[2021 - Leonardo Rovigo](https://github.com/GCG-FURB/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
+
+##### SmartPhones
+
+Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
+
+iOS Google Street View: entrada (ao vivo 😅)  
+[iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
+
+##### RVi - Exemplos
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
-<!-- FIXME: uma imagem para RV de acordo com o texto abaixo -->
 
 A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
 
@@ -159,7 +190,7 @@ A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
-![Usuário Diversão - Tato](./RealidadeVirtual_imgs/RVi_Diversao.png "Usuário Diversão")  
+![Usuário Diversão - Tato](Conceitos/RVi_Diversao.png "Usuário Diversão")  
 
 #### Realidade Virtual Aumentada (RA)  
 
@@ -169,14 +200,38 @@ Alguns pontos que devem ser observados:
 
 - mistura do virtual com real;  
 - único sentido: do virtual para real ou real para virtual (mais comum);  
-- necessidade de marcadores <!-- FIXME: link --> (âncoras) no [mundo real](#mundo-real "mundo real").  
+- necessidade de marcadores (âncoras) no [mundo real](#mundo-real "mundo real").  
 
 ##### RA - Exemplos
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
-- [Mesa Tátil da TV Globo](./RealidadeVirtual_imgs/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
-- [Painel de Fotos com Jogadores](./RealidadeVirtual_imgs/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
-- [Rótulos de Garrafas](./RealidadeVirtual_imgs/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
+- [Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
+- [Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
+- [Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
+
+FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
+![Smartphone_Habitat_2021_2](Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
+[2021 - Bruno Geiser Vigentas](https://github.com/GCG-FURB/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
+
+Caixa E-Água - Caixa de Areia Interativa
+
+[http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html](http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html "http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html")  
+
+[LCC - SARndbox](https://www10.furb.br/manuais/manual-caixa-de-areia.php "LCC - SARndbox")  
+Projeto realizado com base nos projetos Caixa E-Água e da University of California.  
+
+Algumas momentos da Caixa E-Água
+
+![CaixaEAgua_LIFE_maos](Conceitos/CaixaEAgua_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
+![CaixaEAgua_LIFE_pessoas](Conceitos/CaixaEAgua_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
+
+[Mais da Caixa E-Água](CaixaEAgua "Mais da Caixa E-Água")  
+
+[Home Design](https://apps.apple.com/br/app/home-design-3d/id463768717https://apps.apple.com/br/app/home-design-3d/id463768717 "Home Design") (ao vivo 😅)  
+
+FES - Sistema Solar (ao vivo 😅)  
+
+[2017 - Evandro Matheus Schmitz](https://www.furb.br/dsc/arquivos/tccs/monografias/2017_1_evandro-matheus_monografia.pdf "2017 - Evandro Matheus Schmitz")  
 
 #### Realidade Virtual Diminuída  
 
@@ -198,10 +253,10 @@ Remoção de objetos com um fundo complexo - [Chroma Key](<https://pt.wikipedia.
 ![Objetos Removidos - Pessoa](./RealidadeVirtual_imgs/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
 
 Remoção de objetos usando tablet em ambiente não estruturado.  
-![Objetos Removidos - Tablet](./RealidadeVirtual_imgs/RD_Tablet.mov "Objetos Removidos - Tablet")  
+![Objetos Removidos - Tablet](Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
 
 Remoção de objetos com seleção de região ([Region Of Interest - ROI](<https://en.wikipedia.org/wiki/Region_of_interest> "Region Of Interest - ROI")) em ambiente não estruturado.  
-![Objetos Removidos Externo](./RealidadeVirtual_imgs/RD_Externo.mov "Objetos Removidos Externo")  
+![Objetos Removidos Externo](Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
 
 #### Realidade Virtual Misturada
 
@@ -216,7 +271,7 @@ Alguns pontos que devem ser observados:
 Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
 
 <!-- [TODO: figura não aparece na Web qdo uso Areas.drawio.svg] -->  
-![Realidade Misturada](./RealidadeVirtual_imgs/RM.svg "Realidade Misturada")  
+![Realidade Misturada](Conceitos/RM.svg "Realidade Misturada")  
 
 A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
 
@@ -227,8 +282,7 @@ Para se pensar ...
 ##### RM - Exemplos
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
-![Corpo Humano](./RealidadeVirtual_imgs/RM_CorpoHololens.mov "Corpo Humano")  
-Para saber mais [(05/04/2022) O que é realidade misturada?](<https://docs.microsoft.com/pt-br/windows/mixed-reality/discover/mixed-reality> "O que é realidade misturada?").  
+![Corpo Humano](Conceitos/RM_CorpoHololens.mov "Corpo Humano")  
 
 #### Realidade Virtual Alternativa  
 
@@ -241,31 +295,31 @@ Alguns pontos que devem ser observados:
 
 ##### RAl - Exemplos
 
-Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se via pessoas explorando o [mundo real](#mundo-real "mundo real") em busca de "recompensas" do [mundo virtual](#mundo-virtual "mundo virtual"). A RAl pode promover além do entretenimento, outras funcionalidades, por exemplo, "construir algo" com o apoio do coletivo (gratuito). Um exemplo desta "construção" coletiva são as estatísticas de transito no Aplicativo de navegação [Waze](<https://pt.wikipedia.org/wiki/Waze> "Waze").  
+Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se via pessoas explorando o [mundo real](#mundo-real "mundo real") em busca de "recompensas" do [mundo virtual](#mundo-virtual "mundo virtual"). A RAl pode promover além do entretenimento, outras funcionalidades, por exemplo, "construir algo" com o apoio do coletivo (gratuito). Um exemplo desta "construção" coletiva são as estatísticas de transito no Aplicativo de navegação [Waze](https://pt.wikipedia.org/wiki/Waze "Waze").  
 
 - [Pokemon GO - Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokemon GO - Pokéball Plus")  
 
 #### Metaverso  
 
-Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](<https://en.wikipedia.org/wiki/VRChat> "VRChat"), [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life"), [Roblox](<https://pt.wikipedia.org/wiki/Roblox> "Roblox"), [Fortnite](<https://pt.wikipedia.org/wiki/Fortnite> "Fortnite"), [Facebook Meta](<https://about.facebook.com/br/meta/> "Facebook Meta"), entre outros.  
+Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
 
-[Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](<https://pt.wikipedia.org/wiki/Second_Life> "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
+[Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit, desenvolvimento Nativo) e assumi o compromisso de ser a maior plataforma de RA do Mundo. Como também a Google vem com a plataforma ARCore (desenvolvimento Nativo), e a Microsoft já alguns anos no desenvolvimento do Hololens. Ou ainda opções de desenvolvimento Multiplataforma, como: [Vuforia](<https://en.wikipedia.org/wiki/Vuforia_Augmented_Reality_SDK> "Vuforia") ([Vuforia SDK](<https://developer.vuforia.com>)) e [Unity](<https://unity.com> "Unity") com o [AR Foundation](<https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html> "AR Foundation").  
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso. Por exemplo, em 2017 na [WorldWide Developers Conference (WWDC)](<https://developer.apple.com/videos/wwdc2017/> "WorldWide Developers Conference (WWDC)") a Apple apresenta sua plataforma de RA (ARKit, desenvolvimento Nativo) e assumi o compromisso de ser a maior plataforma de RA do Mundo. Como também a Google vem com a plataforma ARCore (desenvolvimento Nativo), e a Microsoft já alguns anos no desenvolvimento do Hololens. Ou ainda opções de desenvolvimento Multiplataforma, como: [Vuforia](https://en.wikipedia.org/wiki/Vuforia_Augmented_Reality_SDK "Vuforia") ([Vuforia SDK](https://developer.vuforia.com)) e [Unity](https://unity.com "Unity") com o [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html "AR Foundation").  
 
 Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
-![MV Apple](RealidadeVirtual_imgs/MV_Apple.mov "MV Apple").  
+![MV Apple](Conceitos/MV_Apple.mov "MV Apple").  
 
-Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](<https://globoplay.globo.com/v/10807963/> "https://globoplay.globo.com/v/10807963/")).  
-[MV Cirurgia Avatar](RealidadeVirtual_imgs/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
+Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
+[MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
-Oportunidade de Pesquisa - Simulação Virtual de Saúde - [E-Mail 2022-2](RealidadeVirtual_imgs/Bolsas__Fapesp_2022-2.pdf "E-Mail 2022-2")  
+[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex "Desfile de moda no Metaverso - Febratex")  
 
 ##### Metaverso - Para saber mais
 
 - 09/02/2022: Os Metaversos e a transformação das Instituições Educacionais  
-  - [Apresentação](<https://youtu.be/PkWr7KhD44Q> "Apresentação")  
-  - [Material](<https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf> "Material")  
+  - [Apresentação](https://youtu.be/PkWr7KhD44Q "Apresentação")  
+  - [Material](https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf "Material")  
 
 - 17/12/2021: [Onde Você Vai Viver e Trabalhar em Breve](<https://youtu.be/IqTC4lsxNfk> "Onde Você Vai Viver e Trabalhar em Breve")  
 
@@ -275,32 +329,9 @@ A privacidade das informações no Metaverso é uma área de preocupação porqu
 O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
 O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
 
-#### Estereoscopia
+##### Vantagens
 
-Como um dos principais sentidos explorado nas [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a [Realidade Virtual Imersiva - RVi](#realidade-virtual-imersiva-rv--rvi "Realidade Virtual Imersiva - RVi") se tem a Estereoscopia.
-
-Estereoscopia é uma técnica usada para se obter informações do espaço tridimensional, através da análise de duas imagens obtidas em pontos diferentes.
-
-![Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas](./RealidadeVirtual_imgs/EstereoscopioBolso.png "Estereoscópio de bolso com imagem de teste original usado por militares para examinar pares estereoscópicos de fotografias aéreas")  
-
-A percepção de imagem estereoscópica pode ser obtida naturalmente através da disparidade na retina humana quando se olha para objetos reais do cotidiano. Ou imagens estéreo geradas por computador, em que a disparidade entre as imagens, é conhecida como paralaxe. O efeito paralaxe também pode ser reconstruído através de softwares 3D, como por exemplo o Blender, 3DSMax, Cinema4D ou Maya.
-
-As vezes além do efeito Estereoscópio se usa alguns "truques" de Ilusão de Ótica.  
-![Truques de Ilusão de Ótica](./RealidadeVirtual_imgs/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
-Alguns exemplos de videos com o efeito Estereoscópio podem ser vistos em: [Projeção 3D](../Unidade2/ExemplosHardware/ExemplosExternos/Projetor3D "Projeção 3D").  
-
-Estes exemplos são considerados como Estereoscópica Ativa, pois precisam de equipamentos especiais para gerar o efeito Paralaxe.
-Uma solução de muito mais baixo custo, mas com resultados mais simples são os considerados de Estereoscópica Passiva, como por exemplo os [Anaglifo](#anaglifo "Anaglifo").  
-
-##### Anaglifo
-
-Anáglifo é uma imagem (ou um vídeo) formatada de maneira especial para fornecer um efeito tridimensional estereoscópico quando visto com óculos de duas cores (cada lente com uma cor diferente). A imagem é formada por duas camadas de cor sobrepostas, mas com uma pequena distância entre as duas para produzir um efeito de profundidade, na mente de quem observa. O processo se dá quando as diferentes imagens são filtradas, uma para cada olho. Quando vista através de um filtro especial (no caso, os óculos), a imagem revela o efeito estereoscópico, parecendo "saltar" do plano em que estão (papel, TV, etc.).
-
-Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo](#anaglifo "Anaglifo").  
-![Exemplo imagem Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Imagem.png "Exemplo imagem Anaglifo")  
-
-O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
-![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
+Sem limites de distâncias, escala, tempo etc no mundo virtual.  
 
 ## Para saber mais
 
@@ -332,6 +363,10 @@ Eu irei se tudo der certo 😁 ...
   Data: 24/10 a 27/10  
   Formato: presencial - Natal, RN  
 
+## Mais Exemplos
+
+[Mais Exemplos](MaisExemplos "Mais Exemplos")  
+
 ## Perguntas  
 
 ![Perguntas online](Conceitos/semanaQuimicaPerguntas.png "Perguntas online")  
@@ -346,7 +381,6 @@ Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistaga
 
  
  Que usamos no dia a dia
-Sensor de ré estacionamento
 Lápis Faber Castell Filho
  
  Internos<!-- Aquário Althof (pegar o fisico), TCC Folhas Robert, TCCs Óculus Quest Arleide, Casa 3D, Street view, teclado laser LeapMotion, sistema solar  -->
@@ -354,3 +388,7 @@ Lápis Faber Castell Filho
  Externos: operação Metaverso, Desfile de moda, Mesa Tátil da Globo, Garrafa de Bebida, Painel do Estadio de Futebol Americano
 Painel de Carro da Mercedes
 Video Martha do óculos RV (promessa) Qualcom
+
+LDTT pegar o aquário
+Ver senão tem no LDTT - Pegar no LIFE um HMD burro com controle
+imprimir um marcador maior da terra (A4)
