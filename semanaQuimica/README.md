@@ -53,7 +53,7 @@ Exemplo sensor de ré do carro com projeção de percurso virtual
 ![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
 
 Ponto de ônibus com Realidade Virtual  
-![Ponto de ônibus com Realidade Virtual](Conceitos/PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
+![Ponto de ônibus com Realidade Virtual](Conceitos/RA_PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
 ### Termos
 
