@@ -133,6 +133,8 @@ O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em
 
 Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades: Realidades Virtual (Imersiva), Realidades Virtual Aumentada, Realidades Virtual Diminuída, Realidades Virtual Misturada, Realidades Virtual Alternativa e Metaverso.
 
+![TiposRealidadeVirtual](Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
+
 #### Realidade Virtual Imersiva (RV / RVi)
 
 A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
@@ -268,7 +270,7 @@ Google Glass
 ![Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
 [Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
 
-#### Realidade Virtual Diminuída  
+#### Realidade Virtual Diminuída (RD)  
 
 Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
 
@@ -293,7 +295,7 @@ Remoção de objetos usando tablet em ambiente não estruturado.
 Remoção de objetos com seleção de região ([Region Of Interest - ROI](https://en.wikipedia.org/wiki/Region_of_interest "Region Of Interest - ROI")) em ambiente não estruturado.  
 ![Objetos Removidos Externo](Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
 
-#### Realidade Virtual Misturada
+#### Realidade Virtual Misturada (RM)  
 
 Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".  
 
@@ -320,7 +322,7 @@ Material da Microsoft promovendo o uso do Hololens - Corpo Humano.
 
 ![Aquário Virtual (ao vivo 😅)](Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")
 
-#### Realidade Virtual Alternativa  
+#### Realidade Virtual Alternativa (RAl)  
 
 Combinação de situações do virtual com o real.
 
