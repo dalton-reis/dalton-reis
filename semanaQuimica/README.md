@@ -266,7 +266,7 @@ Google Glass
 [2021 - Bruno Henrique de Borba](https://github.com/GCG-FURB/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
 ![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
-![Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
+[Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
 [Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
 
 #### Realidade Virtual Diminuída (RD)  
@@ -426,4 +426,4 @@ Aos Grupos de Pesquisa
 
 Curiosidade ...
 Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistagalileu.globo.com/Ciencia/noticia/2018/12/escritorio-de-bill-gates-tem-parede-com-todos-os-elementos-quimicos.html "tabela periódica") em seu escritório em Seattle.  
-![tabela periódica](Conceitos/BillGatesTabelaPeriodica.png "tabela periódica")  
+![tabela periódica](Conceitos/BillGatesTabelaPeriodicaQ.png "tabela periódica")  
