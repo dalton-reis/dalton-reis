@@ -219,7 +219,8 @@ Alguns pontos que devem ser observados:
 
 ##### RA - Exemplos
 
-- [Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
+Rótulos de Garrafas  
+![Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
 
 Mesa Tátil da TV Globo  
 ![Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
