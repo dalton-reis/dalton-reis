@@ -21,7 +21,14 @@ Pensei em algumas perguntas para tentarmos responder
 
 ## Agenda
 
-Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Realidade Virtual.  
+Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Realidade Virtual. Alguns pontos que devem ser observados:
+
+- preocupação com dados modelos gráficos (geração de dados virtuais gráficos)  
+- avanços de hardware e software  
+- etapas: entrada, processo e saída  
+- O Metaverso é uma subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas")  
+
+TODO: EcoSistema da Realidade Virtual  
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Termos  
@@ -40,7 +47,7 @@ Proganda da caixa de lápis da Faber Castell com animações em Realidade Aument
 Exemplo sensor de ré do carro com projeção de percurso virtual  
 ![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
 
-O Metaverso é uam subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas").  
+![Ponto de ônibus com Realidade Virtual](Conceitos/PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
 ### Termos
 
@@ -49,8 +56,6 @@ Alguns [termos](#termos "termos") importantes para área da Realidade Virtual.
 #### Imersão
 
 Sentimento de estar-se dentro do ambiente.  
-TODO:Ex.: usuário usando controle do Joystick
-TODO:Ex.: pessoa berrando em um simulado com RVi
 
 #### Interação
 
@@ -68,7 +73,8 @@ LeapMotion - Alternativas de [Interação](#interação "Interação") usando fo
 LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
 ![LeapMotion_Cat](Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
 
-Alguns Trabalhos nossos usando LeapMotion:
+Alguns Trabalhos nossos usando LeapMotion  
+![2014 - Trabalho de Aula - LIFE](Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE")  
 
 - [2015 Julio Cesar Batista](http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_1_julio-cesar-batista_monografia.pdf "2015 Julio Cesar Batista")  
 - [2019 Matheus Adriano Pereira](https://www.furb.br/dsc/arquivos/tccs/monografias/2019_2_matheus-adriano-pereira_monografia.pdf "2019 Matheus Adriano Pereira")  
@@ -85,11 +91,6 @@ Mundo físico onde vivemos.
 
 Mundo modelado virtualmente por modelos de computação gráfica que podem simular o [mundo real](#mundo-real "mundo real").  
 
-<!--
-Qualidade da representação gráfica - Render
-![CGqualidadeGrafica](Conceitos/CGqualidadeGrafica.mp4 "CGqualidadeGrafica")  
--->
-
 #### Ancora RA
 
 Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")). Este processo pode ser com pré-calibragem, usando um marcador do mundo real, ou processado em tempo real usando objeto reais dinâmicos. É considerado um dos processos mais importante para aumentar a [imersão](#imersão "imersão") do usuário, fazendo ele acreditar que o objeto virtual realmente existe no [mundo real](#mundo-real "mundo real"). Além de garantir o posicionamento do objeto virtual no [mundo real](#mundo-real "mundo real"), que pode ser mais complicado com mudanças constantes de posicionamento dos objetos do [mundo real](#mundo-real "mundo real"), como também considerando a mudança do próprio observador. Ou ainda, aumentando mais a complexidade se for considerado as mudanças de iluminação, entre outros aspectos do [mundo real](#mundo-real "mundo real").
@@ -100,6 +101,9 @@ O quanto algo pode ser considerado crível, quando algo virtual é apresentado c
 
 Existem várias formas de aumentar a [Credibilidade](#credibilidade) "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
 ![Truques de Ilusão de Ótica](Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
+
+Relação forte da forma como percebemos o [Mundo Real](#mundo-real "Mundo Real").  
+Sentidos humanos: visão, audição, tato, olfato e paladar.  
 
 ### Linha do Tempo
 
@@ -175,12 +179,14 @@ Uso do Oculus Quest 2 por professores da FURB - TCCs.
 [2021 - Gabriel Garcia Salvador](https://github.com/GCG-FURB/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
 [2021 - Leonardo Rovigo](https://github.com/GCG-FURB/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
 
-##### SmartPhones
+##### SmartPhones e outros
 
 Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
 
 iOS Google Street View: entrada (ao vivo 😅)  
 [iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
+
+![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
 
 ##### RVi - Exemplos
 
@@ -235,6 +241,22 @@ FES - Sistema Solar (ao vivo 😅)
 
 [2017 - Evandro Matheus Schmitz](https://www.furb.br/dsc/arquivos/tccs/monografias/2017_1_evandro-matheus_monografia.pdf "2017 - Evandro Matheus Schmitz")  
 
+##### RA - Hardwares
+
+Google Glass  
+![Google Glass](Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
+
+[Novo Google Glass](https://olhardigital.com.br/2019/05/20/noticias/google-anuncia-oculos-de-realidade-aumentada-com-visual-mais-comum/ "Novo Google Glass")  
+
+[LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
+![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")  
+
+[2021 - Bruno Henrique de Borba](https://github.com/GCG-FURB/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
+![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC")  
+
+![Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
+[Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
+
 #### Realidade Virtual Diminuída  
 
 Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual"). Dois tipos de RD são:  
@@ -251,13 +273,13 @@ experiência de [imersão](#imersão "imersão") maior;
 
 ##### RD - Exemplos
 
-Remoção de objetos com um fundo complexo - [Chroma Key](<https://pt.wikipedia.org/wiki/Chroma_key> "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
-![Objetos Removidos - Pessoa](./RealidadeVirtual_imgs/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
+Remoção de objetos com um fundo complexo - [Chroma Key](https://pt.wikipedia.org/wiki/Chroma_key "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
+![Objetos Removidos - Pessoa](Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
 
 Remoção de objetos usando tablet em ambiente não estruturado.  
 ![Objetos Removidos - Tablet](Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
 
-Remoção de objetos com seleção de região ([Region Of Interest - ROI](<https://en.wikipedia.org/wiki/Region_of_interest> "Region Of Interest - ROI")) em ambiente não estruturado.  
+Remoção de objetos com seleção de região ([Region Of Interest - ROI](https://en.wikipedia.org/wiki/Region_of_interest "Region Of Interest - ROI")) em ambiente não estruturado.  
 ![Objetos Removidos Externo](Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
 
 #### Realidade Virtual Misturada
@@ -301,6 +323,13 @@ Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se vi
 
 - [Pokemon GO - Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokemon GO - Pokéball Plus")  
 
+##### RAl - Hardwares
+
+Beacons - iBeacons  
+![iBeacon_FURB](Conceitos/iBeacon_FURB.png "iBeacon_FURB")  
+
+![iBeacon_AirTag](Conceitos/iBeacon_AirTag.png "iBeacon_AirTag")  
+
 #### Metaverso  
 
 Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
@@ -315,7 +344,7 @@ Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo v
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
 [MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
-[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex "Desfile de moda no Metaverso - Febratex")  
+[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
 
 ##### Metaverso - Para saber mais
 
@@ -344,7 +373,7 @@ Principal evento Nacional sobre Realidade Virtual
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
-  Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
+  Livro do Simpósio: [Introdução aos Conceitos de RV](ParaSaberMais/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
 
 - 00:00:00 [Abertura do Evento](<https://youtu.be/LU-LJUo6fyA> "Abertura do Evento")  
 - 00:12:56 [Conceitos sobre RV e RA (Romeu Tori)](<https://youtu.be/LU-LJUo6fyA?t=772> "Conceitos sobre RV e RA (Romeu Tori)")  
@@ -365,6 +394,8 @@ Eu irei se tudo der certo 😁 ...
   Data: 24/10 a 27/10  
   Formato: presencial - Natal, RN  
 
+<!-- TODO: ## Material relacionado a Química  -->  
+
 ## Mais Exemplos
 
 [Mais Exemplos](MaisExemplos "Mais Exemplos")  
@@ -380,17 +411,3 @@ Eu irei se tudo der certo 😁 ...
 Curiosidade ...
 Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistagalileu.globo.com/Ciencia/noticia/2018/12/escritorio-de-bill-gates-tem-parede-com-todos-os-elementos-quimicos.html "tabela periódica") em seu escritório em Seattle.  
 ![tabela periódica](Conceitos/BillGatesTabela.png "tabela periódica")  
-
- 
- Que usamos no dia a dia
-Lápis Faber Castell Filho
- 
- Internos<!-- Aquário Althof (pegar o fisico), TCC Folhas Robert, TCCs Óculus Quest Arleide, Casa 3D, Street view, teclado laser LeapMotion, sistema solar  -->
- 
- Externos: operação Metaverso, Desfile de moda, Mesa Tátil da Globo, Garrafa de Bebida, Painel do Estadio de Futebol Americano
-Painel de Carro da Mercedes
-Video Martha do óculos RV (promessa) Qualcom
-
-LDTT pegar o aquário
-Ver senão tem no LDTT - Pegar no LIFE um HMD burro com controle
-imprimir um marcador maior da terra (A4)
