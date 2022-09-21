@@ -21,10 +21,12 @@ Pensei em algumas perguntas para tentarmos responder
 
 ## Agenda
 
+Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Realidade Virtual.  
+
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
-- Conceitos  
+- Termos  
 - Linha do Tempo  
-- Exemplos Internos
+- Tipos de Realidades Virtuais
 - Exemplos Externos  
 - Perguntas  
 
