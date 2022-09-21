@@ -5,27 +5,31 @@ VI Semana do Programa de Pós-Graduação em Química
 
     Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
-![QRCode link Palestra Semana Química](Material/semanaQuimicaQRcode.png "QRCode link Palestra Semana Química")  
+![QRCode link Palestra Semana Química](Conceitos/semanaQuimicaQRcode.png "QRCode link Palestra Semana Química")  
+
+## Inquietações
+
+Pensei em algumas perguntas para tentarmos responder  
+
+- Será que Realidade Virtual é algo novo?  
+- Eu já usei algo de Realidade Virtual?  
+- Eu sei o que é Realidade Virtual?  
+- Qual a diferença entre Realidade Virtual e Metaverso? Hum, Metaverso é a palavra da "moda".  
+- Onde se pode usar Realidade Virtual?  
+- Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
+- e outras perguntas de vocês no final da apresentação ... assim espero 😁  
 
 ## Agenda
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Conceitos  
 - Linha do Tempo  
-- Exemplos Gerais <!-- Aquário Althof, TCC Folhas Robert, TCCs Óculus Quest Arleide -->
-- Exemplos na Química  
+- Exemplos Internos
+- Exemplos Externos  
 - Perguntas  
 
 ## Conceitos
 
-### Perguntas que iremos tentar responder
-
-- Será que Realidade Virtual é algo novo?  
-- Eu já usei algo de Realidade Virtual?  
-- Eu sei o que é Realidade Virtual?  
-- Qual a diferença entre Realidade Virtual e Metaverso?  
-- Onde se pode usar Realidade Virtual?  
-- Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
 
 ### Termos
 
@@ -256,9 +260,11 @@ O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#
 <!--  FIXME: mais tipos, imagens para cada tipo. TCC do Evandro Schimit  -->
 Também existe classificações para os tipos de visualizações usadas em RV: Video See-Through, Optical See-Through, Projetiva ... e outras.  
 
-### SVR - Para saber mais
+## Para saber mais
 
-#### 2020 - Symposium on Virtual and Augmented Reality - SVR
+Principal evento Nacional sobre Realidade Virtual  
+
+### 2020 - Symposium on Virtual and Augmented Reality - SVR
 
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
@@ -278,21 +284,31 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 
 #### 2022 - Symposium on Virtual and Augmented Reality - SVR
 
-Eu irei se tudo der certo 😁 ...
+Eu irei se tudo der certo 😁 ...  
 
-  http://www.natalnet.br/svr2022/  
+  <http://www.natalnet.br/svr2022/>  
   Data: 24/10 a 27/10  
-  Formato: presencial - Natal, RN
-
-----------
-
-    Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
-
-Ciência Básica e Pesquisa para o Desenvolvimento da Sociedade
+  Formato: presencial - Natal, RN  
 
 ## Perguntas  
 
-Usar alguma ferramenta para o pessoal poder postar perguntas online anonimas .. exibir URLShort e QRCode
-- Na Web: <https://keep.google.com>  
-- No Android: <https://g.co/keep>  
-- No Google Chrome: <https://g.co/keepinchrome>  
+![Perguntas online](Conceitos/semanaQuimicaPerguntas.png "Perguntas online")  
+
+<!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
+
+## Agradecimento
+
+Curiosidade ...
+Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistagalileu.globo.com/Ciencia/noticia/2018/12/escritorio-de-bill-gates-tem-parede-com-todos-os-elementos-quimicos.html "tabela periódica") em seu escritório em Seattle.  
+![tabela periódica](Conceitos/BillGatesTabela.png "tabela periódica")  
+
+ 
+ Que usamos no dia a dia
+Sensor de ré estacionamento
+Lápis Faber Castell Filho
+ 
+ Internos<!-- Aquário Althof (pegar o fisico), TCC Folhas Robert, TCCs Óculus Quest Arleide, Casa 3D, Street view, teclado laser LeapMotion, sistema solar  -->
+ 
+ Externos: operação Metaverso, Desfile de moda, Mesa Tátil da Globo, Garrafa de Bebida, Painel do Estadio de Futebol Americano
+Painel de Carro da Mercedes
+Video Martha do óculos RV (promessa) Qualcom
