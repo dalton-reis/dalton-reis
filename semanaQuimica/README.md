@@ -65,8 +65,7 @@ Sentimento de estar-se dentro do ambiente.
 
 #### Interação
 
-Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele.  
-Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
+Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele. Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
 
 Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
 ![TecladoVirtual](Conceitos/TecladoVirtual.png "TecladoVirtual")  
