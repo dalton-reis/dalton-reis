@@ -42,7 +42,9 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 
 ## Conceitos
 
-Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais .. "- Eu já usei algo de Realidade Virtual?"  
+Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais .. 
+
+  "- Eu já usei algo de Realidade Virtual?"  
 
 Propaganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
 ![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell")  
