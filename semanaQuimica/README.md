@@ -422,7 +422,7 @@ Eu irei se tudo der certo 😁 ...
 ## Agradecimento
 
 Aos Grupos de Pesquisa  
-![Logo_LDTT](Conceitos/Logo_LDTT.png "Logo_LDTT")  ![Logo_Habitat](Conceitos/Logo_Habitat.png "Logo_Habitat")  
+![Logo_LDTT](Conceitos/LogoA_LDTT.png "Logo_LDTT")  ![Logo_Habitat](Conceitos/LogoA_Habitat.png "Logo_Habitat")  
 
 Curiosidade ...
 Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistagalileu.globo.com/Ciencia/noticia/2018/12/escritorio-de-bill-gates-tem-parede-com-todos-os-elementos-quimicos.html "tabela periódica") em seu escritório em Seattle.  
