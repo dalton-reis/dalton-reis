@@ -1,7 +1,7 @@
 # Semana da Química - 2022
 
 XXVI Semana Acadêmica do Curso de Química da FURB  
-VI Semana do Programa de Pós-Graduação dm Química  
+VI Semana do Programa de Pós-Graduação em Química  
 
     Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
@@ -9,35 +9,36 @@ VI Semana do Programa de Pós-Graduação dm Química
 
 ## Agenda
 
-- (50 min)
-  - Quem sou eu: [https://github.com/dalton-reis/dalton-reis/blob/main/README.md](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "https://github.com/dalton-reis/dalton-reis/blob/main/README.md")  
-  - (20 min) Conceitos  
-  - (10 min) Linha do Tempo  
-  - (10 min) Exemplos Gerais <!-- Aquário Althof, TCC Folhas Robert, TCCs Óculus Quest Arleide -->
-  - (10 min) Exemplos na Química  
-  (10 min) Perguntas
+- Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
+- Conceitos  
+- Linha do Tempo  
+- Exemplos Gerais <!-- Aquário Althof, TCC Folhas Robert, TCCs Óculus Quest Arleide -->
+- Exemplos na Química  
+- Perguntas  
 
 ## Conceitos
 
-- Introdução a Realidade Virtual  
-  - História, evolução e futuro  
-  - Conceitos gerais  
-  - Principais áreas da Realidade Virtual: Realidade Virtual Imersiva, Realidade Aumentada, Realidade Diminuída, Realidade Misturada, Realidade Alternativa e Metaverso  
-  - Exemplos de aplicações de Realidade Virtual: conhecer conceitos gerais sobre Realidade Virtual  
+### Perguntas que iremos tentar responder
 
-## Conceitos: Realidade Virtual (RV)
-
-No momento atual muito se fala de Realidade Virtual, se divagando entre vários [Termos](#termos "Termos"), vendendo como algo novo e se fazendo promessas futuras ([História](#história "História")), e se misturando conceitos já solidificados na área (Tipos de [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") e de [Visualizações](#tipos-de-visualizações "Visualizações")). Então vamos passar por estes tópicos para entender um pouco este contexto que está na "modinha".  
+- Será que Realidade Virtual é algo novo?  
+- Eu já usei algo de Realidade Virtual?  
+- Eu sei o que é Realidade Virtual?  
+- Qual a diferença entre Realidade Virtual e Metaverso?  
+- Onde se pode usar Realidade Virtual?  
+- Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
 
 ### Termos
 
 #### Imersão
 
 Sentimento de estar-se dentro do ambiente.  
+Ex.: usuário usando controle do Joystick
+Ex.: pessoa berrando em um simulado com RVi
 
 #### Interação
 
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele.  
+Videos do LeapMotion
 
 #### Envolvimento
 
@@ -50,6 +51,7 @@ Mundo físico onde vivemos.
 #### Mundo Virtual
 
 Mundo modelado virtualmente por modelos de computação gráfica que podem simular o [mundo real](#mundo-real "mundo real").  
+-- Video do cabeça de CG ... qualidade gráfica
 
 #### Ancora RA
 
@@ -64,16 +66,16 @@ O quanto algo pode ser considerado crível, quando algo virtual é apresentado c
 Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
 
 **Sensorama** - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em **1962** por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
-![Sensorama](./RealidadeVirtual_imgs/Historia_Sensorama.png "Sensorama")  
+![Sensorama](LinhaTempo/Sensorama.png "Sensorama")  
 
 Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet** was made in **1967**.  
-![Helmet](./RealidadeVirtual_imgs/Historia_Helmet.png "Helmet")  
+![Helmet](LinhaTempo/Helmet.png "Helmet")  
 
 Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia (AZUMA, 1995, p. 1). Como outras tecnologias a Realidade Aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (_tracking_) (EKENGREN, 2009, p. 5) (HÖLLERER; FEINER, 2004, p. 2).  
-![Ivan Sutherland](./RealidadeVirtual_imgs/Historia_IvanSutherland.png "Ivan Sutherland")  
+![Ivan Sutherland](LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
 
-Equipamento para Visão Estereoscópica <!-- FIXME: link para explicação sobre visão estereoscópica --> usado no Brasil na época colonial no **museu de Curitiba - PR**.  
-![Museu Curitiba](./RealidadeVirtual_imgs/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
+Equipamento para Visão Estereoscópica usado no Brasil na época colonial no **museu de Curitiba - PR**.  
+![Museu Curitiba](LinhaTempo/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
 
@@ -222,24 +224,6 @@ A privacidade das informações no Metaverso é uma área de preocupação porqu
 O vício do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O transtorno do vício em Internet, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma 'fuga' da realidade de uma forma semelhante às tecnologias existentes da Internet.  
 O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
 
-#### Interface de Usuário Tangível (IUT)
-
-Um conjunto de componentes que auxiliam na [interação](#interação "interação") entre um humano e um computador de maneira tangível, ou seja, através do ambiente físico.  
-
-Então, "como percebemos o mundo a nossa volta" ... qual "Interface" é utilizada?  
-![Percepção do usuário](./RealidadeVirtual_imgs/UsuarioSentidos.drawio.svg "Percepção do usuário")  
-
-A IUT explora a relação entre as **camadas** Humano (usuário), Hardware e Software para permitir "manipular" a [Imersão](#imersão "imersão"), [Interação](#interação "interação") e [Envolvimento](#envolvimento "envolvimento") (os pilares das Realidades Virtuais) do usuário entre o [Mundo Real](#mundo-real "mundo real") e [Mundo Virtual](#mundo-virtual "mundo virtual"). A ideia de "manipular" a percepção dos sentidos é algo muito antigo, e essencial para maximar os pilares das Realidades.  
-
-Uma macro visão deste processo de [Interação](#interação "Interação") usando a relação Homem x Hardware x Software pode ser observado neste diagrama abaixo.  
-![Interface - camadas](./RealidadeVirtual_imgs/IUT_Interface.png "Interface - camadas")  
-
-#### Sensores e Atuadores
-
-- Tipos: Ativos e Passivos  
-- Ativos estão se transformando em passivos  
-- Ajudam na ancoragem  
-
 #### Estereoscopia
 
 Como um dos principais sentidos explorado nas [Realidades Virtuais](#tipos-de-realidades-virtuais "Realidades Virtuais") é a visão, nos leva a alguns conceitos relacionados a este sentido. E principalmente para a [Realidade Virtual Imersiva - RVi](#realidade-virtual-imersiva-rv--rvi "Realidade Virtual Imersiva - RVi") se tem a Estereoscopia.
@@ -274,33 +258,12 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 
 ### SVR - Para saber mais
 
-#### Symposium on Virtual and Augmented Reality - SVR
+#### 2020 - Symposium on Virtual and Augmented Reality - SVR
 
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
   Livro do Simpósio: [Introdução aos Conceitos de RV](./RealidadeVirtual_imgs/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
-
-| Assunto | Página |  
-|---------|----:|  
-| Capítulo 15 - Saúde | 316 |  
-| 15.1 Introdução | 316 |  
-| 15.2 Simulação Cirúrgica | 317 |  
-| 15.2.1 Simulador de Cirurgia de Catarata | 318 |  
-| 15.2.2 Simulador de videolaparoscopia | 320 |  
-| 15.2.3 Considerações Finais | 323 |  
-| 15.3 Treinamento virtual em saúde | 323 |  
-| 15.3.1. Requisitos | 324 |  
-| 15.3.2. Framework ViMeT (Virtual Medical Training) | 325 |  
-| 15.3.3 Teste de aplicações de Realidade Virtual | 327 |  
-| 15.4 Explorando técnicas de Inteligência Artificial em Ambientes Virtuais para Reabilitação Cognitiva | 330 |  
-| 15.5 Ensino, Avaliação e Ferramentas para RV em Saúde | 334 |  
-| 15.5.1. Aplicações Voltadas ao Ensino e à Reabilitação | 334 |  
-| 15.5.2 Avaliação Automática de Habilidades | 336 |  
-| 15.6 Ambientes Virtuais Tridimensionais Aplicados como Brinquedo Terapêutico | 340 |  
-| 15.7 Uso da Realidade Virtual na Psicoterapia | 347 |  
-| 15.8 Tendências e oportunidades | 350 |  
-| Referências | 351 |  
 
 - 00:00:00 [Abertura do Evento](<https://youtu.be/LU-LJUo6fyA> "Abertura do Evento")  
 - 00:12:56 [Conceitos sobre RV e RA (Romeu Tori)](<https://youtu.be/LU-LJUo6fyA?t=772> "Conceitos sobre RV e RA (Romeu Tori)")  
@@ -313,9 +276,13 @@ Também existe classificações para os tipos de visualizações usadas em RV: V
 - 02:23:00 [Perguntas e Respostas](<https://youtu.be/LU-LJUo6fyA?t=8583> "Perguntas e Respostas")  
 - 02:44:00 Encerramento
 
-#### Mais exemplos
+#### 2022 - Symposium on Virtual and Augmented Reality - SVR
 
-[Outros Exemplos](ExemplosSoftware/ "Outros Exemplos")  
+Eu irei se tudo der certo 😁 ...
+
+  http://www.natalnet.br/svr2022/  
+  Data: 24/10 a 27/10  
+  Formato: presencial - Natal, RN
 
 ----------
 
