@@ -30,19 +30,38 @@ Pensei em algumas perguntas para tentarmos responder
 
 ## Conceitos
 
+O Metaverso é uam subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas").  
 
 ### Termos
+
+Alguns [termos](#termos "termos") importantes para área da Realidade Virtual.  
 
 #### Imersão
 
 Sentimento de estar-se dentro do ambiente.  
-Ex.: usuário usando controle do Joystick
-Ex.: pessoa berrando em um simulado com RVi
+TODO:Ex.: usuário usando controle do Joystick
+TODO:Ex.: pessoa berrando em um simulado com RVi
 
 #### Interação
 
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele.  
-Videos do LeapMotion
+Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
+
+Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
+![TecladoVirtual](Conceitos/TecladoVirtual.png "TecladoVirtual")  
+
+Teclado Virtual - ao vivo 😅  
+
+LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
+![LeapMotion_Menu](Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
+
+LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
+![LeapMotion_Cat](Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
+
+Alguns Trabalhos nossos usando LeapMotion:
+
+- [2015 Julio Cesar Batista](http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_1_julio-cesar-batista_monografia.pdf "2015 Julio Cesar Batista")  
+- [2019 Matheus Adriano Pereira](https://www.furb.br/dsc/arquivos/tccs/monografias/2019_2_matheus-adriano-pereira_monografia.pdf "2019 Matheus Adriano Pereira")  
 
 #### Envolvimento
 
@@ -55,21 +74,25 @@ Mundo físico onde vivemos.
 #### Mundo Virtual
 
 Mundo modelado virtualmente por modelos de computação gráfica que podem simular o [mundo real](#mundo-real "mundo real").  
--- Video do cabeça de CG ... qualidade gráfica
+
+<!--
+Qualidade da representação gráfica - Render
+![CGqualidadeGrafica](Conceitos/CGqualidadeGrafica.mp4 "CGqualidadeGrafica")  
+-->
 
 #### Ancora RA
 
-Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")). Este processo pode ser com pré-calibragem, usando um marcador <!-- link marcador --> do mundo real, ou processado em tempo real usando objeto reais dinâmicos. É considerado um dos processos mais importante para aumentar a [imersão](#imersão "imersão") do usuário, fazendo ele acreditar que o objeto virtual realmente existe no [mundo real](#mundo-real "mundo real"). Além de garantir o posicionamento do objeto virtual no [mundo real](#mundo-real "mundo real"), que pode ser mais complicado com mudanças constantes de posicionamento dos objetos do [mundo real](#mundo-real "mundo real"), como também considerando a mudança do próprio observador. Ou ainda, aumentando mais a complexidade se for considerado as mudanças de iluminação, entre outros aspectos do [mundo real](#mundo-real "mundo real").
+Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")). Este processo pode ser com pré-calibragem, usando um marcador do mundo real, ou processado em tempo real usando objeto reais dinâmicos. É considerado um dos processos mais importante para aumentar a [imersão](#imersão "imersão") do usuário, fazendo ele acreditar que o objeto virtual realmente existe no [mundo real](#mundo-real "mundo real"). Além de garantir o posicionamento do objeto virtual no [mundo real](#mundo-real "mundo real"), que pode ser mais complicado com mudanças constantes de posicionamento dos objetos do [mundo real](#mundo-real "mundo real"), como também considerando a mudança do próprio observador. Ou ainda, aumentando mais a complexidade se for considerado as mudanças de iluminação, entre outros aspectos do [mundo real](#mundo-real "mundo real").
 
 #### Credibilidade
 
 O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
-### História
+### Linha do Tempo
 
 Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
 
-**Sensorama** - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em **1962** por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para <!-- FIXME: link para explicação sobre visão estereoscópica --> visão estereoscópica.  
+**Sensorama** - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em **1962** por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
 ![Sensorama](LinhaTempo/Sensorama.png "Sensorama")  
 
 Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet** was made in **1967**.  
@@ -101,6 +124,30 @@ A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para
 
 Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.  
 
+Alguns exemplos de equipamentos usados em RVi.  
+
+##### Data Glove
+
+Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e ter a sensação de tato. O LeapMotion não da retorno de tato.  
+
+![DataGlove_PowerGlove](Conceitos/DataGlove_PowerGlove.png "DataGlove_PowerGlove")  
+
+![DataGlove_Articulacao](Conceitos/DataGlove_Articulacao.png "DataGlove_Articulacao")
+
+##### Head-Mounted Display
+
+Conhecidos como óculos virtuais, cardboard etc.  
+
+![HMD_LynxR1](Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
+![HMD_OculosGoogleCardBoard](Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
+![HMD_OculosRift](Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
+![HMD_OculosSamsungGearVR](Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
+![HMD_OculusHololens](Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
+![HMD_OculusQualquer](Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
+![HMD_OculusQuest2](Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
+![HMD_Oculus_TreinamentoParaquedas](Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
+![HMD_Oculus_VirtuSphere](Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
+
 ##### RV - Exemplos
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
@@ -108,7 +155,7 @@ Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D
 
 A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
 
-![Usuário Imerso](./RealidadeVirtual_imgs/RVi_Usuario.mov "Usuário Imerso")  
+![Usuário Imerso](Conceitos/RVi_Usuario.mov "Usuário Imerso")  
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
@@ -254,11 +301,6 @@ Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo]
 
 O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
-
-### Tipos de Visualizações
-
-<!--  FIXME: mais tipos, imagens para cada tipo. TCC do Evandro Schimit  -->
-Também existe classificações para os tipos de visualizações usadas em RV: Video See-Through, Optical See-Through, Projetiva ... e outras.  
 
 ## Para saber mais
 
