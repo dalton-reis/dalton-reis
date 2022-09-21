@@ -164,12 +164,12 @@ Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e t
 
 Conhecidos como óculos virtuais, cardboard etc.  
 
+![HMD_OculusQualquer](Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
 ![HMD_LynxR1](Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
-![HMD_OculosGoogleCardBoard](Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
 ![HMD_OculosRift](Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
+![HMD_OculosGoogleCardBoard](Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
 ![HMD_OculosSamsungGearVR](Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
 ![HMD_OculusHololens](Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
-![HMD_OculusQualquer](Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
 ![HMD_Oculus_TreinamentoParaquedas](Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
 ![HMD_Oculus_VirtuSphere](Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
 
