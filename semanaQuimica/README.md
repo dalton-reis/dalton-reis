@@ -19,7 +19,7 @@ Pensei em algumas perguntas para tentarmos responder
 - Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
 - e outras perguntas de vocês no final da apresentação ... assim espero 😁  
 
-## Agenda
+## Pontos importantes
 
 Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Realidade Virtual. Alguns pontos que devem ser observados:
 
@@ -29,6 +29,8 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 - O Metaverso é uma subárea dentro da Realidade Virtual. Realidade Virtual abrange várias [subáreas](#tipos-de-realidades-virtuais "subáreas")  
 
 ![EcoSistema](Conceitos/EcoSistema.png "EcoSistema")  
+
+## Agenda
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Termos  
