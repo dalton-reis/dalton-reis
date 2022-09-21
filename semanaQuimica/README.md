@@ -42,7 +42,7 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 
 ## Conceitos
 
-Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais .. 
+Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das perguntas iniciais ...  
 
     Eu já usei algo de Realidade Virtual?  
 
