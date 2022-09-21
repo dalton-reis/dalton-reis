@@ -120,7 +120,7 @@ Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e I
 Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet** was made in **1967**.  
 ![Helmet](LinhaTempo/Helmet.png "Helmet")  
 
-Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia (AZUMA, 1995, p. 1). Como outras tecnologias a Realidade Aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (_tracking_) (EKENGREN, 2009, p. 5) (HÖLLERER; FEINER, 2004, p. 2).  
+Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia. Como outras tecnologias a Realidade Aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (_tracking_).  
 ![Ivan Sutherland](LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
 
 Equipamento para Visão Estereoscópica usado no Brasil na época colonial no **museu de Curitiba - PR**.  
