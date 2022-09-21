@@ -157,9 +157,9 @@ Alguns exemplos de equipamentos usados em RVi.
 
 Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e ter a sensação de tato. O LeapMotion não da retorno de tato.  
 
-![DataGlove_PowerGlove](Conceitos/DataGlove_PowerGlove.png "DataGlove_PowerGlove")  
+![DataGlove_PowerGlove](Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
 
-![DataGlove_Articulacao](Conceitos/DataGlove_Articulacao.png "DataGlove_Articulacao")
+![DataGlove_Articulacao](Conceitos/DataGloves_Articulacao.png "DataGlove_Articulacao")
 
 ##### Head-Mounted Display - Capacetes
 
@@ -426,4 +426,4 @@ Aos Grupos de Pesquisa
 
 Curiosidade ...
 Bill Gates (fundador da Microsoft) tem uma [tabela periódica](https://revistagalileu.globo.com/Ciencia/noticia/2018/12/escritorio-de-bill-gates-tem-parede-com-todos-os-elementos-quimicos.html "tabela periódica") em seu escritório em Seattle.  
-![tabela periódica](Conceitos/BillGatesTabela.png "tabela periódica")  
+![tabela periódica](Conceitos/BillGatesTabelaPeriodica.png "tabela periódica")  
