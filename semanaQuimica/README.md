@@ -36,7 +36,8 @@ Demonstrar alguns conceitos e exemplos relacionados com a **grande área** da Re
 - Termos  
 - Linha do Tempo  
 - Tipos de Realidades Virtuais
-- Exemplos Externos  
+- Para saber mais
+- Mais Exemplos  
 - Perguntas  
 
 ## Conceitos
