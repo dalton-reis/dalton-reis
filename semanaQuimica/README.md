@@ -221,8 +221,10 @@ Alguns pontos que devem ser observados:
 
 <!-- TODO: diminuir tamanho do arquivo para ser exibido direto no Browser -->  
 - [Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")( 📢 ).  
-- [Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
 - [Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 ).  
+
+Painel de Fotos com Jogadores  
+![Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 ).  
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
 ![Smartphone_Habitat_2021_2](Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
@@ -301,7 +303,6 @@ Alguns pontos que devem ser observados:
 
 Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
 
-<!-- [TODO: figura não aparece na Web qdo uso Areas.drawio.svg] -->  
 ![Realidade Misturada](Conceitos/RM.svg "Realidade Misturada")  
 
 A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
