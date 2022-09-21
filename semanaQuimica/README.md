@@ -242,8 +242,8 @@ Projeto realizado com base nos projetos Caixa E-Água e da University of Califor
 
 Algumas momentos da Caixa E-Água
 
-![CaixaEAgua_LIFE_maos](Conceitos/CaixaEAgua_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
-![CaixaEAgua_LIFE_pessoas](Conceitos/CaixaEAgua_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
+![CaixaEAgua_LIFE_maos](Conceitos/CaixaEAguaFURB_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
+![CaixaEAgua_LIFE_pessoas](Conceitos/CaixaEAguaFURB_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
 
 [Mais da Caixa E-Água](CaixaEAgua "Mais da Caixa E-Água")  
 
