@@ -1,0 +1,204 @@
+# Interação FURB
+
+![Logo_Interacao](Logo_Interacao.png "Logo_Interacao")  
+
+    Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
+
+## Agenda
+
+- Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
+- Linha do Tempo  
+- Tipos de Realidades Virtuais e Metaverso  
+- Material completa (consultar)  
+- Perguntas  
+
+## Linha do Tempo
+
+**Sensorama** - espécie de cabine **1962**  
+![Sensorama](../semanaQuimica/LinhaTempo/Sensorama.png "Sensorama")  
+
+Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet - 1967**  
+![Helmet](../semanaQuimica/LinhaTempo/Helmet.png "Helmet")  
+
+Sistema criado por **Ivan Sutherland - 1968**  
+![Ivan Sutherland](../semanaQuimica/LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
+
+## Tipos de Realidades Virtuais
+
+![TiposRealidadeVirtual](../semanaQuimica/Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
+
+### Realidade Virtual Imersiva (RV / RVi)
+
+A RV classificada pelo nível de interação
+
+- não-imersiva (somente RV): usuário é transportado para o domínio da aplicação parcialmente, interagindo com um mundo virtual sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção  
+- imersiva: usuário é transportado para o domínio da aplicação de RV (capacete/visão e luva/tato) para se ter a sensação de estar dentro de um mundo virtual  
+
+Alguns pontos que devem ser observados para aumentar a imersão:  
+
+- representar do mundo virtual que permita a imersão do usuário (quanto mais crível melhor)  
+TODO: mostrar video olho CG
+- controlar os “sentidos” proporciona imersão (mais comum: visão e tato)  
+- poder interagir ou não com o que vê ao seu redor  
+
+Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi  
+
+#### RVi - Hardwares
+
+Alguns exemplos de equipamentos usados em RVi  
+
+##### Data Gloves - Luvas
+
+![DataGlove_PowerGlove](../semanaQuimica/Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
+
+![DataGlove_Articulacao](../semanaQuimica/Conceitos/DataGloves_Articulacao.png "DataGlove_Articulacao")
+
+Teclado Virtual - Alternativas de Interação usando formas tradicionais  
+![TecladoVirtual](../semanaQuimica/Conceitos/TecladoVirtual.png "TecladoVirtual")  
+
+LeapMotion - Alternativas de Interação usando formas **não** tradicionais  
+![LeapMotion_Menu](../semanaQuimica/Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
+
+LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
+![LeapMotion_Cat](../semanaQuimica/Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
+
+Teclado Virtual (ao vivo 😅)  
+
+LeapMotion (ao vivo 😅)  
+
+##### Head-Mounted Display - Capacetes
+
+Conhecidos como óculos virtuais, cardboard etc.  
+
+![HMD_OculusQualquer](../semanaQuimica/Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
+![HMD_LynxR1](../semanaQuimica/Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
+![HMD_OculosRift](../semanaQuimica/Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
+![HMD_OculosGoogleCardBoard](../semanaQuimica/Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
+![HMD_OculosSamsungGearVR](../semanaQuimica/Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
+![HMD_OculusHololens](../semanaQuimica/Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
+![HMD_Oculus_TreinamentoParaquedas](../semanaQuimica/Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
+![HMD_Oculus_VirtuSphere](../semanaQuimica/Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
+
+![HMD_OculusQuest2](../semanaQuimica/Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
+
+Uso do Oculus Quest 2 por professores da FURB.  
+![HMD_Habitat_2021_2](../semanaQuimica/Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
+
+##### SmartPhones e outros
+
+Uma das grande limitações atuais é gerar espaços virtuais (Mundo Virtual) para ser usado na área da Realidade Virtual.  
+
+iOS Google Street View: entrada (ao vivo 😅)  
+[iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
+
+Braçadeira Myo  
+![Braçadeira Myo](../semanaQuimica/Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
+
+##### RVi - Exemplos
+
+Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a imersão deste usuário.  
+
+A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
+
+![Usuário Imerso](../semanaQuimica/Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
+
+Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
+
+![Usuário Diversão - Tato](../semanaQuimica/Conceitos/RVi_Diversao.png "Usuário Diversão")  
+
+### Realidade Virtual Aumentada (RA)  
+
+Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
+
+Alguns pontos que devem ser observados:
+
+- mistura do virtual com real;  
+- único sentido: do virtual para real ou real para virtual (mais comum);  
+- necessidade de marcadores (âncoras) no [mundo real](#mundo-real "mundo real").  
+
+A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
+
+#### RA - Exemplos
+
+Rótulos de Garrafas  
+![Rótulos de Garrafas](../semanaQuimica/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
+
+Mesa Tátil da TV Globo  
+![Mesa Tátil da TV Globo](../semanaQuimica/Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
+
+Painel de Fotos com Jogadores  
+![Painel de Fotos com Jogadores](../semanaQuimica/Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 )  
+
+Caixa E-Água - Caixa de Areia Interativa
+
+[http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html](http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html "http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html")  
+
+Caixa E-Água - Caixa de Areia Interativa (ao vivo 😅)  
+
+[Home Design](https://apps.apple.com/br/app/home-design-3d/id463768717https://apps.apple.com/br/app/home-design-3d/id463768717 "Home Design") (ao vivo 😅)  
+
+FES - Sistema Solar (ao vivo 😅)  
+
+![Aquário Virtual (ao vivo 😅)](../semanaQuimica/Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")  
+
+##### RA - Hardwares
+
+Google Glass  
+![Google Glass](../semanaQuimica/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
+
+[LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
+![LiDAR_Web](../semanaQuimica/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
+
+![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](../semanaQuimica/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
+
+[Qualcomm Snapdragon XR2 5G Platform - Local](../semanaQuimica/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
+[Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
+
+#### Metaverso  
+
+Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
+
+[Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
+
+Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso.  
+
+Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
+![MV Apple](Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
+
+Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
+[MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
+
+[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
+
+##### Metaverso - Para saber mais
+
+- 09/02/2022: Os Metaversos e a transformação das Instituições Educacionais  
+  - [Apresentação](https://youtu.be/PkWr7KhD44Q "Apresentação")  
+  - [Material](https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf "Material")  
+
+- 17/12/2021: [Onde Você Vai Viver e Trabalhar em Breve](<https://youtu.be/IqTC4lsxNfk> "Onde Você Vai Viver e Trabalhar em Breve")  
+
+##### Críticas e preocupações
+
+A **privacidade** das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
+O *vício* do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O **transtorno do vício em Internet**, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma **'fuga' da realidade** de uma forma semelhante às tecnologias existentes da Internet.  
+O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
+
+##### Vantagens
+
+Sem limites de distâncias, escala, tempo etc no mundo virtual.  
+
+## Para saber mais
+
+[Palestra Semana Acadêmica de Química](../semanaQuimica "Palestra Semana Acadêmica de Química")  
+
+## Perguntas  
+
+![Perguntas online](../semanaQuimica/Conceitos/semanaQuimicaPerguntas.png "Perguntas online")  
+
+<!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
+
+## Agradecimento
+
+Aos Grupos de Pesquisa  
+![Logo_LDTT](../semanaQuimica/Conceitos/LogoA_LDTT.png "Logo_LDTT")  ![Logo_Habitat](../semanaQuimica/Conceitos/LogoA_Habitat.png "Logo_Habitat")  
