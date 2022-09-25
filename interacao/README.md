@@ -96,27 +96,27 @@ Braçadeira Myo
 
 ### RVi - Exemplos
 
-Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a imersão deste usuário.  
+Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a imersão deste usuário  
 
-A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
+A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 )  
 
 ![Usuário Imerso](../semanaQuimica/Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
 
-Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
+Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato  
 
 ![Usuário Diversão - Tato](../semanaQuimica/Conceitos/RVi_Diversao.png "Usuário Diversão")  
 
 ## Realidade Virtual Aumentada (RA)  
 
-Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
+Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D  
 
 Alguns pontos que devem ser observados:
 
-- mistura do virtual com real;  
-- único sentido: do virtual para real ou real para virtual (mais comum);  
-- necessidade de marcadores (âncoras) no mundo real.  
+- mistura do virtual com real  
+- único sentido: do virtual para real ou real para virtual (mais comum)  
+- necessidade de marcadores (âncoras) no mundo real  
 
-A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
+A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação  
 
 ### RA - Hardwares
 
@@ -154,19 +154,31 @@ FES - Sistema Solar (ao vivo 😅)
 
 ![Aquário Virtual (ao vivo 😅)](../semanaQuimica/Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")  
 
-## Metaverso  
+## Metaverso (MV)  
 
-Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
+Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**  
 
-[Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
+Alguns de MV exemplos são os jogos:  
 
-Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso.  
+- [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat")  
+- [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life")  
+- [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox")  
+- [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite")  
 
-Usando iPad em jogo de RA registrando um mundo virtual no mundo real (mesa) permitindo a interação entre dois jogadores.  
+[Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** com o propósito de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas  
+
+<!-- TODO:  confirmar ano da WWDC e colocar link da WWDC-->
+- Apple WWDC de **2020** anunciou que vai ser a maior plataforma de RA  
+- Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta  
+- Windows em **2022** comprou empresa de Metaverso AltVR Space](<https://altvr.com> "AltVR Space")  
+
+### MV - Exemplos
+
+Usando iPad em jogo de RA registrando um mundo virtual no mundo real (mesa) permitindo a interação entre dois jogadores  
 ![MV Apple](../semanaQuimica/Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
 
-Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
-[MV Cirurgia Avatar](../semanaQuimica/Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
+Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/"))  
+[MV Cirurgia Avatar](../semanaQuimica/Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar")  
 
 [Desfile de moda no Metaverso - Febratex](../semanaQuimica/Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
 
