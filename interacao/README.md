@@ -37,7 +37,6 @@ A RV classificada pelo nível de interação
 Alguns pontos que devem ser observados para aumentar a imersão:  
 
 - representar do mundo virtual que permita a imersão do usuário (quanto mais crível melhor)  
-TODO: mostrar video olho CG
 - controlar os “sentidos” proporciona imersão (mais comum: visão e tato)  
 - poder interagir ou não com o que vê ao seu redor  
 
