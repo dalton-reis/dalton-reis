@@ -85,10 +85,10 @@ Uso do Oculus Quest 2 por professores da FURB.
 
 #### SmartPhones e outros
 
-Uma das grande limitações atuais é gerar espaços virtuais (Mundo Virtual) para ser usado na área da Realidade Virtual.  
+Uma das grande limitações atuais é gerar espaços virtuais (Mundo Virtual) para ser usado na área da Realidade Virtual  
 
-iOS Google Street View: entrada (ao vivo 😅)  
 [iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
+iOS Google Street View: entrada (ao vivo 😅)  
 
 Braçadeira Myo  
 ![Braçadeira Myo](../semanaQuimica/Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
@@ -166,7 +166,7 @@ Alguns de MV exemplos são os jogos:
 <!-- TODO:  confirmar ano da WWDC e colocar link da WWDC-->
 - Apple WWDC de **2020** anunciou que vai ser a maior plataforma de RA  
 - Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta  
-- Windows em **2022** comprou empresa de Metaverso AltVR Space](<https://altvr.com> "AltVR Space")  
+- Windows em **2022** comprou empresa de Metaverso [AltVR Space](<https://altvr.com> "AltVR Space")  
 
 ### MV - Exemplos
 
