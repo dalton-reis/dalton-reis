@@ -1,6 +1,6 @@
 # Interação FURB
 
-![Logo_Interacao](Logo_Interacao.png "Logo_Interacao")  
+![interacaoQRcode](interacaoQRcode.png "interacaoQRcode")  
 
     Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
@@ -9,7 +9,7 @@
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
 - Linha do Tempo  
 - Tipos de Realidades Virtuais e Metaverso  
-- Material completa (consultar)  
+- Material completa  
 - Perguntas  
 
 ## Linha do Tempo
@@ -27,7 +27,7 @@ Sistema criado por **Ivan Sutherland - 1968**
 
 ![TiposRealidadeVirtual](../semanaQuimica/Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
 
-### Realidade Virtual Imersiva (RV / RVi)
+## Realidade Virtual Imersiva (RV / RVi)
 
 A RV classificada pelo nível de interação
 
@@ -43,11 +43,11 @@ TODO: mostrar video olho CG
 
 Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi  
 
-#### RVi - Hardwares
+### RVi - Hardwares
 
 Alguns exemplos de equipamentos usados em RVi  
 
-##### Data Gloves - Luvas
+#### Data Gloves - Luvas
 
 ![DataGlove_PowerGlove](../semanaQuimica/Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
 
@@ -66,7 +66,7 @@ Teclado Virtual (ao vivo 😅)
 
 LeapMotion (ao vivo 😅)  
 
-##### Head-Mounted Display - Capacetes
+#### Head-Mounted Display - Capacetes
 
 Conhecidos como óculos virtuais, cardboard etc.  
 
@@ -84,7 +84,7 @@ Conhecidos como óculos virtuais, cardboard etc.
 Uso do Oculus Quest 2 por professores da FURB.  
 ![HMD_Habitat_2021_2](../semanaQuimica/Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
 
-##### SmartPhones e outros
+#### SmartPhones e outros
 
 Uma das grande limitações atuais é gerar espaços virtuais (Mundo Virtual) para ser usado na área da Realidade Virtual.  
 
@@ -94,7 +94,7 @@ iOS Google Street View: entrada (ao vivo 😅)
 Braçadeira Myo  
 ![Braçadeira Myo](../semanaQuimica/Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
 
-##### RVi - Exemplos
+### RVi - Exemplos
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a imersão deste usuário.  
 
@@ -106,7 +106,7 @@ Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equ
 
 ![Usuário Diversão - Tato](../semanaQuimica/Conceitos/RVi_Diversao.png "Usuário Diversão")  
 
-### Realidade Virtual Aumentada (RA)  
+## Realidade Virtual Aumentada (RA)  
 
 Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter interação em "tempo real" e usar o espaço 3D.  
 
@@ -114,11 +114,24 @@ Alguns pontos que devem ser observados:
 
 - mistura do virtual com real;  
 - único sentido: do virtual para real ou real para virtual (mais comum);  
-- necessidade de marcadores (âncoras) no [mundo real](#mundo-real "mundo real").  
+- necessidade de marcadores (âncoras) no mundo real.  
 
 A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a interação com o mundo virtual, de maneira mais natural e sem necessidade de treinamento ou adaptação.  
 
-#### RA - Exemplos
+### RA - Hardwares
+
+Google Glass  
+![Google Glass](../semanaQuimica/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
+
+[LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
+![LiDAR_Web](../semanaQuimica/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
+
+![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](../semanaQuimica/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
+
+[Qualcomm Snapdragon XR2 5G Platform - Local](../semanaQuimica/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
+[Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
+
+### RA - Exemplos
 
 Rótulos de Garrafas  
 ![Rótulos de Garrafas](../semanaQuimica/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
@@ -141,52 +154,26 @@ FES - Sistema Solar (ao vivo 😅)
 
 ![Aquário Virtual (ao vivo 😅)](../semanaQuimica/Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")  
 
-##### RA - Hardwares
+## Metaverso  
 
-Google Glass  
-![Google Glass](../semanaQuimica/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
-
-[LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](../semanaQuimica/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
-
-![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](../semanaQuimica/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
-
-[Qualcomm Snapdragon XR2 5G Platform - Local](../semanaQuimica/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
-[Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
-
-#### Metaverso  
-
-Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
+Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros. Mais recente, aquisição da [AltVR Space](https://altvr.com "AltVR Space") pela Microsoft.  
 
 [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
 
 Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso.  
 
-Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
-![MV Apple](Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
+Usando iPad em jogo de RA registrando um mundo virtual no mundo real (mesa) permitindo a interação entre dois jogadores.  
+![MV Apple](../semanaQuimica/Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
 
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
-[MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
+[MV Cirurgia Avatar](../semanaQuimica/Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
-[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
+[Desfile de moda no Metaverso - Febratex](../semanaQuimica/Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
 
-##### Metaverso - Para saber mais
+### Preocupações - Vantagens  
 
-- 09/02/2022: Os Metaversos e a transformação das Instituições Educacionais  
-  - [Apresentação](https://youtu.be/PkWr7KhD44Q "Apresentação")  
-  - [Material](https://3af732ee-100e-4457-9aaf-d3efd60d40f3.usrfiles.com/ugd/3af732_210b882240434c72ad66e42a30b9f28e.pdf "Material")  
-
-- 17/12/2021: [Onde Você Vai Viver e Trabalhar em Breve](<https://youtu.be/IqTC4lsxNfk> "Onde Você Vai Viver e Trabalhar em Breve")  
-
-##### Críticas e preocupações
-
-A **privacidade** das informações no Metaverso é uma área de preocupação porque as empresas envolvidas provavelmente coletarão informações pessoais dos usuários por meio de dispositivos móveis, vestíveis e interações com os usuários. O Facebook está planejando persistir em publicidade direcionada dentro do Metaverso, levantando mais preocupações relacionadas à disseminação de desinformação e perda de privacidade pessoal.  
-O *vício* do usuário e o uso problemático das mídias sociais são outra preocupação para o desenvolvimento do Metaverso. O **transtorno do vício em Internet**, mídia social e vício em videogame podem ter repercussões mentais e físicas por um período prolongado de tempo, como depressão, ansiedade e obesidade. Os especialistas também estão preocupados que o Metaverso possa ser usado como uma **'fuga' da realidade** de uma forma semelhante às tecnologias existentes da Internet.  
-O Metaverso pode ampliar os impactos sociais das câmaras de eco online e dos espaços alienantes digitalmente. Uma vez que os desenvolvimentos do Metaverso podem ser feitos para adaptar os mundos virtuais algoritmicamente com base nas crenças de cada pessoa. O Metaverso pode distorcer ainda mais as percepções dos usuários sobre a realidade com conteúdo tendencioso para manter ou aumentar o [envolvimento](#envolvimento "envolvimento").  
-
-##### Vantagens
-
-Sem limites de distâncias, escala, tempo etc no mundo virtual.  
+- preocupações: privacidade, transtorno do vício em Internet, fuga da realidade etc  
+- vantagens: sem limites de distâncias, escala, tempo etc no mundo virtual  
 
 ## Para saber mais
 
