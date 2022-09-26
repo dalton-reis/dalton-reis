@@ -103,7 +103,7 @@ Uma das grande limitações atuais é gerar espaços virtuais (Mundo Virtual) pa
 iOS Google Street View: entrada (ao vivo 😅)  
 
 Braçadeira Myo  
-![Braçadeira Myo](../semanaQuimica/Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
+![Braçadeira Myo](../semanaQuimica/Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
 
 ### RVi - Exemplos
 
@@ -132,8 +132,7 @@ Google Glass
 ![Google Glass](../semanaQuimica/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
 
 [LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](../semanaQuimica/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
-
+![LiDAR_Web](../semanaQuimica/Conceitos/LiDAR_Web.mov "LiDAR_Web")
 ![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](../semanaQuimica/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
 [Qualcomm Snapdragon XR2 5G Platform - Local](../semanaQuimica/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  

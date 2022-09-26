@@ -194,7 +194,7 @@ iOS Google Street View: entrada (ao vivo 😅)
 [iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
 
 Braçadeira Myo  
-![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo") ( 📢 )  
+![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
 
 ##### RVi - Exemplos
 
@@ -261,8 +261,7 @@ Google Glass
 [Novo Google Glass](https://olhardigital.com.br/2019/05/20/noticias/google-anuncia-oculos-de-realidade-aumentada-com-visual-mais-comum/ "Novo Google Glass")  
 
 [LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")  
-
+![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")
 [2021 - Bruno Henrique de Borba](https://github.com/GCG-FURB/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
 ![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
