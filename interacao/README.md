@@ -3,11 +3,22 @@
 <!-- interacao@furb.br -->  
 <!-- WhatsApp: 99923-7955 -->  
 
+<!-- Fazer:
+ - está na rede cabeada?
+ - o MacBook criou uma rede?
+ - está projetando (HMDI/VGA)?
+ - o iPhone está na mesma rede do MacBook
+ - testar se funciona o compartilhamento de tela com iPhone?
+ - Tocar música: https://music.apple.com/br/playlist/palestra/pl.u-ovdau0PMe0V?l=en
+-->
+
 # Interação FURB
 
 ![interacaoQRcode](interacaoQRcode.png "interacaoQRcode")  
 
     Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
+    
+    Prof. Dalton Reis - Computação
 
 ## Agenda
 
@@ -208,6 +219,11 @@ Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://
 ![Perguntas online](../semanaQuimica/Conceitos/semanaQuimicaPerguntas.png "Perguntas online")  
 
 <!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
+
+## Nossos cursos  
+
+- [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
+- [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
 
 ## Agradecimento
 
