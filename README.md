@@ -76,6 +76,7 @@ Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):
 ## Markdown
 
 - https://www.markdownguide.org  
+- https://daringfireball.net/projects/markdown/  
 - https://github.github.com/gfm/  
 
 ## GitHub
