@@ -226,5 +226,7 @@
 						"git.ignoreRebaseWarning": true,
 						"encrypted-notes.timeFormat": "## \\YYYY-\\MM-\\DD - \\HH:\\mm\\n\\n",
 						"encrypted-notes.promptPassword": false,
-						"workbench.colorTheme": "Visual Studio Light"
+												"workbench.colorTheme": "Visual Studio Light",
+												"window.zoomLevel": 1,
+												"markdown.validate.enabled": true
 }
