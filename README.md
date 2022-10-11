@@ -85,6 +85,8 @@ Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):
 
 ----
 
+![Simpsons_Couch-Gag-iPhone](_._/Simpsons_Couch-Gag-iPhone.mov "Simpsons_Couch-Gag-iPhone")  
+
 ## WakaTime
 
 ![DashBoard](https://wakatime.com/share/@dalton_reis/bdb5b58b-d49f-4716-8757-bcf4995b4cf6.svg "DashBoard")  
