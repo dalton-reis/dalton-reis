@@ -1,12 +1,9 @@
-# ERES
+# ERES 2022
 
-## Acesso à rede wireless - FURB
+## Acesso à Programação
 
-- Rede......: furb.br
-- Usuário...: evt54
-- Senha.....: 6eres2022!
+<https://eres-sbc-br.github.io/eres2022/programacao/>
 
-Dúvidas:  
-<https://www10.furb.br/manuais/manual-wifi-furb.php>
+![eres](eres.png "eres")  
 
-![eresWiFi](eresWiFi.png "eresWiFi")  
+Seja bem vindo !  
