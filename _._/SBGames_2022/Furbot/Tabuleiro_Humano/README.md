@@ -33,5 +33,5 @@ Integração com o robô físico no tabuleiro com o jogo virtual.
 
 ### Site
 
-FURBOT - <www.furb.br/furbot>  
+FURBOT - www.furb.br/furbot  
 ![QRCode_Furbot](QRCode_Furbot.png "QRCode_Furbot")  
