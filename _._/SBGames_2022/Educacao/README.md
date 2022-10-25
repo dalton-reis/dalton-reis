@@ -1,6 +1,6 @@
 # Artigos
 
-## ## 2022-10-24 - 10:01
+## 2022-10-24 - 10:01
 
 [Tutoriais](tutoriais/README.md "Tutoriais")  
 
@@ -62,6 +62,8 @@ Coletânea de resultados de análise sobre os jogos no SBGames.
 
 Autores: Marcos de Assumpção (Universidade Estadual de Maringá), Maurilio Campano Junior ** (Universidade Estadual de Maringa), Alan Felinto (Universidade Estadual de Londrina), Linnyer Ruiz (UEM)  
 
+- [Turing](#226065-turing-machine-game-simulator-um-jogo-educativo-para-ensino-de-máquina-de-turing-guilherme-henrique-santana-centro-universitário-unicesumar)  
+
 Circuitos Digitais e Arquitetura de Computadores  
 
 Exemplos de jogos:
@@ -86,3 +88,71 @@ Autores: Jonathan Batista (Universidade Federal do Rio Grande do Norte), Joeld
 
 Elementos de gamificação na área de Engenharia de Software.  
 Framework Octalysis  
+
+## 2022-10-25 - 12:43 Educação ST-3  
+
+### 225588 Matemagos: Uma Experiência de e-Sports e Matemática na Região Amazônica 	Sylker Teles (Faculdades Fucapi )
+
+Autores: Isabelly Rohana Barbosa Oliveira** (UFAM), Suziane Cundiff (Universidade Federal do Amazonas), Brendo Balieiro (Flying Saci), Rodrigo Rosas (Dx Gameworks), TARCINAouRA Tavares (Secretaria de Educação e Desporto-SEDUC)  
+
+- Pesquisa do DR  
+- Protótipo  
+
+### 226065 Turing Machine Game Simulator: Um Jogo Educativo para Ensino de Máquina de Turing Guilherme Henrique Santana (Centro Universitário UniCesumar)
+
+Autores: Maurilio Campano Junior ** (Universidade Estadual de Maringa), Alan Felinto (Universidade Estadual de Londrina), Linnyer Ruiz (UEM)  
+
+- Máquina de Turing  
+- Fábrica de brinquedos  
+- Jogo em 3D, mas sem textura  
+
+- [Manna-X](#226067-manna-x-projeto-desenvolvimento-e-avaliação-de-um-jogo-multidisciplinar-para-ensino-na-ciência-da-computação)  
+
+### 226112 Dominó Monetário: Um Jogo de Educação Financeira
+
+Autores:  Helyane Borges (Universidade Tecnológica Federal do Parana), Simone Matos (UTFPR), Isabel Torrens (Universidade Tecnológica Federal do Paraná), Heloi Neto (Federal University of Technology Paraná), Henrique Boldrin (UTFPR), Luis Eduardo Oliveira (Universidade Federal do Paraná – Ponta Grosa)  
+
+- IA aplicada - como os jogadores estavam jogando  
+  - Algoritmo Guloso: Fácil  
+  - Algoritmo A*: Difícil  
+- HTML, CSS, JavaScript e Rect  
+
+### 226143 Um jogo para auxiliar na aprendizagem de química orgânica
+
+Autores: João Vitor de Souza Chagas (Universidade Federal Fluminense (UFF)), Aura Conci (UFF), Gleber Teixeira (Petrobras), Matheus Leal Ribeiro (Universidade Federal Rural do Rio de Janeiro)  
+
+- [tcc_LeonardoRovigo](https://github.com/GCG-FURB/tcc_LeonardoRovigo "tcc_LeonardoRovigo")  
+  - [Vídeos](https://github.com/GCG-FURB/tcc_LeonardoRovigo/tree/main/Arquivos/TCC/V%C3%ADdeos "Vídeos")  
+- [PyMol](https://pymol.org/2/ "PyMol"): PyMOL é um software de computador, um sistema de visualização molecular criado por Warren Lyford DeLano.  
+
+### 226070 Uma Revisão Sistemática da Literatura nos Anais do SBGames (2010 – 2022) com Jogos Digitais Educacionais em Química
+
+Autores: Ayrton Matheus da Silva Nascimento (Universidade Federal Rural de Pernambuco), Bruno Leite (Universidade Federal Rural de Pernambuco)  
+
+- Natureza Exploratória  
+- Teoria de aprendizagem  
+
+### 225393 Nova era da arte do ensino de saúde, da medicina e de suas práticas: aplicações do metaverso
+
+Autores: Lúcia Lemos (Pontifícia Universidade Católica de São Paulo)  
+
+- Ano 1992  
+- Meta = além + universo  
+- Axie Infinity: criaturas axies que batalham umas com outras, jogo base de turnos.  
+- Cryptovoxels: eventos sociais, desfile de modas.  
+- Decentraland: torneio de tênis, replica de redes e lojas.  
+
+- Roblox (2006): Carolina Errera desfile.  
+- The SandBox: vendas de lotes de terras virtuais.  
+- Somnium Space:  
+- Star Atlas:  
+
+#### Saúde
+
+- Telemedicina  
+- Cirurgia com RA e Tec. 3D  
+- TelementoriaL Uconn Health  
+- Accuveil  
+- Brain Lab  
+- Ensino Medicina  
+- 
