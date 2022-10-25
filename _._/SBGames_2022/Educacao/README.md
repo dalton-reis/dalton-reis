@@ -2,7 +2,7 @@
 
 ## 2022-10-24 - 10:01
 
-[Tutoriais](tutoriais/README.md "Tutoriais")  
+[Tutoriais](../tutoriais/README.md "Tutoriais")  
 
 ## 2022-10-25 - 09:03 Educação ST-2  
 
@@ -40,9 +40,9 @@ Decomposição
 Jogo Boole -> processos de inferência  
 Jigsaw <http://www.abed.org.br/congresso2017/trabalhos/pdf/402.pdf>  
 
-### 226057 Cadê minha Pizza? Um jogo para exercitar Matemática e Pensamento Computacional através de grafos 	Fernanda Pires (Universidade do Estado do Amazonas)
+### 226057 Cadê minha Pizza? Um jogo para exercitar Matemática e Pensamento Computacional através de grafos
 
-Autores: Fabrizio Honda (Universidade do Estado do Amazonas), Jucimar Maia Silva Júnior (Universidade do Estado do Amazonas), Marcela Pessoa (Universidade do Estado do Amazonas)  
+Autores: Fernanda Pires (Universidade do Estado do Amazonas), Fabrizio Honda (Universidade do Estado do Amazonas), Jucimar Maia Silva Júnior (Universidade do Estado do Amazonas), Marcela Pessoa (Universidade do Estado do Amazonas)  
 
 Pilares do Pensamento Computacional: decomposição, padrão, abstração e algoritmo  
 
@@ -64,15 +64,15 @@ Coletânea de resultados de análise sobre os jogos no SBGames.
 
 Autores: Marcos de Assumpção (Universidade Estadual de Maringá), Maurilio Campano Junior ** (Universidade Estadual de Maringa), Alan Felinto (Universidade Estadual de Londrina), Linnyer Ruiz (UEM)  
 
-- [Turing](#226065-turing-machine-game-simulator-um-jogo-educativo-para-ensino-de-máquina-de-turing-guilherme-henrique-santana-centro-universitário-unicesumar)  
+- [Turing](#226065-turing-machine-game-simulator-um-jogo-educativo-para-ensino-de-máquina-de-turing)  
 
 Circuitos Digitais e Arquitetura de Computadores  
 
 Exemplos de jogos:
 
-- [Circuit Scramble](https://www.amazon.com.br/Circuit-Scramble-Computer-Logic-Puzzles/dp/B078X99YQG "Circuit Scramble")  
-- Planet K
-- Computasseia
+- Circuit Scramble  
+- Planet K  
+- Computasseia  
 
 Desenvolvedor: Unity  
 Avaliação: IAQJEd - Instrumento de Avaliação da Qualidade de Jogos Digitais com Finalidade Educativa (IAQJED)  
@@ -82,9 +82,9 @@ Evolução dos gráficos junto com a evolução do conteúdo (a história dos co
 
 Futuro: RGB e outros modelos de cores, Pixel e Voxel, algoritmos clássicos de CG (Matrizes Transformação Geométricas) Personagem sair do PC (RA)  
 
-### 226003 Gamificação como Ferramenta de Ensino Aprendizagem na Produção de Artefatos do CMMI 	Euriam Barros de Araújo (Universidade Federal do Rio Grande do Norte)
+### 226003 Gamificação como Ferramenta de Ensino Aprendizagem na Produção de Artefatos do CMMI
 
-Autores: Jonathan Batista (Universidade Federal do Rio Grande do Norte), Joeldson Damasceno (Universidade Federal do Rio Grande do Norte), Charles Madeira (UFRN)  
+Autores: Euriam Barros de Araújo (Universidade Federal do Rio Grande do Norte), Jonathan Batista (Universidade Federal do Rio Grande do Norte), Joeldson Damasceno (Universidade Federal do Rio Grande do Norte), Charles Madeira (UFRN)  
 
 [CMMI - Capability Maturity Model Integration](https://pt.wikipedia.org/wiki/CMMI "CMMI - Capability Maturity Model Integration")  
 
@@ -93,16 +93,16 @@ Framework Octalysis
 
 ## 2022-10-25 - 12:43 Educação ST-3  
 
-### 225588 Matemagos: Uma Experiência de e-Sports e Matemática na Região Amazônica 	Sylker Teles (Faculdades Fucapi )
+### 225588 Matemagos: Uma Experiência de e-Sports e Matemática na Região Amazônica
 
-Autores: Isabelly Rohana Barbosa Oliveira** (UFAM), Suziane Cundiff (Universidade Federal do Amazonas), Brendo Balieiro (Flying Saci), Rodrigo Rosas (Dx Gameworks), TARCINAouRA Tavares (Secretaria de Educação e Desporto-SEDUC)  
+Autores: Sylker Teles (Faculdades Fucapi), Isabelly Rohana Barbosa Oliveira** (UFAM), Suziane Cundiff (Universidade Federal do Amazonas), Brendo Balieiro (Flying Saci), Rodrigo Rosas (Dx Gameworks), TARCINAouRA Tavares (Secretaria de Educação e Desporto-SEDUC)  
 
 - Pesquisa do DR  
 - Protótipo  
 
-### 226065 Turing Machine Game Simulator: Um Jogo Educativo para Ensino de Máquina de Turing Guilherme Henrique Santana (Centro Universitário UniCesumar)
+### 226065 Turing Machine Game Simulator: Um Jogo Educativo para Ensino de Máquina de Turing
 
-Autores: Maurilio Campano Junior ** (Universidade Estadual de Maringa), Alan Felinto (Universidade Estadual de Londrina), Linnyer Ruiz (UEM)  
+Autores: Guilherme Henrique Santana (Centro Universitário UniCesumar), Maurilio Campano Junior ** (Universidade Estadual de Maringa), Alan Felinto (Universidade Estadual de Londrina), Linnyer Ruiz (UEM)  
 
 - Máquina de Turing  
 - Fábrica de brinquedos  
@@ -208,4 +208,3 @@ Autores: Jeniffer Macena (UEA), Fernanda Pires (Universidade do Estado do Am
 - Avaliação emoti-SAM  
 - Avaliação MEEGA+  
 - Game Learning Analytics  
-
