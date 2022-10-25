@@ -6,6 +6,8 @@
 
 ## 2022-10-25 - 09:03 Educação ST-2  
 
+Chair: Marcelo Luís Fardo  
+
 ### 226108 Ferramentas para o aprendizado de Linguagens Formais e Autômatos
 
 Autores: José Luiz Mioni (UEL), Cinthyan Renata Barbosa (UEL – Universidade Estadual de Londrina)  
@@ -162,18 +164,48 @@ Autores: Lúcia Lemos (Pontifícia Universidade Católica de São Paulo)
 
 Autores: Ayrtton Lucas Silva (Instituto Federal da Paraíba), Gabriel Nascimento (IFPB – Campina Grande), Jhonatan Guilherme Oliveira Pereira (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba – IFPB), Luiz Medeiros Neto(Instituto Federal da Paraíba), Maria Eduarda Araújo (IFPB), Victor Oliveira (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba)  
 
+- Robocode  
+- Scool  
+- Codeland  
+- Formulário: Meega+  
+
 ### 225898 Utilização da Plataforma Beecrowd de Maratona de Programação como Estratégia para o Ensino de Algoritmos
 
 Autores: Allan Beckman Soares da Cruz (Universidade Federal do Maranhão), Carlos Soares Neto (UFMA), Pamela Torres Maia Beckman da Cruz (Universidade Federal do Maranhão), Mario Teixeira (UFM )  
+
+- achar formas mais novas de ensinar algoritmos  
+- gamificação, aulas invertidas e maratona de programação  
+- URI -> Beecrowd  
+- Maratona: competições curtas e longas  
+- ![Beecrowd_questoes](Beecrowd_questoes.png "Beecrowd_questoes")  
 
 ### 226044 Uso de Jogos Sérios no Ensino de Lógica de Programação: uma revisão sistemática da literatura
 
 Autores: Marlow Dickel (Faculdade de Tecnologia SENAI Santa Catarina), Avanilde Kemczinski (UDESC – Universidade do Estado de Santa Catarina), Marcelo da Silva Hounsell (UDESC – Universidade do Estado de Santa Catarina)  
 
+- Tipos  
+- Características  
+- Métricas  
+- publicação na SBGames e GIS  
+- poucos artigos publicados  
+
 ### 226118 Minigames para o desenvolvimento do pensamento computacional
 
-Autores: Luciana P. de Araújo Kohler (Universidade Regional de Blumenau (FURB)), Dalton Reis (FURB – Universiade Regional de Blumenau), Mauricio Lopes (Universidade Regional de Blumenau), Gabriel Jorge Utyama de Carvalho (Universidade Regional de Blumenau (FURB)), Umberto Oliveira de Araújo Neto Leonetti (Universidade Regional de Blumenau (FURB)), Leonardo Linhares Silva (Universidade Regional de Blumenau (FURB)), Felipe Augusto de Carvalho de Araujo (Universidade Regional de Blumenau (FURB)), Artur Ricardo Bizon (Universidade Federal do Paraná (UFPR))  
+Autores: Luciana P. de Araújo Kohler (Universidade Regional de Blumenau (FURB)), Dalton Reis (FURB – Universidade Regional de Blumenau), Mauricio Lopes (Universidade Regional de Blumenau), Gabriel Jorge Utyama de Carvalho (Universidade Regional de Blumenau (FURB)), Umberto Oliveira de Araújo Neto Leonetti (Universidade Regional de Blumenau (FURB)), Leonardo Linhares Silva (Universidade Regional de Blumenau (FURB)), Felipe Augusto de Carvalho de Araujo (Universidade Regional de Blumenau (FURB)), Artur Ricardo Bizon (Universidade Federal do Paraná (UFPR))  
+
+Trocar o "Ensinar" para outra cosia ... o Gabriel pegou o contato de alguém.  
 
 ### 226172 Hello Food: um jogo para praticar conceitos de algoritmos para iniciantes na computação
 
 Autores: Jeniffer Macena (UEA), Fernanda Pires (Universidade do Estado do Amazonas), Rafaela Melo (Universidade do Estado do Amazonas), Marcela Pessoa (Universidade do Estado do Amazonas)  
+
+- equilíbrio entre os elementos  
+- Operação Lovelace  
+- Doce Sort  
+- Simulação Puzzle  
+- Figma  
+- "Qualquer um pode programar" (frase boa para o Furbot)  .. baseada no Ratatouille "Qualquer um pode cozinhar"  
+- Avaliação emoti-SAM  
+- Avaliação MEEGA+  
+- Game Learning Analytics  
+
