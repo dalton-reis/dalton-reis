@@ -155,3 +155,25 @@ Autores: Lúcia Lemos (Pontifícia Universidade Católica de São Paulo)
 - Accuveil  
 - Brain Lab  
 - Ensino Medicina  
+
+## 2022-10-25 - 16:07 Educação ST-5
+
+### 225460 Codeland: um jogo para o ensino de lógica de programação com Python
+
+Autores: Ayrtton Lucas Silva (Instituto Federal da Paraíba), Gabriel Nascimento (IFPB – Campina Grande), Jhonatan Guilherme Oliveira Pereira (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba – IFPB), Luiz Medeiros Neto(Instituto Federal da Paraíba), Maria Eduarda Araújo (IFPB), Victor Oliveira (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba)  
+
+### 225898 Utilização da Plataforma Beecrowd de Maratona de Programação como Estratégia para o Ensino de Algoritmos
+
+Autores: Allan Beckman Soares da Cruz (Universidade Federal do Maranhão), Carlos Soares Neto (UFMA), Pamela Torres Maia Beckman da Cruz (Universidade Federal do Maranhão), Mario Teixeira (UFM )  
+
+### 226044 Uso de Jogos Sérios no Ensino de Lógica de Programação: uma revisão sistemática da literatura
+
+Autores: Marlow Dickel (Faculdade de Tecnologia SENAI Santa Catarina), Avanilde Kemczinski (UDESC – Universidade do Estado de Santa Catarina), Marcelo da Silva Hounsell (UDESC – Universidade do Estado de Santa Catarina)  
+
+### 226118 Minigames para o desenvolvimento do pensamento computacional
+
+Autores: Luciana P. de Araújo Kohler (Universidade Regional de Blumenau (FURB)), Dalton Reis (FURB – Universiade Regional de Blumenau), Mauricio Lopes (Universidade Regional de Blumenau), Gabriel Jorge Utyama de Carvalho (Universidade Regional de Blumenau (FURB)), Umberto Oliveira de Araújo Neto Leonetti (Universidade Regional de Blumenau (FURB)), Leonardo Linhares Silva (Universidade Regional de Blumenau (FURB)), Felipe Augusto de Carvalho de Araujo (Universidade Regional de Blumenau (FURB)), Artur Ricardo Bizon (Universidade Federal do Paraná (UFPR))  
+
+### 226172 Hello Food: um jogo para praticar conceitos de algoritmos para iniciantes na computação
+
+Autores: Jeniffer Macena (UEA), Fernanda Pires (Universidade do Estado do Amazonas), Rafaela Melo (Universidade do Estado do Amazonas), Marcela Pessoa (Universidade do Estado do Amazonas)  
