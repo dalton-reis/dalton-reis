@@ -226,7 +226,8 @@
 						"git.ignoreRebaseWarning": true,
 						"encrypted-notes.timeFormat": "## \\YYYY-\\MM-\\DD - \\HH:\\mm\\n\\n",
 						"encrypted-notes.promptPassword": false,
-												"workbench.colorTheme": "Default Light+",
+												"workbench.colorTheme": "Dracula Soft",
 												"markdown.validate.enabled": true,
-												"window.zoomLevel": 1
+												"gitlens.views.commitDetails.files.layout": "tree",
+												"markdownlint.focusMode": false
 }

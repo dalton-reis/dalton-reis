@@ -1,6 +1,6 @@
 # Monitores de Técnicas Básicas da Computação
 
-FIXME: Atualizar
+<!--FIXME: Atualizar-->
 
 ## Julio Vicente Brych
 
