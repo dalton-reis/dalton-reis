@@ -54,6 +54,8 @@ Assuntos relacionados com a área da educação
 
 - Oportunidade para fazer pesquisa: ser bolsista  
 
+- Currículo Lattes <http://lattes.cnpq.br/4744915461420609>
+
 ## Meu gosto tecnológico ..
   
         Curiosidade em como as coisas acontecem  
