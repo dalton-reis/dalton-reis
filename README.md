@@ -52,9 +52,9 @@ Assuntos relacionados com a área da educação
 - WebPage:
         [<https://dalton-reis.github.io/dalton-reis/>](https://dalton-reis.github.io/dalton-reis/ "WebPage")  
 
-- Oportunidade para fazer pesquisa: ser bolsista  
-
 - Currículo Lattes <http://lattes.cnpq.br/4744915461420609>
+
+- Oportunidade para fazer pesquisa: ser bolsista  
 
 ## Meu gosto tecnológico ..
   
