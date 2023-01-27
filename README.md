@@ -87,7 +87,7 @@ Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):
 
 ----
 
-![Simpsons_Couch-Gag-iPhone](_._/Simpsons_Couch-Gag-iPhone.webm "Simpsons_Couch-Gag-iPhone")  
+![Simpsons_Couch-Gag-iPhone](_._/Simpsons_Couch-Gag-iPhone.mov "Simpsons_Couch-Gag-iPhone")  
 
 ## WakaTime
 
