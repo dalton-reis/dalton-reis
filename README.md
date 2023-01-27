@@ -66,7 +66,7 @@ Assuntos relacionados com a área da educação
 
 ## VSCode
 
-As extensões que eu uso no VSCode (22/06/2022): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  
+As extensões que eu uso no VSCode (27/01/2023): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  
 
 Caso queira listar quais extensões está usando pode usar os comando em:  
 Unix:  
