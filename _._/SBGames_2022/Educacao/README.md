@@ -123,8 +123,8 @@ Autores:  Helyane Borges (Universidade Tecnológica Federal do Parana), Simone
 
 Autores: João Vitor de Souza Chagas (Universidade Federal Fluminense (UFF)), Aura Conci (UFF), Gleber Teixeira (Petrobras), Matheus Leal Ribeiro (Universidade Federal Rural do Rio de Janeiro)  
 
-- [tcc_LeonardoRovigo](https://github.com/GCG-FURB/tcc_LeonardoRovigo "tcc_LeonardoRovigo")  
-  - [Vídeos](https://github.com/GCG-FURB/tcc_LeonardoRovigo/tree/main/Arquivos/TCC/V%C3%ADdeos "Vídeos")  
+- [tcc_LeonardoRovigo](https://github.com/gcgfurb/tcc_LeonardoRovigo "tcc_LeonardoRovigo")  
+  - [Vídeos](https://github.com/gcgfurb/tcc_LeonardoRovigo/tree/main/Arquivos/TCC/V%C3%ADdeos "Vídeos")  
 - [PyMol](https://pymol.org/2/ "PyMol"): PyMOL é um software de computador, um sistema de visualização molecular criado por Warren Lyford DeLano.  
 
 ### 226070 Uma Revisão Sistemática da Literatura nos Anais do SBGames (2010 – 2022) com Jogos Digitais Educacionais em Química

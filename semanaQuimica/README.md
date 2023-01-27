@@ -183,8 +183,8 @@ Uso do Oculus Quest 2 por professores da FURB - vídeo completo.
 [HMD_Habitat_2021_2](Conceitos/HMD_Habitat_2021_2.mp4 "HMD_Habitat_2021_2")  
 
 Uso do Oculus Quest 2 por professores da FURB - TCCs.  
-[2021 - Gabriel Garcia Salvador](https://github.com/GCG-FURB/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
-[2021 - Leonardo Rovigo](https://github.com/GCG-FURB/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
+[2021 - Gabriel Garcia Salvador](https://github.com/gcgfurb/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
+[2021 - Leonardo Rovigo](https://github.com/gcgfurb/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
 
 ##### SmartPhones e outros
 
@@ -231,7 +231,7 @@ Painel de Fotos com Jogadores
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
 ![Smartphone_Habitat_2021_2](Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
-[2021 - Bruno Geiser Vigentas](https://github.com/GCG-FURB/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
+[2021 - Bruno Geiser Vigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
 
 Caixa E-Água - Caixa de Areia Interativa
 
@@ -262,7 +262,7 @@ Google Glass
 
 [LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
 ![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")
-[2021 - Bruno Henrique de Borba](https://github.com/GCG-FURB/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
+[2021 - Bruno Henrique de Borba](https://github.com/gcgfurb/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
 ![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
 [Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
