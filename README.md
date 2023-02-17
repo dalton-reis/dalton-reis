@@ -24,6 +24,7 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 
 ## Leciono atualmente
 
+[1a fase - Introdução à Programação](https://github.com/dalton-reis/disciplinaIpMatA "1a fase - Introdução à Programação")  
 [7a fase - Computação Gráfica](https://github.com/dalton-reis/disciplinaCg "7a fase - Computação Gráfica")  
 [8a fase - Realidade Virtual](https://github.com/dalton-reis/disciplinaRv "8a fase - Realidade Virtual")  
 [8a fase - Trabalho de Conclusão de Curso I](https://github.com/dalton-reis/disciplinaTCC1 "8a fase - Trabalho de Conclusão de Curso I")  
