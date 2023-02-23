@@ -1,6 +1,6 @@
 # Apresentação do Professor
 
- ![Foto professor](./_._/img_DaltonReis.png "Foto professor")  
+ ![Foto professor](./_._/img_DaltonReisQRCode.png "Foto professor")  
 
         Nome: Dalton Solano dos Reis
         Contato: dalton@furb.br
