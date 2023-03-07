@@ -6,40 +6,40 @@
 
 hdelegrego@furb.br
 
-![HenriqueDelegrego](HenriqueDelegrego.png)  
+![HenriqueDelegrego](imgs/HenriqueDelegrego.png)  
 
 ## Julio Vicente Brych  
 
 jbrych@furb.br  
 
-![JulioVicenteBrych](JulioVicenteBrych.png)  
+![JulioVicenteBrych](imgs/JulioVicenteBrych.png)  
 
 ## LCI - Laboratório de Computação e Informática
 
 <https://www.furb.br/dsc/lci/>
 
-![LCItext](LCI.png)
+![LCItext](imgs/LCI.png)
 
 ## Turmas - Introdução à Programação  
 
-![IP_A](IP_A.png)  
-![IP_B](IP_B.png)  
-![IP_C](IP_C.png)  
-![IP_D](IP_D.png)  
-![IP_E](IP_E.png)  
-![IP_F](IP_F.png)  
+![IP_A](imgs/IP_A.png)  
+![IP_B](imgs/IP_B.png)  
+![IP_C](imgs/IP_C.png)  
+![IP_D](imgs/IP_D.png)  
+![IP_E](imgs/IP_E.png)  
+![IP_F](imgs/IP_F.png)  
 
 ## Turmas - Programação Orientada a Objetos  
 
-![POO_A](POO_A.png)  
-![POO_B](POO_B.png)  
+![POO_A](imgs/POO_A.png)  
+![POO_B](imgs/POO_B.png)  
 
 ## Turmas - Algoritmos e Estrutura de Dados  
 
-![ED_A](ED_A.png)  
-![ED_B](ED_B.png)  
-![ED_C](ED_C.png)  
-![ED_D](ED_D.png)  
+![ED_A](imgs/ED_A.png)  
+![ED_B](imgs/ED_B.png)  
+![ED_C](imgs/ED_C.png)  
+![ED_D](imgs/ED_D.png)  
 
 <!--
 ## Julio Vicente Brych
