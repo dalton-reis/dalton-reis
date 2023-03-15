@@ -83,17 +83,7 @@ Mundo modelado virtualmente por modelos de computação gráfica que podem simul
 
 #### Ancora RA
 
-Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")). Este processo pode ser com pré-calibragem, usando um marcador do mundo real, ou processado em tempo real usando objeto reais dinâmicos. É considerado um dos processos mais importante para aumentar a [imersão](#imersão "imersão") do usuário, fazendo ele acreditar que o objeto virtual realmente existe no [mundo real](#mundo-real "mundo real"). Além de garantir o posicionamento do objeto virtual no [mundo real](#mundo-real "mundo real"), que pode ser mais complicado com mudanças constantes de posicionamento dos objetos do [mundo real](#mundo-real "mundo real"), como também considerando a mudança do próprio observador. Ou ainda, aumentando mais a complexidade se for considerado as mudanças de iluminação, entre outros aspectos do [mundo real](#mundo-real "mundo real").
-
-#### Credibilidade
-
-O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
-
-Existem várias formas de aumentar a [Credibilidade](#credibilidade "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
-![Truques de Ilusão de Ótica](_/Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
-
-Relação forte da forma como percebemos o [Mundo Real](#mundo-real "Mundo Real").  
-Sentidos humanos: visão, audição, tato, olfato e paladar.  
+Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "mundo virtual")) em um objeto real ([mundo real](#mundo-real "mundo real")).  
 
 ### Linha do Tempo
 
