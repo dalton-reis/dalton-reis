@@ -1,6 +1,6 @@
 # Interação ETEVI - 2023
 
-    Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
+##    Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
 ## Apresentação do Professor
 
