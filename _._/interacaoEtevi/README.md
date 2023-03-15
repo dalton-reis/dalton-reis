@@ -1,6 +1,6 @@
 # Interação ETEVI - 2023
 
-## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
+## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
  ![Foto professor](_/img_EvemtoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
@@ -35,13 +35,13 @@ Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das pe
     Eu já usei algo de Realidade Virtual?  
 
 Propaganda da caixa de lápis da Faber Castell com animações em Realidade Aumentada de animais do Brasil.  
-![Uso_FaberCastell](Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell") ( 📢 )  
+![Uso_FaberCastell](_/Conceitos/Uso_FaberCastell.mov "Uso_FaberCastell") ( 📢 )  
 
 Exemplo sensor de ré do carro com projeção de percurso virtual  
-![Uso_Carro_sensorRe](Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
+![Uso_Carro_sensorRe](_/Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")
 
 Ponto de ônibus com Realidade Virtual  
-![Ponto de ônibus com Realidade Virtual](Conceitos/RA_PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
+![Ponto de ônibus com Realidade Virtual](_/Conceitos/RA_PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
 ### Termos
 
@@ -56,21 +56,18 @@ Sentimento de estar-se dentro do ambiente.
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele. Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
 
 Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
-![TecladoVirtual](Conceitos/TecladoVirtual.png "TecladoVirtual")  
+![TecladoVirtual](_/Conceitos/TecladoVirtual.png "TecladoVirtual")  
 
 Teclado Virtual (ao vivo 😅)  
 
 LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
-![LeapMotion_Menu](Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
+![LeapMotion_Menu](_/Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
 
 LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
-![LeapMotion_Cat](Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
+![LeapMotion_Cat](_/Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
 
 Alguns Trabalhos nossos usando LeapMotion  
-![2014 - Trabalho de Aula - LIFE](Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE") ( 📢 )  
-
-- [2015 Julio Cesar Batista](http://dsc.inf.furb.br/arquivos/tccs/monografias/2015_1_julio-cesar-batista_monografia.pdf "2015 Julio Cesar Batista")  
-- [2019 Matheus Adriano Pereira](https://www.furb.br/dsc/arquivos/tccs/monografias/2019_2_matheus-adriano-pereira_monografia.pdf "2019 Matheus Adriano Pereira")  
+![2014 - Trabalho de Aula - LIFE](_/Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE") ( 📢 )  
 
 #### Envolvimento
 
@@ -93,7 +90,7 @@ Forma de ancorar ("grudar") um objeto virtual ([mundo virtual](#mundo-virtual "m
 O quanto algo pode ser considerado crível, quando algo virtual é apresentado com intenção de representar algo real ([Teste de Turing](https://pt.wikipedia.org/wiki/Teste_de_Turing "Teste Turing")).  
 
 Existem várias formas de aumentar a [Credibilidade](#credibilidade "Credibilidade") dos mundos virtuais, vezes se usa Estereoscópia e alguns "truques" de Ilusão de Ótica.  
-![Truques de Ilusão de Ótica](Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
+![Truques de Ilusão de Ótica](_/Conceitos/Estereo_Taco.mov "Truques de Ilusão de Ótica")  
 
 Relação forte da forma como percebemos o [Mundo Real](#mundo-real "Mundo Real").  
 Sentidos humanos: visão, audição, tato, olfato e paladar.  
@@ -103,16 +100,16 @@ Sentidos humanos: visão, audição, tato, olfato e paladar.
 Alguns pontos marcantes na história da Realidade Virtual: Sensorama, Helmet e Ivan Sutherland.  
 
 **Sensorama** - espécie de cabine, que combinava filmes 3D, som estéreo, vibrações mecânicas, aromas, e ar movimentado por ventiladores. Patenteado em **1962** por Morton Heilig, o Sensorama já utilizava-se de um dispositivo para visão estereoscópica.  
-![Sensorama](LinhaTempo/Sensorama.png "Sensorama")  
+![Sensorama](_/LinhaTempo/Sensorama.png "Sensorama")  
 
 Primeiro capacete de Realidade Virtual (Head Mounted Display - HMD) **Helmet** was made in **1967**.  
-![Helmet](LinhaTempo/Helmet.png "Helmet")  
+![Helmet](_/LinhaTempo/Helmet.png "Helmet")  
 
 Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicionar informações virtuais sobre os objetos reais, facilitando as tarefas do dia a dia. Como outras tecnologias a Realidade Aumentada também teve um grande incentivo financeiro das Forças Armadas dos Estados Unidos da América (EUA), o estudo tinha foco na geração de informações gráficas interativas, assim como de imagens mais realistas e melhores sistemas de rastreamento (_tracking_).  
-![Ivan Sutherland](LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
+![Ivan Sutherland](_/LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
 
 Equipamento para Visão Estereoscópica usado no Brasil na época colonial no **museu de Curitiba - PR**.  
-![Museu Curitiba](LinhaTempo/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
+![Museu Curitiba](_/LinhaTempo/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
 O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
 
@@ -120,7 +117,7 @@ O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em
 
 Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades.
 
-![TiposRealidadeVirtual](Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
+![TiposRealidadeVirtual](_/Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
 
 #### Realidade Virtual Imersiva (RV / RVi)
 
@@ -145,30 +142,30 @@ Alguns exemplos de equipamentos usados em RVi.
 
 Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e ter a sensação de tato. O LeapMotion não da retorno de tato.  
 
-![DataGlove_PowerGlove](Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
+![DataGlove_PowerGlove](_/Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
 
-![DataGlove_Articulacao](Conceitos/DataGloves_Articulacao.png "DataGlove_Articulacao")
+![DataGlove_Articulacao](_/Conceitos/DataGloves_Articulacao.png "DataGlove_Articulacao")
 
 ##### Head-Mounted Display - Capacetes
 
 Conhecidos como óculos virtuais, cardboard etc.  
 
-![HMD_OculusQualquer](Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
-![HMD_LynxR1](Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
-![HMD_OculosRift](Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
-![HMD_OculosGoogleCardBoard](Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
-![HMD_OculosSamsungGearVR](Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
-![HMD_OculusHololens](Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
-![HMD_Oculus_TreinamentoParaquedas](Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
-![HMD_Oculus_VirtuSphere](Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
+![HMD_OculusQualquer](_/Conceitos/HMD_OculusQualquer.png "HMD_OculusQualquer")  
+![HMD_LynxR1](_/Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
+![HMD_OculosRift](_/Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
+![HMD_OculosGoogleCardBoard](_/Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
+![HMD_OculosSamsungGearVR](_/Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
+![HMD_OculusHololens](_/Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
+![HMD_Oculus_TreinamentoParaquedas](_/Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
+![HMD_Oculus_VirtuSphere](_/Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
 
-![HMD_OculusQuest2](Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
+![HMD_OculusQuest2](_/Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
 
 Uso do Oculus Quest 2 por professores da FURB.  
-![HMD_Habitat_2021_2](Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
+![HMD_Habitat_2021_2](_/Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
 
 Uso do Oculus Quest 2 por professores da FURB - vídeo completo.  
-[HMD_Habitat_2021_2](Conceitos/HMD_Habitat_2021_2.mp4 "HMD_Habitat_2021_2")  
+[HMD_Habitat_2021_2](_/Conceitos/HMD_Habitat_2021_2.mp4 "HMD_Habitat_2021_2")  
 
 Uso do Oculus Quest 2 por professores da FURB - TCCs.  
 [2021 - Gabriel Garcia Salvador](https://github.com/gcgfurb/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
@@ -179,7 +176,7 @@ Uso do Oculus Quest 2 por professores da FURB - TCCs.
 Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
 
 Braçadeira Myo  
-![Braçadeira Myo](Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
+![Braçadeira Myo](_/Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
 
 ##### RVi - Exemplos
 
@@ -187,11 +184,11 @@ Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D
 
 A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
 
-![Usuário Imerso](Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
+![Usuário Imerso](_/Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
-![Usuário Diversão - Tato](Conceitos/RVi_Diversao.png "Usuário Diversão")  
+![Usuário Diversão - Tato](_/Conceitos/RVi_Diversao.png "Usuário Diversão")  
 
 #### Realidade Virtual Aumentada (RA)  
 
@@ -206,16 +203,16 @@ Alguns pontos que devem ser observados:
 ##### RA - Exemplos
 
 Rótulos de Garrafas  
-![Rótulos de Garrafas](Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
+![Rótulos de Garrafas](_/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
 
 Mesa Tátil da TV Globo  
-![Mesa Tátil da TV Globo](Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
+![Mesa Tátil da TV Globo](_/Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
 Painel de Fotos com Jogadores  
-![Painel de Fotos com Jogadores](Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 )  
+![Painel de Fotos com Jogadores](_/Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 )  
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
-![Smartphone_Habitat_2021_2](Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
+![Smartphone_Habitat_2021_2](_/Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
 [2021 - Bruno Geiser Vigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
 
 Caixa E-Água - Caixa de Areia Interativa
@@ -227,10 +224,10 @@ Projeto realizado com base nos projetos Caixa E-Água e da University of Califor
 
 Algumas momentos da Caixa E-Água
 
-![CaixaEAgua_LIFE_maos](Conceitos/CaixaEAguaFURB_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
-![CaixaEAgua_LIFE_pessoas](Conceitos/CaixaEAguaFURB_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
+![CaixaEAgua_LIFE_maos](_/Conceitos/CaixaEAguaFURB_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
+![CaixaEAgua_LIFE_pessoas](_/Conceitos/CaixaEAguaFURB_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
 
-[Mais da Caixa E-Água](CaixaEAgua "Mais da Caixa E-Água")  
+[Mais da Caixa E-Água](_/CaixaEAgua "Mais da Caixa E-Água")  
 
 [Home Design](https://apps.apple.com/br/app/home-design-3d/id463768717https://apps.apple.com/br/app/home-design-3d/id463768717 "Home Design") (ao vivo 😅)  
 
@@ -241,16 +238,16 @@ FES - Sistema Solar (ao vivo 😅)
 ##### RA - Hardwares
 
 Google Glass  
-![Google Glass](Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
+![Google Glass](_/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
 
 [Novo Google Glass](https://olhardigital.com.br/2019/05/20/noticias/google-anuncia-oculos-de-realidade-aumentada-com-visual-mais-comum/ "Novo Google Glass")  
 
 [LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](Conceitos/LiDAR_Web.mov "LiDAR_Web")
+![LiDAR_Web](_/Conceitos/LiDAR_Web.mov "LiDAR_Web")
 [2021 - Bruno Henrique de Borba](https://github.com/gcgfurb/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
-![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
+![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](_/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
-[Qualcomm Snapdragon XR2 5G Platform - Local](Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
+[Qualcomm Snapdragon XR2 5G Platform - Local](_/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
 [Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
 
 #### Realidade Virtual Diminuída (RD)  
@@ -267,13 +264,13 @@ experiência de [imersão](#imersão "imersão") maior;
 ##### RD - Exemplos
 
 Remoção de objetos com um fundo complexo - [Chroma Key](https://pt.wikipedia.org/wiki/Chroma_key "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
-![Objetos Removidos - Pessoa](Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
+![Objetos Removidos - Pessoa](_/Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
 
 Remoção de objetos usando tablet em ambiente não estruturado.  
-![Objetos Removidos - Tablet](Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
+![Objetos Removidos - Tablet](_/Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
 
 Remoção de objetos com seleção de região ([Region Of Interest - ROI](https://en.wikipedia.org/wiki/Region_of_interest "Region Of Interest - ROI")) em ambiente não estruturado.  
-![Objetos Removidos Externo](Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
+![Objetos Removidos Externo](_/Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
 
 #### Realidade Virtual Misturada (RM)  
 
@@ -287,7 +284,7 @@ Alguns pontos que devem ser observados:
 
 Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
 
-![Realidade Misturada](Conceitos/RM.svg "Realidade Misturada")  
+![Realidade Misturada](_/Conceitos/RM.svg "Realidade Misturada")  
 
 A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
 
@@ -298,9 +295,9 @@ Para se pensar ...
 ##### RM - Exemplos
 
 Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
-![Corpo Humano](Conceitos/RM_CorpoHololens.mov "Corpo Humano")  
+![Corpo Humano](_/Conceitos/RM_CorpoHololens.mov "Corpo Humano")  
 
-![Aquário Virtual (ao vivo 😅)](Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")
+![Aquário Virtual (ao vivo 😅)](_/Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")
 
 #### Realidade Virtual Alternativa (RAl)  
 
@@ -320,9 +317,9 @@ Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se vi
 ##### RAl - Hardwares
 
 Beacons - iBeacons  
-![iBeacon_FURB](Conceitos/iBeacon_FURB.png "iBeacon_FURB")  
+![iBeacon_FURB](_/Conceitos/iBeacon_FURB.png "iBeacon_FURB")  
 
-![iBeacon_AirTag](Conceitos/iBeacon_AirTag.png "iBeacon_AirTag")  
+![iBeacon_AirTag](_/Conceitos/iBeacon_AirTag.png "iBeacon_AirTag")  
 
 #### Metaverso  
 
@@ -333,12 +330,12 @@ Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#m
 Acreditando que o Metaverso é o futuro da internet e tecnologia, Mark Zuckerberg, CEO do Facebook, **mudou em 2021** o nome de sua empresa para Meta Platforms Inc, ou Meta. Ele diz que a empresa irá abranger tudo o que eles acreditam, focando na construção do Metaverso. Bem como, outras grandes empresas seguem a mesma tendência. Por exemplo, a Apple ao anunciar o "SharePlay" na opção "Assistir Juntos", que permite ver filmes e séries nas chamadas FaceTime com seus amigos, permitindo uma conexão interativa em tempo real enquanto assistem ao mesmo conteúdo. Bem antes da Facebook se transformar em Empresa Meta, a Microsoft, Google e Apple já estavam fazendo sua "lição de casa" para também entrar no mercado das Realidades Virtuais e Metaverso.  
 
 Usando iPad em jogo de RA registrando um [mundo virtual](#mundo-virtual "mundo virtual") no [mundo real](#mundo-real "mundo real") (mesa) permitindo a [interação](#interação "interação") entre dois jogadores.  
-![MV Apple](Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
+![MV Apple](_/Conceitos/MV_Apple.mov "MV Apple") ( 📢 )  
 
 Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://globoplay.globo.com/v/10807963/](https://globoplay.globo.com/v/10807963/ "https://globoplay.globo.com/v/10807963/")).  
-[MV Cirurgia Avatar](Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
+[MV Cirurgia Avatar](_/Conceitos/MV_CirugiaAvatar.mov "MV Cirurgia Avatar").  
 
-[Desfile de moda no Metaverso - Febratex](Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
+[Desfile de moda no Metaverso - Febratex](_/Conceitos/DesfileMetaversoModaFebratex.pdf "Desfile de moda no Metaverso - Febratex")  
 
 ##### Metaverso - Para saber mais
 
@@ -367,7 +364,7 @@ Principal evento Nacional sobre Realidade Virtual
   Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
   Data: 07/11/2020  
   Formato: Remoto  
-  Livro do Simpósio: [Introdução aos Conceitos de RV](ParaSaberMais/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
+  Livro do Simpósio: [Introdução aos Conceitos de RV](_/ParaSaberMais/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
 
 #### 2022 - Symposium on Virtual and Augmented Reality - SVR
 
@@ -379,7 +376,7 @@ Eu fui 😁 ...
 
 ## Mais Exemplos
 
-[Mais Exemplos](MaisExemplos "Mais Exemplos")  
+[Mais Exemplos](_/MaisExemplos "Mais Exemplos")  
 
 ## Perguntas  
 
