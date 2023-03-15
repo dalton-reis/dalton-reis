@@ -205,7 +205,7 @@ Caixa E-Água - Caixa de Areia Interativa
 [LCC - SARndbox](https://www10.furb.br/manuais/manual-caixa-de-areia.php "LCC - SARndbox")  
 Projeto realizado com base nos projetos Caixa E-Água e da University of California.  
 
-Algumas momentos da Caixa E-Água
+Alguns momentos da Caixa E-Água
 
 ![CaixaEAgua_LIFE_maos](_/Conceitos/CaixaEAguaFURB_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
 ![CaixaEAgua_LIFE_pessoas](_/Conceitos/CaixaEAguaFURB_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
@@ -226,7 +226,7 @@ Google Glass
 [Novo Google Glass](https://olhardigital.com.br/2019/05/20/noticias/google-anuncia-oculos-de-realidade-aumentada-com-visual-mais-comum/ "Novo Google Glass")  
 
 [LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](_/Conceitos/LiDAR_Web.mov "LiDAR_Web")
+![LiDAR_Web](_/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
 [2021 - Bruno Henrique de Borba](https://github.com/gcgfurb/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
 ![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](_/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
 
