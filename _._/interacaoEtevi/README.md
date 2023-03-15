@@ -2,8 +2,6 @@
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos ...  
 
-## Apresentação do Professor
-
  ![Foto professor](_/img_DaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
         Contato: dalton@furb.br  
