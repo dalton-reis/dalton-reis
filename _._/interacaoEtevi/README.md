@@ -99,8 +99,6 @@ Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicio
 Equipamento para Visão Estereoscópica usado no Brasil na época colonial no **museu de Curitiba - PR**.  
 ![Museu Curitiba](_/LinhaTempo/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
-O conceito da **Realidade Aumentada** de sobreposição de objetos virtuais em objetos reais trazendo mais informações veio somente nos anos 90. No ano de 1993, foi criado o primeiro sistema móvel de Realidade Aumentada para ambientes externos utilizando as coordenadas do Sistema de Posicionamento Global (Global Positioning System - GPS) pelos pesquisadores da Universidade da Califórnia, para servir como assistente de navegação para deficientes visuais, colocando voz à imagem captada.
-
 ### Tipos de Realidades Virtuais
 
 Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realidades.
