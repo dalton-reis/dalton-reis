@@ -185,14 +185,14 @@ Alguns pontos que devem ser observados:
 
 ##### RA - Exemplos
 
-Rótulos de Garrafas  
-![Rótulos de Garrafas](_/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas") ( 📢 )  
+Rótulos de Garrafas ( 📢 )  
+![Rótulos de Garrafas](_/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas")  
 
 Mesa Tátil da TV Globo  
 ![Mesa Tátil da TV Globo](_/Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
 
-Painel de Fotos com Jogadores  
-![Painel de Fotos com Jogadores](_/Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores") ( 📢 )  
+Painel de Fotos com Jogadores ( 📢 )  
+![Painel de Fotos com Jogadores](_/Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores")  
 
 FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
 ![Smartphone_Habitat_2021_2](_/Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
