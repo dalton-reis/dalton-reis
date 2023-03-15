@@ -233,76 +233,11 @@ Google Glass
 [Qualcomm Snapdragon XR2 5G Platform - Local](_/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
 [Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
 
-#### Realidade Virtual Diminuída (RD)  
+#### [Realidade Virtual Diminuída (RD)](_/RealidadeVirtualDiminuida.md)  
 
-Uma aplicação de RD também é RV, mas uma aplicação de RV não é RD. Nas aplicações de RD o principal objetivo é "Esconder" objetos no [mundo real](#mundo-real "mundo real") usando objetos do [mundo virtual](#mundo-virtual "mundo virtual").  
+#### [Realidade Virtual Misturada (RM)](_/RealidadeVirtualMisturada.md)  
 
-Alguns pontos que devem ser observados com a RD:
-
-- utilizado normalmente em produções de vídeo/imagens, onde elementos não desejáveis precisam ser removidos;  
-- pode permitir que o usuário remova objetos de vídeos em tempo real;  
-- pode ser utilizado em conjunto com a realidade aumentada, para proporcionar uma
-experiência de [imersão](#imersão "imersão") maior;  
-
-##### RD - Exemplos
-
-Remoção de objetos com um fundo complexo - [Chroma Key](https://pt.wikipedia.org/wiki/Chroma_key "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
-![Objetos Removidos - Pessoa](_/Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
-
-Remoção de objetos usando tablet em ambiente não estruturado.  
-![Objetos Removidos - Tablet](_/Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
-
-Remoção de objetos com seleção de região ([Region Of Interest - ROI](https://en.wikipedia.org/wiki/Region_of_interest "Region Of Interest - ROI")) em ambiente não estruturado.  
-![Objetos Removidos Externo](_/Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
-
-#### Realidade Virtual Misturada (RM)  
-
-Mistura do virtual com real, e o real com o virtual, nos dois "sentidos".  
-
-Alguns pontos que devem ser observados:  
-
-- combina cenas do [mundo real](#mundo-real "mundo real") com o [mundo virtual](#mundo-virtual "mundo virtual"), e do virtual com o real;  
-- permite [interação](#interação "interação") nos "dois" sentidos;  
-- união de realidade aumentada e realidade virtual.  
-
-Dependendo do cenário a ser aplicada a RM pode usar ("misturar") todas as outras Realidades Virtuais juntas.  
-
-![Realidade Misturada](_/Conceitos/RM.svg "Realidade Misturada")  
-
-A “misturara” geralmente é de imagens, mas pode ser de áudio, so informação, outros sentidos .. tato -> IUT
-
-Para se pensar ...
-
-    "A realidade misturada é o próximo ciclo na computação, seguida por mainframes, PCs e smartphones."  
-
-##### RM - Exemplos
-
-Material da Microsoft promovendo o uso do Hololens - Corpo Humano.  
-![Corpo Humano](_/Conceitos/RM_CorpoHololens.mov "Corpo Humano")  
-
-![Aquário Virtual (ao vivo 😅)](_/Conceitos/RM_AquarioVirtual.png "Aquário Virtual (ao vivo 😅)")
-
-#### Realidade Virtual Alternativa (RAl)  
-
-Combinação de situações do virtual com o real.
-
-Alguns pontos que devem ser observados:  
-
-- transforma o [mundo real](#mundo-real "mundo real") em um cenário para a [interação](#interação "interação") do usuário;  
-- incentiva que os usuários se "movimentem" no [mundo real](#mundo-real "mundo real") para interagir com os objetos virtuais no [mundo real](#mundo-real "mundo real").  
-
-##### RAl - Exemplos
-
-Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se via pessoas explorando o [mundo real](#mundo-real "mundo real") em busca de "recompensas" do [mundo virtual](#mundo-virtual "mundo virtual"). A RAl pode promover além do entretenimento, outras funcionalidades, por exemplo, "construir algo" com o apoio do coletivo (gratuito). Um exemplo desta "construção" coletiva são as estatísticas de transito no Aplicativo de navegação [Waze](https://pt.wikipedia.org/wiki/Waze "Waze").  
-
-- [Pokemon GO - Pokéball Plus](<https://www.youtube.com/watch?v=3UWnEo3A5fU> "Pokemon GO - Pokéball Plus")  
-
-##### RAl - Hardwares
-
-Beacons - iBeacons  
-![iBeacon_FURB](_/Conceitos/iBeacon_FURB.png "iBeacon_FURB")  
-
-![iBeacon_AirTag](_/Conceitos/iBeacon_AirTag.png "iBeacon_AirTag")  
+#### [Realidade Virtual Alternativa (RAl)](_/RealidadeVirtualAlternativa.md)  
 
 #### Metaverso  
 
