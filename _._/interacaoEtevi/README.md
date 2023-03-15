@@ -382,3 +382,7 @@ Eu fui 😁 ...
 [Mais Exemplos](MaisExemplos "Mais Exemplos")  
 
 ## Perguntas  
+
+ ![Foto professor](_/img_EvemtoDaltonReisQRCode.png "Foto professor")  
+        Nome: Dalton Solano dos Reis  
+        Contato: dalton@furb.br  
