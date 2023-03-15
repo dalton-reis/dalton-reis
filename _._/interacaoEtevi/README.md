@@ -167,9 +167,7 @@ Braçadeira Myo
 
 Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
 
-A RVi explora o uso HMD para "controlar" o campo de visão do usuário ( 📢 ).  
-
-![Usuário Imerso](_/Conceitos/RVi_Usuario.mov "Usuário Imerso") ( 📢 )  
+A RVi explora o uso HMD para "controlar" o campo de visão do usuário.  
 
 Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
 
