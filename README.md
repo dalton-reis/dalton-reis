@@ -66,6 +66,10 @@ Assuntos relacionados com a área da educação
         Área Gráfica: desde que comecei a trabalhar aos 14 anos com desenho técnico
          de projetos arquitetônicos  
 
+## Ferramentas
+
+Para saber quais ferramentas usamos para montar o material das disciplinas ver: [ferramentas](_._/ferramentas.md)  
+
 ## VSCode
 
 As extensões que eu uso no VSCode (27/01/2023): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  
