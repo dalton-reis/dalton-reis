@@ -36,7 +36,7 @@ Assim, usa o ".wsd" para gerar o SVG direto sem precisar ficar gerando o SVG a c
 ## Notações matemáticas
 
 Bom, e por fim, usamos o Latex para gerar as fórmulas/equações, ou seja, as notações matemáticas. Tipo:  
-  ![\Large 3+4=x](https://latex.codecogs.com/svg.latex?\Large&space;3+4=x)  
+  "![\Large 3+4=x](https://latex.codecogs.com/svg.latex?\Large&space;3+4=x)"  
 A motivação é porque o Latex também é "texto plano" e Vetorial.  
 
 Lembro, o uso  de "texto plano" fica prático para verificar as alterações no Github porque é fácil ver o que mudo, diferente de um arquivo PNG, DOCX etc.  
