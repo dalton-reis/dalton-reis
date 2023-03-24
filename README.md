@@ -81,9 +81,12 @@ Unix:
 Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):  
 > code --list-extensions | % { "code --install-extension $_" }
 
+A loja oficial de extensões para o VSCode é: <https://marketplace.visualstudio.com/VSCode>  
+
 ## Markdown
 
 - https://www.markdownguide.org  
+- https://code.visualstudio.com/docs/languages/markdown  
 - https://daringfireball.net/projects/markdown/  
 - https://github.github.com/gfm/  
 
