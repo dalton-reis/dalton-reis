@@ -230,5 +230,6 @@
 												"workbench.colorTheme": "Dracula Soft",
 												"markdown.validate.enabled": true,
 												"gitlens.views.commitDetails.files.layout": "tree",
-												"markdownlint.focusMode": false
+												"markdownlint.focusMode": false,
+												"window.zoomLevel": -1
 }

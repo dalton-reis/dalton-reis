@@ -6,6 +6,7 @@ code --install-extension alefragnani.Bookmarks
 code --install-extension arthurwang.vsc-prolog  
 code --install-extension BillDietrich.linkcheckerhtml  
 code --install-extension blackmist.LinkCheckMD  
+code --install-extension circledev.glsl-canvas  
 code --install-extension cschlosser.doxdocgen  
 code --install-extension Dart-Code.dart-code  
 code --install-extension Dart-Code.flutter  
@@ -64,7 +65,6 @@ code --install-extension rubenvandeven.zoterolens
 code --install-extension SimonSiefke.prettier-vscode  
 code --install-extension slevesque.shader  
 code --install-extension slevesque.vscode-multiclip  
-code --install-extension stevensona.shader-toy  
 code --install-extension stkb.rewrap  
 code --install-extension streetsidesoftware.code-spell-checker  
 code --install-extension streetsidesoftware.code-spell-checker-portuguese-brazilian  
@@ -74,6 +74,7 @@ code --install-extension Tobiah.unity-tools
 code --install-extension TomasHubelbauer.vscode-markdown-email-links  
 code --install-extension tomoki1207.pdf  
 code --install-extension twxs.cmake  
+code --install-extension tylerleonhardt.msft-todo-unofficial  
 code --install-extension vector-of-bool.gitflow  
 code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples  
 code --install-extension VisualStudioExptTeam.vscodeintellicode  
@@ -84,6 +85,8 @@ code --install-extension vscjava.vscode-java-test
 code --install-extension vscjava.vscode-maven  
 code --install-extension WakaTime.vscode-wakatime  
 code --install-extension wayou.vscode-todo-highlight  
+code --install-extension Wupb.arrange-selection  
 code --install-extension XING.zotero-cite  
 code --install-extension YuTengjing.open-in-external-app  
 code --install-extension yzhang.markdown-all-in-one  
+  
