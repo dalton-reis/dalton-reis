@@ -2,7 +2,7 @@
 
 Seguem algumas ferramentas usadas na montagem dos materiais das disciplinas.  
 
-## Editar Diagramas  
+## PlantUML - Editar Diagramas  
 
 Usamos o "PlantUML" que é uma notação de "texto plano" para UML.  
 Site: <https://plantuml.com/>  
@@ -18,7 +18,7 @@ Os arquivos do PlantUML podem ter várias extensões, para padronizar eu sempre 
 
 Um exemplo pode ser visto em: <https://github.com/dalton-reis/disciplinaIpPrivado/blob/master/Unidade3/_._plantUML/Uni3Uri1001.wsd>  
 
-## Diagramas e Desenhos
+## Draw.io - Diagramas e Desenhos
 
 E também usamos diagramas e desenhos feitos no Draw.io. O Draw.io tem uma versão online e que pode ser instalada no PC.  
 Ver comentário para online: <https://github.com/dalton-reis/disciplinaIpPrivado/blob/master/Unidade1/aulaAnotacoes.md#rabiscos>  
@@ -33,7 +33,7 @@ E, algumas vezes injeto chamadas para gerar o PlantUML direto do serve:
 
 Assim, usa o ".wsd" para gerar o SVG direto sem precisar ficar gerando o SVG a cada edição.  
 
-## Notações matemáticas
+## Latex - Notações Matemáticas
 
 Bom, e por fim, usamos o Latex para gerar as fórmulas/equações, ou seja, as notações matemáticas. Tipo:  
   /!/[\Large 3+4=x/]/(https://latex.codecogs.com/svg.latex?\Large&space;3+4=x/)  
