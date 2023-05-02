@@ -2,9 +2,9 @@
 
 Seguem algumas ferramentas usadas na montagem dos materiais das disciplinas.  
 
-## Editar do Fluxogramas  
+## Editar Diagramas  
 
-Usamos o "PlantUML" que uma notação de "texto plano" para UML.  
+Usamos o "PlantUML" que é uma notação de "texto plano" para UML.  
 Site: <https://plantuml.com/>  
 
 Existem editores online para PlantUML, tipo: <http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000>  
