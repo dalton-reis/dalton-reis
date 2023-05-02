@@ -31,6 +31,8 @@ Alguns comandos para esta extensão:
 >C# to PlantUML: Class-diagram  
 ```
 
+As vezes, dependendo do diagrama gerado, se faz necessário usar o [GraphViz](https://graphviz.org/).  
+
 ## Draw.io - Diagramas e Desenhos
 
 E também usamos diagramas e desenhos feitos no Draw.io. O Draw.io tem uma versão online e que pode ser instalada no PC.  
