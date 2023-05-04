@@ -83,6 +83,14 @@ Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):
 
 A loja oficial de extensões para o VSCode é: <https://marketplace.visualstudio.com/VSCode>  
 
+### VSCode - Versão Web
+
+[https://vscode.dev/](https://vscode.dev/)  
+
+Também existe a opção de usar o VSCode usando um Navegador Web (Browser), mas aconselho a só usar como um "plano B". Acredito que a opção IDE Desktop ainda seja mais indicada.  
+
+Outra forma seria usando o GitHub: [https://github.dev/github/dev](https://github.dev/github/dev), como o GitHub e o VSCode são mantidos pela Microsoft, exite uma forte integração entre eles.  
+
 ## Markdown
 
 - https://www.markdownguide.org  
