@@ -58,7 +58,7 @@ Assuntos relacionados com a área da educação
 
 - Oportunidade para fazer pesquisa: ser bolsista  
 
-## Meu gosto tecnológico ..
+## Meu gosto tecnológico
   
         Curiosidade em como as coisas acontecem  
         Brinquedinhos tecnológicos da computação  
@@ -93,18 +93,18 @@ Outra forma seria usando o GitHub: [https://github.dev/github/dev](https://githu
 
 ## Markdown
 
-- https://www.markdownguide.org  
-- https://code.visualstudio.com/docs/languages/markdown  
-- https://daringfireball.net/projects/markdown/  
-- https://github.github.com/gfm/  
+- <https://www.markdownguide.org>  
+- <https://code.visualstudio.com/docs/languages/markdown>  
+- <https://daringfireball.net/projects/markdown/>  
+- <https://github.github.com/gfm/>  
 
 ## GitHub
 
-- https://github.com/dalton-reis/tecnologia_Git  
+- <https://github.com/dalton-reis/tecnologia_Git>  
 
 ----
 
-![Simpsons_Couch-Gag-iPhone](_._/Simpsons_Couch-Gag-iPhone.mov "Simpsons_Couch-Gag-iPhone")  
+<video src="_._/Simpsons_Couch-Gag-iPhone.mp4" controls title="Title"></video>
 
 ## WakaTime
 
