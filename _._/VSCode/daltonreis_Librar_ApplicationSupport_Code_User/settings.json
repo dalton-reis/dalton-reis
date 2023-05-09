@@ -229,5 +229,7 @@
 						"encrypted-notes.promptPassword": false,
 												"markdown.validate.enabled": true,
 												"gitlens.views.commitDetails.files.layout": "tree",
-												"markdownlint.focusMode": false
+												"markdownlint.focusMode": false,
+												"translatorHelper.targetLanguage": "pt",
+												"workbench.colorTheme": "Default Light Modern"
 }
