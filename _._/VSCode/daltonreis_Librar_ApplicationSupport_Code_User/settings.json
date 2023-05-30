@@ -220,7 +220,6 @@
 			"plantuml.exportFormat": "svg",
 			"plantuml.exportSubFolder": false,
 			"java.inlayHints.parameterNames.enabled": "none",
-			"diffEditor.ignoreTrimWhitespace": false,
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
@@ -231,5 +230,7 @@
 												"gitlens.views.commitDetails.files.layout": "tree",
 												"markdownlint.focusMode": false,
 												"translatorHelper.targetLanguage": "pt",
-												"workbench.colorTheme": "Default Light Modern"
+												"workbench.colorTheme": "Default Light Modern",
+												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
+												"window.zoomLevel": 1
 }
