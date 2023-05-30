@@ -1,6 +1,6 @@
 # DSC - Concursos PSPS 006/2023
 
-Estão abertas as inscrições para os concursos de Professor Universitário em Caráter Temporário (PSPS) do Departamento de Sistemas e Computação (DSC).  
+Estão abertas as inscrições para os concursos de Professor Universitário em Caráter Temporário (PSPS) do Departamento de Sistemas e Computação (DSC) da Universidade Regional de Blumenau (FURB).  
 
 Qualquer dúvida favor entrar em contato com prof. Dalton Reis (dalton@furb.br).  
 
