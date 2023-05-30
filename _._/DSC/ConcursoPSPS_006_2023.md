@@ -38,3 +38,5 @@ Edital N° 058/2023
 As inscrições serão realizadas nos dias 14 a 20 de junho de 2023  
 Prova Didática 30/06/2023 14h - Campus I - Sala S - 401  
 Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/265/anexos/PSTWJpinrFbOsvsTmkfuMoCtWB8WRJ9xlT6kXb93.pdf>  
+
+![ConcursoPSPS_006_2023](ConcursoPSPS_006_2023.png)  
