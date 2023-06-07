@@ -10,6 +10,12 @@
  - o iPhone está na mesma rede do MacBook
  - testar se funciona o compartilhamento de tela com iPhone?
  - Tocar música: https://music.apple.com/br/playlist/palestra/pl.u-ovdau0PMe0V?l=en
+
+FIXME: 
+acrescentar o Vision (apple)
+menos slides, menos conteúdo, só um slides, e mais tempo para olhar o laboratório
+Não mostrar o que Maurício já vai mostrar? Caixa de Areia?
+Mostrar o Oculus Quest com coisas novas, mas antes testar no LIFE. Hum, será que deixo eles usarem? Talvez sortear 2 pessoa para usarem. Gerar uma forma de sortear se eles entrarem no Instagram do Furbot ... como fazer sorteios por inscritos no grupo do Instagram?
 -->
 
 # Interação FURB
