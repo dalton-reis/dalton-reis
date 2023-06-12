@@ -298,6 +298,19 @@ Eu fui 😁 ...
 
 ## Perguntas  
 
+![Perguntas online](../semanaQuimica/Conceitos/semanaQuimicaPerguntas.png "Perguntas online")  
+
+<!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
+
+
  ![Foto professor](_/img_EvemtoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
-        Contato: dalton@furb.br  
+        Contato: dalton@furb.br  ## Nossos cursos  
+
+- [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
+- [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
+
+## Agradecimento
+
+Aos Grupos de Pesquisa  
+![Logo_LDTT](../semanaQuimica/Conceitos/LogoA_LDTT.png "Logo_LDTT")  ![Logo_Habitat](../semanaQuimica/Conceitos/LogoA_Habitat.png "Logo_Habitat")  
