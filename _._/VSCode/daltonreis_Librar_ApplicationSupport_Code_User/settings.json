@@ -38,7 +38,6 @@
     },
 	"editor.insertSpaces": true,
 	"editor.tabSize": 2,
-	"diffEditor.renderSideBySide": true,
 	"editor.renderWhitespace": "none",
 	"editor.renderControlCharacters": true,
 	"todohighlight.isEnable": true,
@@ -199,9 +198,7 @@
 
 				
 				],
-				"workbench.editor.showTabs": false,
 				"editor.minimap.enabled": false,
-				"workbench.editor.enablePreview": false,
 				"remoteHub.commitDirectlyWarning": "off",
 				"github.copilot.enable": {
 					"*": false,
@@ -232,5 +229,9 @@
 												"translatorHelper.targetLanguage": "pt",
 												"workbench.colorTheme": "Default Light Modern",
 												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
+												"workbench.editor.enablePreview": false,
+												"workbench.editor.showTabs": false,
+												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
+												"diffEditor.ignoreTrimWhitespace": false,
 												"window.zoomLevel": 1
 }

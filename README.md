@@ -100,7 +100,7 @@ Outra forma seria usando o GitHub: [https://github.dev/github/dev](https://githu
 
 ## GitHub
 
-- <https://github.com/dalton-reis/tecnologia_Git>  
+- <https://github.com/dalton-reis/projetoEnsino/tree/main/Git>  
 
 ----
 
