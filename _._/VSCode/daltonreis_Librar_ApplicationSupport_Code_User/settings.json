@@ -127,6 +127,7 @@
 		"Metaverso",
 		"Péricas",
 		"pollonio",
+		"SEMINCO",
 		"Spoj",
 		"tccs",
 		"TODO:",
@@ -232,6 +233,5 @@
 												"workbench.editor.enablePreview": false,
 												"workbench.editor.showTabs": false,
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
-												"diffEditor.ignoreTrimWhitespace": false,
-												"window.zoomLevel": 1
+												"diffEditor.ignoreTrimWhitespace": false
 }
