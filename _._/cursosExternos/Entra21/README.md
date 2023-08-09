@@ -3,6 +3,7 @@
 ## Coordenador pedagógico
 
 prof. [Dalton Solano dos Reis](https://github.com/dalton-reis/dalton-reis "Dalton Solano dos Reis")  
+Informações: (47) 99101-2777 (WhatsApp)
 
 ## Turma vespertino
 
