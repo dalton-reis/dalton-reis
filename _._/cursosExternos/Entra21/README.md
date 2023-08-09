@@ -10,7 +10,7 @@ prof. [Dalton Solano dos Reis](https://github.com/dalton-reis/dalton-reis "Dalto
 
   FURB - câmpus 1 - Central  
   Rua Antônio da Veiga, 140  
-  Blumenau - SC
+  Blumenau - SC  
 ![FURB - Câmpus 1](furbCampus1_fachada.png)  
 
   Bloco S  
@@ -22,7 +22,7 @@ prof. [Dalton Solano dos Reis](https://github.com/dalton-reis/dalton-reis "Dalto
 
   FURB - câmpus 2  
   Rua São Paulo, 3250
-  Blumenau - SC
+  Blumenau - SC  
 ![FURB - Câmpus 1](furbCampus2_fachada.png)  
 
   Bloco G  
