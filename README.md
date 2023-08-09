@@ -4,6 +4,8 @@
 
         Nome: Dalton Solano dos Reis
         Contato: dalton@furb.br
+        WhatsApp: (47) 99101-2777  
+![Dalton Reis WhatsApp](_._/img_DaltonReisWhatsApp.png)  
 
         1988-1992: Graduação na FURB (primeira turma de Computação)
         1994-1997: Mestrado (M.Sc.) na UFRGS .. Área Gráfica
@@ -19,16 +21,17 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 1a fase - Introdução à Programação  
 2a fase - Lógica para Computação  
 4a fase - Compiladores  
+7a fase - Computação Gráfica  
 7a fase - Sistemas Multimídia  
 8a fase - Desenvolvimento para Plataformas Móveis  
+8a fase - Trabalho de Conclusão de Curso I BCC  
+8a fase - Trabalho de Conclusão de Curso I SIS  
 
 ## Leciono atualmente
 
-[1a fase - Introdução à Programação](https://github.com/dalton-reis/disciplinaIpMatA "1a fase - Introdução à Programação")  
-[7a fase - Computação Gráfica](https://github.com/dalton-reis/disciplinaCg "7a fase - Computação Gráfica")  
-[8a fase - Realidade Virtual](https://github.com/dalton-reis/disciplinaRv "8a fase - Realidade Virtual")  
-[8a fase - Trabalho de Conclusão de Curso I BCC](https://github.com/dalton-reis/disciplinaTCC1bcc "8a fase - Trabalho de Conclusão de Curso I BCC")  
-[8a fase - Trabalho de Conclusão de Curso I SIS](https://github.com/dalton-reis/disciplinaTCC1sis "8a fase - Trabalho de Conclusão de Curso I SIS")  
+[1a fase - Introdução à Programação](https://github.com/dalton-reis/IP_Noturno_2023_2 "1a fase - Introdução à Programação")  
+[7a fase - Computação Gráfica](https://github.com/dalton-reis/CG_Noturno_2023_2 "7a fase - Computação Gráfica")  
+[8a fase - Realidade Virtual](https://github.com/dalton-reis/RV_Noturno_2023_2 "8a fase - Realidade Virtual")  
 
 ## Profissional
 
