@@ -27,7 +27,8 @@ Informações: (47) 99101-2777 (WhatsApp)
 ### Instrutor
 
     Henrique Delegrego
-    
+    E-Mail: hdelegrego@furb.br
+
 ----
 
 ## Turma noturno
@@ -49,3 +50,4 @@ Informações: (47) 99101-2777 (WhatsApp)
 ### Instrutora
 
     Maria Júlia Testoni
+    E-Mail: mjt@furb.br

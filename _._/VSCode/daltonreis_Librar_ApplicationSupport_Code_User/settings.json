@@ -233,5 +233,6 @@
 												"workbench.editor.enablePreview": false,
 												"workbench.editor.showTabs": false,
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
-												"diffEditor.ignoreTrimWhitespace": false
+												"diffEditor.ignoreTrimWhitespace": false,
+												"window.zoomLevel": 1
 }
