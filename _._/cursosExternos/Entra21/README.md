@@ -40,7 +40,7 @@ Informações: (47) 99101-2777 (WhatsApp)
 
 ## Turma noturno
 
-    Horário: 18:15~22:00  
+    Horário: 18:00~22:00  
 
 ### Localização - campus 2
 
