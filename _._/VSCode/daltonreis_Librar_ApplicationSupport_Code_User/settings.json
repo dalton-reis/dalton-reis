@@ -55,7 +55,6 @@
 	"terminal.integrated.rendererType": "dom",
 	"workbench.startupEditor": "newUntitledFile",
 	"debug.onTaskErrors": "showErrors",
-	"csharp.referencesCodeLens.enabled": false,
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"java.semanticHighlighting.enabled": true,
@@ -234,5 +233,6 @@
 												"workbench.editor.showTabs": false,
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
 												"diffEditor.ignoreTrimWhitespace": false,
-												"window.zoomLevel": 1
+												"window.zoomLevel": -2,
+												"dotnet.codeLens.enableReferencesCodeLens": false
 }
