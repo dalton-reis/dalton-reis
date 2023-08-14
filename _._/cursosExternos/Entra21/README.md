@@ -1,6 +1,7 @@
 # Curso do Entra21
 
 [www.entra21.com.br](https://www.entra21.com.br/)
+E-Mail FURB: <entra21@furb.br>  
 
 ## Coordenador pedagógico
 
