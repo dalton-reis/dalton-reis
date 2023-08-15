@@ -7,7 +7,7 @@
 
 ## Laboratórios
 
-<https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores>  
+<https://www.icloud.com/numbers/0f0K9cyn1GJDhsbd-z4rG8WIQ#Laboratorios>  
 ![QRCode laboratórios](planilhaLaboratorio.png)  
 
 ## Turmas
