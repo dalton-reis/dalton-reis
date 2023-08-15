@@ -233,6 +233,6 @@
 												"workbench.editor.showTabs": false,
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
 												"diffEditor.ignoreTrimWhitespace": false,
-												"window.zoomLevel": -2,
-												"dotnet.codeLens.enableReferencesCodeLens": false
+												"dotnet.codeLens.enableReferencesCodeLens": false,
+												"window.zoomLevel": 1
 }
