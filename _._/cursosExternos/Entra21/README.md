@@ -22,6 +22,8 @@ Informações: (47) 99101-2777 (WhatsApp)
     Blumenau - SC  
     Bloco S - laboratório S-429  
 
+    [Google Maps](https://goo.gl/maps/JHjdgLjRQYB54xne9)  
+
 ![FURB - Campus 1](furbCampus1_fachada.png)  
 ![Bloco S](furbCampus1_blocoS.png)  
 
@@ -51,6 +53,8 @@ Informações: (47) 99101-2777 (WhatsApp)
     Rua São Paulo, 3250  
     Blumenau - SC    
     Bloco G - laboratório 011  
+
+    [Google Maps](https://goo.gl/maps/sxaEvXFJuni1LtaPA)
 
 ![FURB - Campus 2](furbCampus2_fachada.png)  
 ![Bloco G](furbCampus2_blocoG.png)  
