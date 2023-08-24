@@ -9,7 +9,7 @@ prof. [Dalton Solano dos Reis](https://github.com/dalton-reis/dalton-reis "Dalto
 Informações: (47) 99101-2777 (WhatsApp)  
 ![Dalton Reis WhatsApp](../../img_DaltonReisWhatsApp.png)
 
-## Atestado Cartão Escolar
+----
 
 ![RebecaProway_AtestadoPasse](RebecaProway_AtestadoPasse.png)  
 
