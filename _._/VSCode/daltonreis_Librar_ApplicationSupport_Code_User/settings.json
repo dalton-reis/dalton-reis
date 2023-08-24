@@ -216,7 +216,6 @@
 			],
 			"plantuml.exportFormat": "svg",
 			"plantuml.exportSubFolder": false,
-			"java.inlayHints.parameterNames.enabled": "none",
 			"githubPullRequests.createOnPublishBranch": "never",
 			"zotenote.destination": "tcc",
 			"discord-chat.token": "NjI4OTc1MDU1MjEyMzgwMTYw.GuYODM.9BXVEtfXo4TjO1lg-OgrMTBFayj2fcYzkwiYuE",
@@ -233,5 +232,7 @@
 												"workbench.editor.showTabs": false,
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
 												"diffEditor.ignoreTrimWhitespace": false,
-												"dotnet.codeLens.enableReferencesCodeLens": false
+												"dotnet.codeLens.enableReferencesCodeLens": false,
+												"java.inlayHints.parameterNames.enabled": "none",
+												"window.zoomLevel": 1
 }
