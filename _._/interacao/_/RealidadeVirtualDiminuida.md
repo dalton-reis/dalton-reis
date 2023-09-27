@@ -12,10 +12,10 @@ experiência de [imersão](../README.md#imersão "imersão") maior;
 ## RD - Exemplos
 
 Remoção de objetos com um fundo complexo - [Chroma Key](https://pt.wikipedia.org/wiki/Chroma_key "Chroma Key") sem ter um fundo de cor fixa (ambiente estruturado).  
-![Objetos Removidos - Pessoa](../_/Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
+![Objetos Removidos - Pessoa](Conceitos/RD_DiminishedRealityPlate_noText.gif "Objetos Removidos - Pessoa")  
 
 Remoção de objetos usando tablet em ambiente não estruturado.  
-![Objetos Removidos - Tablet](../_/Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
+![Objetos Removidos - Tablet](Conceitos/RD_Tablet.mov "Objetos Removidos - Tablet")  
 
 Remoção de objetos com seleção de região ([Region Of Interest - ROI](https://en.wikipedia.org/wiki/Region_of_interest "Region Of Interest - ROI")) em ambiente não estruturado.  
-![Objetos Removidos Externo](../_/Conceitos/RD_Externo.mov "Objetos Removidos Externo")  
+![Objetos Removidos Externo](Conceitos/RD_Externo.mov "Objetos Removidos Externo")  

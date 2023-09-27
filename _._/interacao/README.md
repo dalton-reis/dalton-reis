@@ -14,8 +14,8 @@ Pensei em algumas perguntas para tentarmos responder
 - Eu já usei algo de Realidade Virtual?  
 - Eu sei o que é Realidade Virtual?  
 - Qual a diferença entre Realidade Virtual e Metaverso? Hum, será que Metaverso é a palavra da "moda".  
-- Onde se pode usar Realidade Virtual?  
 - Realidade Virtual veio para ficar, ou é apenas uma "modinha" passageira?  
+- Onde se pode usar Realidade Virtual?  
 - e outras perguntas de vocês no final da apresentação ... assim espero 😁  
 
 ## Agenda
