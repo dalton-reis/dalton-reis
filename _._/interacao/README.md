@@ -319,4 +319,8 @@ Eu fui 😁 ...
 ## Agradecimento
 
 Aos Grupos de Pesquisa  
+
+[https://www.furb.br/furbot](https://www.furb.br/furbot "https://www.furb.br/furbot")  
+[https://www.furb.br/habitat](https://www.furb.br/habitat "https://www.furb.br/habitat")  
+
 ![Logo_LDTT](../semanaQuimica/Conceitos/LogoA_LDTT.png "Logo_LDTT")  ![Logo_Habitat](../semanaQuimica/Conceitos/LogoA_Habitat.png "Logo_Habitat")  
