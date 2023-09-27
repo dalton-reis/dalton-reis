@@ -162,6 +162,11 @@ Uso do Oculus Quest 2 por professores da FURB - TCCs.
 [2021 - Gabriel Garcia Salvador](https://github.com/gcgfurb/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
 [2021 - Leonardo Rovigo](https://github.com/gcgfurb/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
 
+###### Vision Pro - Apple
+
+[https://www.apple.com/apple-vision-pro/](https://www.apple.com/apple-vision-pro/)  
+![HMD_VisionPro](_/Conceitos/HMD_VisionPro.png)
+
 ##### SmartPhones e outros
 
 Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
