@@ -2,7 +2,7 @@
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
- ![Foto professor](_/img_EvemtoDaltonReisQRCode.png "Foto professor")  
+ ![Foto professor](_/img_EventoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
         Contato: dalton@furb.br  
 
@@ -303,7 +303,7 @@ Eu fui 😁 ...
 <!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
 
 
- ![Foto professor](_/img_EvemtoDaltonReisQRCode.png "Foto professor")  
+ ![Foto professor](_/img_EventoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
         Contato: dalton@furb.br  ## Nossos cursos  
 
