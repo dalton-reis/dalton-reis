@@ -236,6 +236,5 @@
 												"java.inlayHints.parameterNames.enabled": "none",
 												"plantuml.includepaths": [
 												
-												],
-												"window.zoomLevel": 1
+												]
 }
