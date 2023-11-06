@@ -1,4 +1,4 @@
-# Curso do Entra21
+# Curso do Entra21 - 2023
 
 [www.entra21.com.br](https://www.entra21.com.br/)
 E-Mail FURB: <entra21@furb.br>  
@@ -12,6 +12,12 @@ Informações: (47) 99101-2777 (WhatsApp)
 ----
 
 ![RebecaProway_AtestadoPasse](RebecaProway_AtestadoPasse.png)  
+
+----
+
+## Calendário
+
+[Entra21_2023_calendario.pdf](Entra21_2023_calendario.pdf "Entra21_2023_calendario.pdf")  
 
 ----
 
@@ -43,6 +49,21 @@ Informações: (47) 99101-2777 (WhatsApp)
     Andrew Graham O'Loughlin
     E-Mail: andy_g.o@live.co.uk
 
+#### Empreendedorismo - vespertino
+
+    Eduardo Deschamps
+    E-Mail: edudes@furb.br
+
+#### Contabilidade e Finanças - vespertino
+
+    .. a confirmar
+    E-Mail: 
+
+#### Desenvolvimento Humano e Organizacional (DHO) - vespertino
+
+    .. a confirmar
+    E-Mail: 
+
 ----
 
 ## Turma noturno
@@ -72,3 +93,18 @@ Informações: (47) 99101-2777 (WhatsApp)
 
     Andrew Graham O'Loughlin
     E-Mail: andy_g.o@live.co.uk
+
+#### Empreendedorismo - noturno
+
+    Eduardo Deschamps
+    E-Mail: edudes@furb.br
+
+#### Contabilidade e Finanças - noturno
+
+    .. a confirmar
+    E-Mail: 
+
+#### Desenvolvimento Humano e Organizacional (DHO) - noturno
+
+    .. a confirmar
+    E-Mail: 
