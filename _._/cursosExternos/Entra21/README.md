@@ -75,7 +75,7 @@ Informações: (47) 99101-2777 (WhatsApp)
     FURB - campus 2  
     Rua São Paulo, 3250  
     Blumenau - SC    
-    Bloco G - laboratório 011  
+    Bloco G - laboratório G-011  
 
 [Google Maps](https://goo.gl/maps/sxaEvXFJuni1LtaPA "Google Maps")
 
