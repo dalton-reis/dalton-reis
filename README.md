@@ -46,6 +46,7 @@ Assuntos relacionados com a área da educação
 [Pensamento Computacional na Educação Básica](<https://youtu.be/gfks3z1zsYk> "Pensamento Computacional na Educação Básica")  
 
 ## Grupos de Pesquisa
+
 [LDTT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
 [TecEdu - <https://tecedufurb.github.io/portal/>](https://tecedufurb.github.io/portal/ "grupo de pesquisa TecEdu")  
@@ -115,6 +116,13 @@ Outra forma seria usando o GitHub: [https://github.dev/github/dev](https://githu
 
 - <https://github.com/dalton-reis/projetoEnsino/tree/main/Git>  
 
+## GitHub Organizações
+
+[Pessoal](https://github.com/dalton-reis?tab=repositories)  
+[GCG](https://github.com/orgs/gcgfurb/repositories)  
+[TecEdu](https://github.com/orgs/tecedufurb/repositories)  
+[LDTT](https://github.com/orgs/LDTTFURB/repositories)  
+[Habitat](https://github.com/orgs/HabitatFURB/repositories)  
 
 ## APKs
 
