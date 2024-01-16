@@ -14,3 +14,7 @@
 
 <https://www.icloud.com/numbers/04f7jvWGgmqI54joBCdZVTo0g#TurmasDSC>  
 ![QRCode turmas](planilhaTurmas.png)  
+
+## Ingresso professor novo
+
+[IngressoProfessor](professorIngresso.md)  
