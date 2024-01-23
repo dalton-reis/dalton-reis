@@ -61,7 +61,7 @@ Informações: (47) 99101-2777 (WhatsApp)
 
 #### Desenvolvimento Humano e Organizacional (DHO) - vespertino
 
-    .. a confirmar
+    Natalí Pires de Campos
     E-Mail: 
 
 ----
@@ -106,5 +106,5 @@ Informações: (47) 99101-2777 (WhatsApp)
 
 #### Desenvolvimento Humano e Organizacional (DHO) - noturno
 
-    .. a confirmar
+    Natalí Pires de Campos
     E-Mail: 
