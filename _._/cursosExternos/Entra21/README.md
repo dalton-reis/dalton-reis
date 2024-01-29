@@ -17,7 +17,7 @@ Informações: (47) 99101-2777 (WhatsApp)
 
 ## Calendário
 
-[Entra21_2023_calendario.pdf](Entra21_2023_calendario.pdf "Entra21_2023_calendario.pdf")  
+[Entra21_2023_cronograma.pdf](Entra21_2023_cronograma.pdf)  
 
 ----
 
