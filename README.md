@@ -29,9 +29,11 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 
 ## Leciono atualmente
 
-[1a fase - Introdução à Programação](https://github.com/dalton-reis/IP_Noturno_2023_2 "1a fase - Introdução à Programação")  
-[7a fase - Computação Gráfica](https://github.com/dalton-reis/CG_Noturno_2023_2 "7a fase - Computação Gráfica")  
-[8a fase - Realidade Virtual](https://github.com/dalton-reis/RV_Noturno_2023_2 "8a fase - Realidade Virtual")  
+[7a fase - Computação Gráfica (BCC-M)](https://github.com/dalton-reis/CG_2024_1_A "7a fase - Computação Gráfica (BCC-M)")  
+[7a fase - Computação Gráfica (BCC-N)](https://github.com/dalton-reis/CG_2024_1_B "7a fase - Computação Gráfica (BCC-N)")  
+[8a fase - Realidade Virtual (BCC-N)](https://github.com/dalton-reis/RV_2024_1 "8a fase - Realidade Virtual (BCC-N)")
+[8a fase - Trabalho de Conclusão de Curso I (BCC-N)](https://github.com/dalton-reis/TCC1_2024_1/tree/main/_BCC "8a fase - Trabalho de Conclusão de Curso I (BCC-N)")
+[7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/TCC1_2024_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")
 
 ## Profissional
 
