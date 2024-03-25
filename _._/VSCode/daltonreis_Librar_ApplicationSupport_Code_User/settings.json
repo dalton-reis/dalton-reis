@@ -99,7 +99,7 @@
 		"editor.suggest.snippetsPreventQuickSuggestions": false,
 		"editor.suggestSelection": "first",
 		"editor.tabCompletion": "onlySnippets",
-		"editor.wordBasedSuggestions": false
+		"editor.wordBasedSuggestions": "off"
 	},
 	"dart.debugExternalLibraries": false,
 	"dart.debugSdkLibraries": false,
@@ -169,7 +169,6 @@
 		"yml"
 	],
 		"java.project.outputPath": "",
-		"workbench.editor.untitled.hint": "hidden",
 		"hediet.vscode-drawio.codeLinkActivated": true,
 		"gutenberg.pandocCmdArgs": {
 		
@@ -226,15 +225,16 @@
 												"gitlens.views.commitDetails.files.layout": "tree",
 												"markdownlint.focusMode": false,
 												"translatorHelper.targetLanguage": "pt",
-												"workbench.colorTheme": "Default Light Modern",
+												"workbench.colorTheme": "Default Dark+",
 												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
 												"workbench.editor.enablePreview": false,
-												"workbench.editor.showTabs": false,
+												"workbench.editor.showTabs": "single",
 												"markdown.editor.pasteUrlAsFormattedLink.enabled": true,
 												"diffEditor.ignoreTrimWhitespace": false,
 												"dotnet.codeLens.enableReferencesCodeLens": false,
 												"java.inlayHints.parameterNames.enabled": "none",
 												"plantuml.includepaths": [
 												
-												]
+												],
+												"workbench.editor.empty.hint": "hidden"
 }
