@@ -108,32 +108,19 @@
 	"omnisharp.monoPath": "",
 	"cSpell.language": "pt,pt-BR,en",
 	"cSpell.ignoreWords": [
-		"sera"
+
 	],
 	"editor.codeLens": false,
 	"editor.accessibilitySupport": "off",
 	"plantuml.server": "https://www.plantuml.com/plantuml",
 	"plantuml.exportOutDir": "svg",
 	"cSpell.userWords": [
-		"CCEN",
-		"cepe",
-		"drawio",
 		"FIXME:",
-		"FURB",
-		"imgs",
-		"Indentação",
-		"marginnote",
-		"Metaverso",
-		"Péricas",
-		"pollonio",
-		"SEMINCO",
-		"Spoj",
-		"tccs",
-		"TODO:",
-		"Valdameri",
-		"Vuforia",
-		"zotero"
+		"TODO:"
 	],
+  "cSpell.enableFiletypes": [
+    "!csharp"
+  ],
 	"cSpell.enabledLanguageIds": [
 		"asciidoc",
 		"c",
@@ -225,7 +212,7 @@
 												"gitlens.views.commitDetails.files.layout": "tree",
 												"markdownlint.focusMode": false,
 												"translatorHelper.targetLanguage": "pt",
-												"workbench.colorTheme": "Dracula Soft",
+												"workbench.colorTheme": "Visual Studio Dark",
 												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
 												"workbench.editor.enablePreview": false,
 												"workbench.editor.showTabs": "single",
