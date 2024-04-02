@@ -88,31 +88,11 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver: 
 
 ## VSCode
 
-As extensões que eu uso no VSCode (27/01/2023): [Extensões](_._/VSCode/VsCodeExtensoes.md "Extensões")  
-
-Caso queira listar quais extensões está usando pode usar os comando em:  
-Unix:  
-> code --list-extensions | xargs -L 1 echo code --install-extension
-
-Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):  
-> code --list-extensions | % { "code --install-extension $_" }
-
-A loja oficial de extensões para o VSCode é: <https://marketplace.visualstudio.com/VSCode>  
-
-### VSCode - Versão Web
-
-[https://vscode.dev/](https://vscode.dev/)  
-
-Também existe a opção de usar o VSCode usando um Navegador Web (Browser), mas aconselho a só usar como um "plano B". Acredito que a opção IDE Desktop ainda seja mais indicada.  
-
-Outra forma seria usando o GitHub: [https://github.dev/github/dev](https://github.dev/github/dev), como o GitHub e o VSCode são mantidos pela Microsoft, exite uma forte integração entre eles.  
+<https://github.com/dalton-reis/projetoEnsino/tree/main/VSCode>  
 
 ## Markdown
 
-- <https://www.markdownguide.org>  
-- <https://code.visualstudio.com/docs/languages/markdown>  
-- <https://daringfireball.net/projects/markdown/>  
-- <https://github.github.com/gfm/>  
+<https://github.com/dalton-reis/projetoEnsino/tree/main/Markdown>  
 
 ## GitHub
 

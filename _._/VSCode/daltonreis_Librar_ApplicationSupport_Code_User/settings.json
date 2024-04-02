@@ -212,7 +212,7 @@
 												"gitlens.views.commitDetails.files.layout": "tree",
 												"markdownlint.focusMode": false,
 												"translatorHelper.targetLanguage": "pt",
-												"workbench.colorTheme": "Visual Studio Dark",
+												"workbench.colorTheme": "Visual Studio Light",
 												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
 												"workbench.editor.enablePreview": false,
 												"workbench.editor.showTabs": "single",
