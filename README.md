@@ -96,7 +96,7 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver: 
 
 ## GitHub
 
-- <https://github.com/dalton-reis/projetoEnsino/tree/main/Git>  
+<https://github.com/dalton-reis/projetoEnsino/tree/main/Git>  
 
 ## GitHub Organizações
 
