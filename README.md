@@ -29,8 +29,7 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 
 ## Leciono atualmente
 
-[7a fase - Computação Gráfica (BCC-M)](https://github.com/dalton-reis/CG_2024_1_A "7a fase - Computação Gráfica (BCC-M)")  
-[7a fase - Computação Gráfica (BCC-N)](https://github.com/dalton-reis/CG_2024_1_B "7a fase - Computação Gráfica (BCC-N)")  
+[7a fase - Computação Gráfica (BCC-M\/BCC-N)](https://github.com/dalton-reis/CG_2024_1 "7a fase - Computação Gráfica (BCC-M\/BCC-N)")  
 [8a fase - Realidade Virtual (BCC-N)](https://github.com/dalton-reis/RV_2024_1 "8a fase - Realidade Virtual (BCC-N)")  
 [8a fase - Trabalho de Conclusão de Curso I (BCC-N)](https://github.com/dalton-reis/TCC1_2024_1/tree/main/_BCC "8a fase - Trabalho de Conclusão de Curso I (BCC-N)")  
 [7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/TCC1_2024_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")  
@@ -84,19 +83,23 @@ Um dos desenvolvedores foi meu aluno (Bruno Fischer Ferreira Santos), orientando
 
 ## Ferramentas
 
-Para saber quais ferramentas usamos para montar o material das disciplinas ver: [ferramentas](_._/ferramentas.md)  
+Para saber quais ferramentas usamos para montar o material das disciplinas ver:
+
+- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/PlantUML>  
+- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/DrawIO>  
+- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Latex>  
 
 ## VSCode
 
-<https://github.com/dalton-reis/projetoEnsino/tree/main/VSCode>  
+<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
 
 ## Markdown
 
-<https://github.com/dalton-reis/projetoEnsino/tree/main/Markdown>  
+<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Markdown>  
 
 ## GitHub
 
-<https://github.com/dalton-reis/projetoEnsino/tree/main/Git>  
+<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>  
 
 ## GitHub Organizações
 
