@@ -116,6 +116,7 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 ----
 
 <video src="_._/Simpsons_Couch-Gag-iPhone.mp4" controls title="Title"></video>
+![ExterminadorWD40](_._/ExterminadorWD40.png)  
 
 ## WakaTime
 
