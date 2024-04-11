@@ -114,8 +114,8 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 [APKs](https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing)  
 
 ----
+<video controls src="_._/Simpsons_Couch-Gag-iPhone.mp4" title="Title"></video>  
 
-<video src="_._/Simpsons_Couch-Gag-iPhone.mp4" controls title="Title"></video>
 ![ExterminadorWD40](_._/ExterminadorWD40.png)  
 
 ## WakaTime
