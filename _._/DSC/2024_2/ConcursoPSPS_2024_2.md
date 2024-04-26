@@ -25,7 +25,7 @@ Link: <>
 ## Área Temática: Programação de Computadores
 
 Edital N° 021/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+As inscrições serão realizadas nos dias 13 a 17 de maio de 2024  
 Prova Didática 29/05/2024 14h - Campus I - Sala S - 401  
 Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/351/anexos/qPrXCl2vqaMdreBmVx13sV8xVmSgWHCUDl5t78TH.pdf>  
 
