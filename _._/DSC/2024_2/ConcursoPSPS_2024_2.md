@@ -15,12 +15,10 @@ Link: <>
 
 ## Área Temática: Hardware
 
-**Atenção**: a ser publicado nos próximos dias ... favor aguardar.  
-
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 027/2024  
+As inscrições serão realizadas nos dias 16 a 22 de maio de 2024  
 Prova Didática 05/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/352/anexos/1CHy8ehnvb7FdObVqFK5I4yP1WmJ9NGAWblPevzC.pdf>  
 
 ## Área Temática: Programação de Computadores
 
