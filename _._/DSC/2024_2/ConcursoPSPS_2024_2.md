@@ -29,10 +29,10 @@ Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/351/anexos/qPrXCl
 
 ## Área Temática: Redes de Computadores
 
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 040/2024  
+As inscrições serão realizadas nos dias 23 a 29 de maio de 2024  
 Prova Didática 12/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/356/anexos/OKnFRLOKGHkuSufmFzYP008w5n3dUoTaJSSgASAu.pdf>  
 
 ## Área Temática: Sistemas de informação
 
@@ -43,17 +43,17 @@ Link: <>
 
 ## Área Temática: Sistemas Operacionais
 
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 038/2024  
+As inscrições serão realizadas nos dias 23 a 29 de maio de 2024  
 Prova Didática 11/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/356/anexos/GC9aOCQC52gUaklJwxyQBcUDvhmI81IMuhxQHkeh.pdf>  
 
 ## Área Temática: Tecnologias Digitais na Educação
 
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 041/2024  
+As inscrições serão realizadas nos dias 23 a 29 de maio de 2024  
 Prova Didática 13/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/356/anexos/p7drgJ7QA6VjV20gqWTUag2QK4rH81B8sbTN4VqC.pdf>  
 
 ![ConcursoPSPS_006_2023](ConcursoPSPS_2024_2.png)  
 <https://is.gd/rMyZRe>  
