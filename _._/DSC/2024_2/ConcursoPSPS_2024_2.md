@@ -36,6 +36,8 @@ Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/356/anexos/OKnFRL
 
 ## Área Temática: Sistemas de informação
 
+**Atenção**: a ser publicado nos próximos dias ... favor aguardar.  
+
 Edital N° 0XX/2024  
 As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
 Prova Didática 20/06/2024 14h - Campus I - Sala S - 401  
