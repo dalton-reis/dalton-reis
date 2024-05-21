@@ -6,12 +6,10 @@ Qualquer dúvida favor entrar em contato com prof. Dalton Reis (<dalton@furb.br>
 
 ## Área Temática: Banco de Dados
 
-**Atenção**: a ser publicado nos próximos dias ... favor aguardar.  
-
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 051/2024  
+As inscrições serão realizadas nos dias 04 a 10 de junho de 2024  
 Prova Didática 27/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/357/anexos/qw9E3e3Ykh8zQwMoPfhsRfEJU9XyAaCnE1Ouldy1.pdf>  
 
 ## Área Temática: Hardware
 
@@ -36,12 +34,10 @@ Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/356/anexos/OKnFRL
 
 ## Área Temática: Sistemas de informação
 
-**Atenção**: a ser publicado nos próximos dias ... favor aguardar.  
-
-Edital N° 0XX/2024  
-As inscrições serão realizadas nos dias XX a XX de XXXX de 2024  
+Edital N° 048/2024  
+As inscrições serão realizadas nos dias 04 a 10 de junho de 2024  
 Prova Didática 20/06/2024 14h - Campus I - Sala S - 401  
-Link: <>  
+Link: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/357/anexos/w3cZd4cnBZ9p00WhnxLbvdrLCNZNYIQTkwJ9RrAW.pdf>  
 
 ## Área Temática: Sistemas Operacionais
 
