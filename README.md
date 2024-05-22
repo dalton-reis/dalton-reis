@@ -118,6 +118,10 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 
 ![ExterminadorWD40](_._/ExterminadorWD40.png)  
 
+Sabes como surgiu o QRCode?  
+Na verdade ele veio de um Código de Barra que tentou o suicídio 😁.  
+![alt text](_._/QRCode.png)
+
 ## WakaTime
 
 ![DashBoard](https://wakatime.com/share/@dalton_reis/bdb5b58b-d49f-4716-8757-bcf4995b4cf6.svg "DashBoard")  
