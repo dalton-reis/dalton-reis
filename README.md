@@ -48,6 +48,9 @@ Assuntos relacionados com a área da educação
 
 ## Grupos de Pesquisa
 
+
+
+[LDTT Instagram](https://www.instagram.com/p/C74ev_HpiHt/?igsh=M2dmMGM5N29nZmNv&img_index=1 "LDTT Insta - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [LDTT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
 [TecEdu - <https://tecedufurb.github.io/portal/>](https://tecedufurb.github.io/portal/ "grupo de pesquisa TecEdu")  
@@ -117,6 +120,9 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 <video controls src="_._/Simpsons_Couch-Gag-iPhone.mp4" title="Title"></video>  
 
 ![ExterminadorWD40](_._/ExterminadorWD40.png)  
+
+Minha mesa de trabalho ...  
+![mesa](_._/Mesa.png)  
 
 Sabes como surgiu o QRCode?  
 Na verdade ele veio de um Código de Barra que tentou o suicídio 😁.  
