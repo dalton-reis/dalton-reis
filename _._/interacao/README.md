@@ -1,4 +1,4 @@
-# Interação - 2023
+# Meninas Digitais - 2024
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
@@ -6,12 +6,13 @@
         Nome: Dalton Solano dos Reis  
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
+<!--
 ## Departamento de Sistemas e Computação - DSC
 
 ![DSC_estrutura](_/DSC_estrutura.drawio.svg)  
 
 [Material sobre os cursos](_/DSC_2023.pdf "Material sobre os cursos")  
-
+-->
 ## Inquietações
 
 Pensei em algumas perguntas para tentarmos responder  
