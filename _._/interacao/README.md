@@ -321,10 +321,12 @@ Eu fui 😁 ...
         Nome: Dalton Solano dos Reis  
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
+<!--
 ## Nossos cursos  
 
 - [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
 - [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
+-->
 
 ## Estações
 
