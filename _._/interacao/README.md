@@ -27,12 +27,13 @@ Pensei em algumas perguntas para tentarmos responder
 ## Agenda
 
 - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
-- Termos  
-- Linha do Tempo  
-- Tipos de Realidades Virtuais
-- Para saber mais
-- Mais Exemplos  
-- Perguntas  
+- [Conceitos](#conceitos)  
+- [Linha do Tempo](#linha-do-tempo)  
+- [Tipos de Realidades Virtuais](#tipos-de-realidades-virtuais)  
+- [Para saber mais](#para-saber-mais)  
+- [Mais Exemplos](#mais-exemplos)  
+- [Perguntas](#perguntas)
+- [Estações](#estações)  
 
 ## Conceitos
 
@@ -52,7 +53,9 @@ Alguns [termos](#termos "termos") importantes para área da Realidade Virtual.
 
 #### Imersão
 
-Sentimento de estar-se dentro do ambiente.  
+Sentimento de estar-se dentro do ambiente. Ser humano usa os sentidos para perceber o mundo real. Se controlar estes sentidos, se consegue maximizar a imersão no mundo virtual. Uma forma de  "controlar" os sentidos é usando as Ilusões de Ótica.  
+
+[PercepcaoVisual-IlusaoOtica](_/Conceitos/PercepcaoVisual-IlusaoOtica.pdf)  
 
 #### Interação
 
