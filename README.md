@@ -48,8 +48,6 @@ Assuntos relacionados com a área da educação
 
 ## Grupos de Pesquisa
 
-
-
 [LDTT Instagram](https://www.instagram.com/p/C74ev_HpiHt/?igsh=M2dmMGM5N29nZmNv&img_index=1 "LDTT Insta - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [LDTT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
@@ -67,6 +65,10 @@ Assuntos relacionados com a área da educação
 - Oportunidade para fazer pesquisa: ser bolsista  
 
 ## Orgulho
+
+### Parque Spitz - Balonismo Virtual
+
+<https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7207500112627920896/?midToken=AQG-otX11vVbsA&midSig=3PHEzFG-Ay0Xk1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-agsv~lxf86qfa~m4-null-null&eid=agsv-lxf86qfa-m4>
 
 ### Jogo - Play Grand Gate
 
@@ -88,21 +90,21 @@ Um dos desenvolvedores foi meu aluno (Bruno Fischer Ferreira Santos), orientando
 
 Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 
-- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/PlantUML>  
-- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/DrawIO>  
-- <https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Latex>  
+- <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/PlantUML>  
+- <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/DrawIO>  
+- <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Latex>  
 
 ## VSCode
 
-<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/VSCode>  
+<https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/VSCode>  
 
 ## Markdown
 
-<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Markdown>  
+<https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Markdown>  
 
 ## GitHub
 
-<https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git>  
+<https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Git>  
 
 ## GitHub Organizações
 
