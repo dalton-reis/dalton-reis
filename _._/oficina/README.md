@@ -1,4 +1,4 @@
-# Meninas Digitais - 2024
+# Interação FURB 2024
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
