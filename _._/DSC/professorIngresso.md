@@ -11,6 +11,7 @@
 ## DION - Diário OnLine
 
 [DION](https://www.furb.br/dion/)  
+[Fechar Diário](Professor_DION_FecharDiario.pdf)  
 
 -----  
 
