@@ -4,4 +4,4 @@ Mais próximo do evento serão postadas informações aqui.
 
 ## Data
 
-Dias 9 (segunda), 10 (terça) e 11 (quarta) de outubro.  
+Dias 8 (terça), 9 (quarta) e 10 (quinta) de outubro.  
