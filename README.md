@@ -75,7 +75,7 @@ Assuntos relacionados com a área da educação
 
 "Salve galera, divulgando aqui mais uma atualização do meu jogo, agora demos um Rebrand. Daqui uma semana abre inscrições para um *Playtest* lá na Steam. Espero que gostem!! Segue trailer e site.  
 <https://youtu.be/xQJtkhgJhto>  
-<https://www.playgrandgate.com/>  
+<https://store.steampowered.com/app/2066370/Grand_Gate/>  
 
 Um dos desenvolvedores foi meu aluno (Bruno Fischer Ferreira Santos), orientando de TCC, e hoje colega pesquisador em projetos no [LDTT](<http://www.furb.br/ldtt> "LDTT").
 
