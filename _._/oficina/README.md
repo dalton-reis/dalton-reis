@@ -1,7 +1,7 @@
 # Formação Pomerode -  FURB 2024
 
 <!-- # Interação FURB 2024 -->
-![Interacao2024](Interacao2024.png "Interacao2024")  
+<!-- ![Interacao2024](Interacao2024.png "Interacao2024")  -->
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
