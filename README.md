@@ -50,6 +50,7 @@ Assuntos relacionados com a área da educação
 ## Grupos de Pesquisa
 
 [LDTT Instagram](https://www.instagram.com/p/C74ev_HpiHt/?igsh=M2dmMGM5N29nZmNv&img_index=1 "LDTT Insta - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
+[LDTT LinkedIn](https://www.linkedin.com/company/laboratorio-de-desenvolvimento-e-transferência-tecnologica/ "LDTT LinkedIn")  
 [LDTT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
 [TecEdu - <https://tecedufurb.github.io/portal/>](https://tecedufurb.github.io/portal/ "grupo de pesquisa TecEdu")  
