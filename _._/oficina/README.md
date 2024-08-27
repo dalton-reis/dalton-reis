@@ -337,13 +337,30 @@ Eu fui 😁 ...
 
 Alguns exemplos de aplicativos desenvolvidos pelo nosso grupo na área de Realidade Virtual.  
 
+### Hardware
+
+#### Teclado Virtual  
+
+#### LeapMotion  
+
+#### Óculos RV (Flip)  
+
+#### CardBoard  
+
+
+
 ### RVi APP
 
 Exemplos de aplicativos de [Realidade Virtual Imersiva](#realidade-virtual-imersiva-rv--rvi)  
 
 #### Defesa Civil
+![DefesaCivil_Casa](_/Nossos/DefesaCivil_Casa.png)  
+![DefesaCivil_Entrada](_/Nossos/DefesaCivil_Entrada.png)  
+![DefesaCivil_helicoptero](_/Nossos/DefesaCivil_helicoptero.png)  
 
-<https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs>  
+APK: <https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs>  
+
+
 
 #### Consequências
 
