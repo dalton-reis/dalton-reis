@@ -37,7 +37,8 @@ Pensei em algumas perguntas para tentarmos responder
 - [Para saber mais](#para-saber-mais)  
 - [Mais Exemplos](#mais-exemplos)  
 - [Perguntas](#perguntas)
-- [Estações](#estações)  
+- [Estações/Atividade](#estações)  
+- [Atividade](#atividade)  
 
 ## Conceitos
 
@@ -331,9 +332,51 @@ Eu fui 😁 ...
 - [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
 -->
 
+<!-- ![estacoes.drawio.svg](_/estacoes.drawio.svg)  -->
 ## Estações
 
-![estacoes.drawio.svg](_/estacoes.drawio.svg)  
+Alguns exemplos de aplicativos desenvolvidos pelo nosso grupo na área de Realidade Virtual.  
+
+### RVi APP
+
+Exemplos de aplicativos de [Realidade Virtual Imersiva](#realidade-virtual-imersiva-rv--rvi)  
+
+#### Defesa Civil
+
+<https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs>  
+
+#### Consequências
+
+
+#### ARVid
+[https://apps.apple.com/br/app/arvid-augmented-reality/id1276546297] iOS  
+[https://arvid.app/]  
+
+#### Artivive
+
+### RA APP
+
+Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aumentada-ra)  
+
+#### Sistema Solar
+#### LibrAR
+#### ProgramAR
+#### Trunfo / QuimicAR
+#### RelevoAR
+#### Advinha Bicho
+#### Caixa D'Areia
+#### AnimAR
+#### Florestal  
+#### TransitAR
+
+
+
+
+## Atividade
+
+Agora vamos 
+[https://artivive.com/]
+
 
 ## Agradecimento
 
