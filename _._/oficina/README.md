@@ -66,12 +66,14 @@ Sentimento de estar-se dentro do ambiente. Ser humano usa os sentidos para perce
 
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele. Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
 
-Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
+##### Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
+
 ![TecladoVirtual](_/Conceitos/TecladoVirtual.png "TecladoVirtual")  
 
 Teclado Virtual (ao vivo 😅)  
 
-LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
+##### LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
+
 ![LeapMotion_Menu](_/Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
 
 LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
@@ -217,7 +219,7 @@ FolhAR - Explorando Folhas de Plantas com Realidade Aumentada
 ![Smartphone_Habitat_2021_2](_/Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
 [2021 - Bruno Geiser Vigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
 
-Caixa E-Água - Caixa de Areia Interativa
+###### Caixa E-Água - Caixa de Areia Interativa
 
 [http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html](http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html "http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html")  
 
@@ -341,59 +343,110 @@ Alguns exemplos de aplicativos desenvolvidos pelo nosso grupo na área de Realid
 
 #### Teclado Virtual  
 
+[Teclado Virtual](#teclado-virtual---alternativas-de-interação-usando-formas-tradicionais)  
+
 #### LeapMotion  
+
+[LeapMotion](#leapmotion---alternativas-de-interação-usando-formas-não-tradicionais)  
 
 #### Óculos RV (Flip)  
 
 #### CardBoard  
 
-
-
-### RVi APP
+### Aplicativos: RVi
 
 Exemplos de aplicativos de [Realidade Virtual Imersiva](#realidade-virtual-imersiva-rv--rvi)  
 
 #### Defesa Civil
+
 ![DefesaCivil_Entrada](_/Nossos/DefesaCivil_Entrada.png)  
 ![DefesaCivil_Casa](_/Nossos/DefesaCivil_Casa.png)  
 ![DefesaCivil_helicoptero](_/Nossos/DefesaCivil_helicoptero.png)  
 
 APK: <https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs>  
 
-
-
 #### Consequências
 
+APK: <https://play.google.com/store/apps/details?id=br.furb.ldtt.consequencia&pcampaignid=web_share>  
+
+#### RotaVR
+
+<https://drive.google.com/open?id=1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J&usp=drive_fs>  
 
 #### ARVid
-[https://apps.apple.com/br/app/arvid-augmented-reality/id1276546297] iOS  
-[https://arvid.app/]  
 
-#### Artivive
+Somente para iOS.  
+APP: <https://apps.apple.com/br/app/arvid-augmented-reality/id1276546297>  
 
-### RA APP
+#### ArtSteps
+
+APP: <https://www.artsteps.com/>  
+
+### Aplicativos: RA
 
 Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aumentada-ra)  
 
 #### Sistema Solar
+
+<https://drive.google.com/open?id=1HtcHBJPeKmqdLl3YRtqeZuq7zjI40Ywz&usp=drive_fs>  
+
 #### LibrAR
+
+
 #### ProgramAR
+
+<https://drive.google.com/open?id=1MLkthrt-5_h1ndjDtJ6IcFczIvQuJkpr&usp=drive_fs>  
+
 #### Trunfo / QuimicAR
+
+<https://play.google.com/store/apps/details?id=br.furb.ldtt.SuperTrunfo&pcampaignid=web_share>  
+
 #### RelevoAR
-#### Advinha Bicho
+
+<https://drive.google.com/open?id=1G-x-NFZKhtD6KF9xKW8bTyF-bsNeeHX5&usp=drive_fs>  
+
 #### Caixa D'Areia
+
+[Caixa D'Areia](#caixa-e-água---caixa-de-areia-interativa)  
+
 #### AnimAR
-#### Florestal  
-#### TransitAR
 
+<https://drive.google.com/open?id=16rirGv0Ix4XJa5QjgzoV2kgRAG_Xiul5&usp=drive_fs>  
 
+#### FlorestaSC RA
 
+<https://play.google.com/store/apps/details?id=br.furb.ldtt.FlorestaSCRA&pcampaignid=web_share>  
+
+#### Acroboard
+
+<https://drive.google.com/open?id=1-FuOGDWHad1txz-duBmWBFB6wWLBi6jv&usp=drive_fs>  
+
+<!-- #### Advinha Bicho -->
+
+#### Artivive
+
+[Artivive](#artivive-atividade)  
 
 ## Atividade
 
-Agora vamos 
-[https://artivive.com/]
+### ArtSteps Atividade
 
+Agora vamos desenvolver uma atividade usando um aplicativo de Realidade Virtual utilizando o ArtSteps.  
+
+A atividade pode ser feita em um desktop usando um navegador  
+<https://www.artsteps.com/>  
+
+Ou, usando o aplicativo
+<https://play.google.com/store/apps/details?id=gr.dataverse.artstepsv2&pcampaignid=web_share>  
+
+Para fazer a atividade siga o roteiro:  
+
+- crie um usuário  
+- crie um espaço (ArtWork) com no mínimo 3 sala  
+- selecione 3 peças e coloque uma em cada sala  
+- posicione o usuário na entrada  
+- defina uma rota para visitar as 3 peças (nas salas)  
+- publique, e enviei o link para Dalton [https://wa.me/5504799101277](https://wa.me/5504799101277)  
 
 ## Agradecimento
 
