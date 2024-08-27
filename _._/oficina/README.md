@@ -446,7 +446,7 @@ Para fazer a atividade siga o roteiro:
 - selecione 3 peças e coloque uma em cada sala  
 - posicione o usuário na entrada  
 - defina uma rota para visitar as 3 peças (nas salas)  
-- publique, e enviei o link para Dalton [https://wa.me/5504799101277](https://wa.me/5504799101277)  
+- publique, e enviei o link para Dalton [https://wa.me/55047991012777](https://wa.me/55047991012777)  
 
 ## Agradecimento
 
