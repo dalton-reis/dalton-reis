@@ -37,7 +37,7 @@ Pensei em algumas perguntas para tentarmos responder
 - [Para saber mais](#para-saber-mais)  
 - [Mais Exemplos](#mais-exemplos)  
 - [Perguntas](#perguntas)
-- [Estações/Atividade](#estações)  
+- [Estações](#estações)  
 - [Atividade](#atividade)  
 
 ## Conceitos
@@ -354,8 +354,8 @@ Alguns exemplos de aplicativos desenvolvidos pelo nosso grupo na área de Realid
 Exemplos de aplicativos de [Realidade Virtual Imersiva](#realidade-virtual-imersiva-rv--rvi)  
 
 #### Defesa Civil
-![DefesaCivil_Casa](_/Nossos/DefesaCivil_Casa.png)  
 ![DefesaCivil_Entrada](_/Nossos/DefesaCivil_Entrada.png)  
+![DefesaCivil_Casa](_/Nossos/DefesaCivil_Casa.png)  
 ![DefesaCivil_helicoptero](_/Nossos/DefesaCivil_helicoptero.png)  
 
 APK: <https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=drive_fs>  
