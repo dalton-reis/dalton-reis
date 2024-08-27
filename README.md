@@ -40,6 +40,10 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
         1989/XXXX - Início na FURB  
         2022/XXXX - Chefe do Departamento de Sistemas e Computação (DSC)  
 
+## Oficinas
+
+[Formação Pomerode -  FURB 2024](./_._/oficina/README.md)  
+
 ## Linhas pesquisa
 
 <!-- TODO: arrumar formatação -->
