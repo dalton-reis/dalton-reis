@@ -369,6 +369,11 @@ APK: <https://drive.google.com/open?id=1HnItO60iTpd3bTNIxkrSBpxTurWLvP_r&usp=dri
 
 APK: <https://play.google.com/store/apps/details?id=br.furb.ldtt.consequencia&pcampaignid=web_share>  
 
+#### FlorestaSC RA
+
+<https://play.google.com/store/apps/details?id=br.furb.ldtt.FlorestaSCRA&pcampaignid=web_share>  
+APK Teste: <https://drive.google.com/open?id=1PdJE8w7lk_oM_3i3FGqbLUFsLnPq1lqu&usp=drive_fs>  
+
 #### RotaVR
 
 <https://drive.google.com/open?id=1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J&usp=drive_fs>  
@@ -412,11 +417,6 @@ Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aume
 #### AnimAR
 
 <https://drive.google.com/open?id=16rirGv0Ix4XJa5QjgzoV2kgRAG_Xiul5&usp=drive_fs>  
-
-#### FlorestaSC RA
-
-<https://play.google.com/store/apps/details?id=br.furb.ldtt.FlorestaSCRA&pcampaignid=web_share>  
-APK Teste: <https://drive.google.com/open?id=1PdJE8w7lk_oM_3i3FGqbLUFsLnPq1lqu&usp=drive_fs>  
 
 #### Acroboard
 
