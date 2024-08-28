@@ -416,6 +416,7 @@ Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aume
 #### FlorestaSC RA
 
 <https://play.google.com/store/apps/details?id=br.furb.ldtt.FlorestaSCRA&pcampaignid=web_share>  
+APK Teste: <https://drive.google.com/open?id=1PdJE8w7lk_oM_3i3FGqbLUFsLnPq1lqu&usp=drive_fs>  
 
 #### Acroboard
 
