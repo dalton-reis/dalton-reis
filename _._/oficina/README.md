@@ -139,6 +139,8 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 #### [Realidade Virtual - Metaverso](_/RealidadeVirtualMetaverso.md)  
 
+----
+
 ## [Para saber mais](_/ParaSaberMais/ParaSaberMais.md)  
 
 ## Perguntas  
