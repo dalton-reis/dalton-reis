@@ -120,6 +120,12 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 [LDTT](https://github.com/orgs/LDTTFURB/repositories)  
 [Habitat](https://github.com/orgs/HabitatFURB/repositories)  
 
+## Aplicativos nas Lojas
+
+[Google Play](https://play.google.com/store/apps/developer?id=LDTT+-+FURB)  
+
+Apple: em breve ...  
+
 ## APKs
 
 [APKs](https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing)  
