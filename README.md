@@ -42,7 +42,7 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 
 ## Oficinas
 
-[Formação Pomerode -  FURB 2024](./_._/oficina/README.md)  
+[Interação FURB 2024](./_._/oficina/README.md)  
 
 ## Linhas pesquisa
 
