@@ -127,17 +127,17 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ![TiposRealidadeVirtual](_/Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
 
-#### [Realidade Virtual Imersiva (RV / RVi)](_/RealidadeVirtualImersiva.md)  
+## [Realidade Virtual Imersiva (RV / RVi)](_/RealidadeVirtualImersiva.md)  
 
-#### [Realidade Virtual Aumentada (RA)](_/RealidadeVirtualAumentada.md)  
+## [Realidade Virtual Aumentada (RA)](_/RealidadeVirtualAumentada.md)  
 
-#### [Realidade Virtual Diminuída (RD)](_/RealidadeVirtualDiminuida.md)  
+## [Realidade Virtual Diminuída (RD)](_/RealidadeVirtualDiminuida.md)  
 
-#### [Realidade Virtual Misturada (RM)](_/RealidadeVirtualMisturada.md)  
+## [Realidade Virtual Misturada (RM)](_/RealidadeVirtualMisturada.md)  
 
-#### [Realidade Virtual Alternativa (RAl)](_/RealidadeVirtualAlternativa.md)  
+## [Realidade Virtual Alternativa (RAl)](_/RealidadeVirtualAlternativa.md)  
 
-#### [Realidade Virtual - Metaverso](_/RealidadeVirtualMetaverso.md)  
+## [Realidade Virtual - Metaverso](_/RealidadeVirtualMetaverso.md)  
 
 ----
 
