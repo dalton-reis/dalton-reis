@@ -1,7 +1,7 @@
 
 # Interação FURB 2024  
 
-![Interacao2024](Interacao2024.png "Interacao2024")  
+![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")  
 <!-- # Formação Pomerode -  FURB 2024  -->
 
 ## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
@@ -10,13 +10,12 @@
         Nome: Dalton Solano dos Reis  
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
-<!--
 ## Departamento de Sistemas e Computação - DSC
 
 ![DSC_estrutura](_/DSC_estrutura.drawio.svg)  
 
-[Material sobre os cursos](_/DSC_2023.pdf "Material sobre os cursos")  
--->
+[Material sobre os cursos](./_/_._/OLD/2024_DSC.pdf"Material sobre os cursos")  
+
 ## Inquietações
 
 Pensei em algumas perguntas para tentarmos responder  
