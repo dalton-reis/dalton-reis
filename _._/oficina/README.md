@@ -1,10 +1,8 @@
 
-# Interação FURB 2024  
-
 ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")  
 <!-- # Formação Pomerode -  FURB 2024  -->
 
-## Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
+# Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
  ![Foto professor](_/img_EventoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
