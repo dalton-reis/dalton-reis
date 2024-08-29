@@ -143,6 +143,8 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ## [Para saber mais](_/ParaSaberMais/ParaSaberMais.md)  
 
+## [Aplicativos](_/RealidadeVirtualAplicativos.md)  
+
 ## Perguntas  
 
 [Perguntas e-mail: dalton@furb.br](mailto://dalton@furb.br "Perguntas e-mail: dalton@furb.br ")  
@@ -154,8 +156,6 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
 <!-- ![estacoes.drawio.svg](_/estacoes.drawio.svg)  -->
-
-## [Aplicativos](_/RealidadeVirtualAplicativos.md)  
 
 ## Atividade
 
