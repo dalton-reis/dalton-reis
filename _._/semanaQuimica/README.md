@@ -188,7 +188,7 @@ Uso do Oculus Quest 2 por professores da FURB - TCCs.
 
 ##### SmartPhones e outros
 
-Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
+Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual "Mundo Virtual")) para ser usado na área da Realidade Virtual.  
 
 iOS Google Street View: entrada (ao vivo 😅)  
 [iOS Google Street View](https://apps.apple.com/br/app/google-street-view/id904418768 "iOS Google Street View")  
