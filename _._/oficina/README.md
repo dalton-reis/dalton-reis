@@ -14,7 +14,7 @@
 
 ![DSC_estrutura](_/DSC_estrutura.drawio.svg)  
 
-[Material sobre os cursos](./_/_._/OLD/2024_DSC.pdf"Material sobre os cursos")  
+[Material sobre os cursos](./_/_._/OLD/2024_DSC.pdf "Material sobre os cursos")  
 
 ## Inquietações
 
