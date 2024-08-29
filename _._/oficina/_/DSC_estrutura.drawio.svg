@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1163px" height="283px" viewBox="-0.5 -0.5 1163 283" content="&lt;mxfile&gt;&lt;diagram id=&quot;07fea595-8f29-1299-0266-81d95cde20df&quot; name=&quot;Page-1&quot;&gt;7ZfBcpswEIafhmMyWIqxc4xxkubQ6YHptD0KWINqgTxCBLtPX0msDCRNJuk4aQ852Nb+u5JWq4+1HdC42t8qtis/yxxEQMJ8H9B1QMgsms/Mh1UOvXI2uwxJLxWK5xg2CAn/BSiGqLY8h2YSqKUUmu+mYibrGjI90ZhSspuGbaSY7rpjBe4YDkKSMQGPwr7xXJeozqLLwfEJeFHi1kuy6B0py7aFkm2N+9Wyht5TMb8MbtmULJfdSKLXAY2VlLofVfsYhC2sr1g/7+YJ7zFlBbV+yYRoHvVT7plo8dyYmT74QkBu6oKmOwtdlboSxpqZIey5/m7G4TmZo/lj5FpbIkJvHNB4nCem3shWZeCTw1w0UwVoL9JetFmNpuL5bkFWoNXBBCgQTPP76W0yhKI4xg3VMQMs0FPFWp6uWIv3KdbinYr1tQH1Jf1pn0MSCpaC6KeuweStWWVSl7YbmAchTHijoTKLm7zMK5bVrtUsiGlwtXDv1IRGwpxhlSozKrQrAipeWCex10wu6aO4p2eWWtsWcmXPQm66rjvftCo9tzNu8iZz8p8WtiURvN72J3vJKmRCDxmVHtEageMaBuR4513JNSQ75q63My12ytFG1ho7JqHW5kLEUkjl1qL5HJb5hdEbreQWRp4lSWkUWY/vPHY3d2GrY9vy8chvv4jvgfQ5Iu9Badg/Sxp6SYgtEL8fyMUFCt3QbOe+T5ajPjvz4ivwNOaI0GeJjVvVWFRNOUpzQHtLUFlMuWPzqs44sySzv0d3Fb8dummWnYZet9AUYPoB8ADw2ZFDT3AU/l8EP2y2zr6rN1JVr0Y2uUveDNmGN6dB1i00RXbxgeyA7PxfE2uk4betCx/9e6DXvwE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1163px" height="283px" viewBox="-0.5 -0.5 1163 283" content="&lt;mxfile&gt;&lt;diagram id=&quot;07fea595-8f29-1299-0266-81d95cde20df&quot; name=&quot;Page-1&quot;&gt;7ZdNc5swEIZ/DUdnANnYOcY4TnPo9MB02h4FWoMagTxCBLu/vhKsDORrkjZJe8jBtvbVStpdPaxtj8Tl4UrRffFZMhBe6LODRzZeGAbzYGU+rHLslVlwHsx7KVec9aI/CAn/BbjWqQ1nUKPWS1pKofl+KmayqiDTE40qJdup204KNhH2NIdJGFZIMirgnts3znSBahCdDxOfgOcFHr0Kl/1ESrObXMmmwvMqWUE/U1K3DR5ZF5TJdiSRS4/ESkrdj8pDDMIWdlqx7SOzp5AVVPo5C6JF1C+5paLBvDEyfXSFAGbqgmaXC1kXuhTGCswQDlx/N2P/LFyg+WM0tbFE+M44onE/Tgy9lo3KwAWHsWiqctBOJL1ooxotxfyuQJag1dE4KBBU89vpbVKEIj/5DdUxAyzQY8VavV6xlu9TrOU7FetrDepL+tM+h6EvaAqiX7oBE7empQld2m5gHgQ/4bWG0mxu4jKvWJb7RlMvJt7FsnsnxjUSJod1qswo110RUHHCJomdZmJJ7/k9vrLQ2raQC5tLuG3b9mzXqPTMrtiyOuvkhza2JRG8uukze84u4YSecFR6RGsETtcwgOGdtwXXkOxpd72tabFTjnay0tgxQ2JtLkQshVTdXoQtYMXmRq+1kjcwmlmFKYkiO+M6jz2tu7D1qW05f+S338T1QPIUkbegNByeJA1nQx9bIH4/hPM5Cu3QbBeuTxajPhs48QV4GnNE6JPExo2qLaqmHIVJ0N4SlBZT3rF5UWWcWpLpn6O7jt8O3TTL/pbevanINleUNTSjJp9txsFmPWN0lvUZd/qUbvJB90D37ASpwzvy/y+873bizr6udlKVL+Y5uU7ejOea16/Oc41pzxjMMOUHgF5+AD0AvfjXPBtp+FncuY/+eJDL3w==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <path d="M 451 121 L 380.64 158.03" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -32,7 +32,7 @@
                 </switch>
             </g>
         </a>
-        <a xlink:href="https://www.furb.br/dsc/bcc">
+        <a xlink:href="https://www.furb.br/pt/graduacao/ciencia-da-computacao">
             <rect x="1" y="161" width="520" height="120" fill="#d5e8d4" stroke="#82b366" stroke-width="3" pointer-events="all"/>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
@@ -59,7 +59,7 @@
                 </switch>
             </g>
         </a>
-        <a xlink:href="https://www.furb.br/dsc/sis">
+        <a xlink:href="https://www.furb.br/pt/graduacao/sistemas-de-Informacao">
             <rect x="641" y="161" width="520" height="120" fill="#d5e8d4" stroke="#82b366" stroke-width="3" pointer-events="all"/>
             <g transform="translate(-0.5 -0.5)">
                 <switch>

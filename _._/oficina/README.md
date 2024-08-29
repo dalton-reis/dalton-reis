@@ -16,6 +16,11 @@
 
 [Material sobre os cursos](./_/_._/OLD/2024_DSC.pdf "Material sobre os cursos")  
 
+### Nossos cursos  
+
+- [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
+- [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
+
 ## Inquietações
 
 Pensei em algumas perguntas para tentarmos responder  
@@ -121,138 +126,9 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ![TiposRealidadeVirtual](_/Conceitos/TiposRealidadeVirtual.png "TiposRealidadeVirtual")  
 
-#### Realidade Virtual Imersiva (RV / RVi)
+#### [Realidade Virtual Imersiva (RV / RVi)](_/RealidadeVirtualImersiva.md)  
 
-A RV pode ser classificada conforme o nível de [interação](#interação "interação") do usuário com o sistema de RV, em **imersiva** e **não-imersiva**. É **imersiva** quando o usuário é transportado para o domínio da aplicação de RV, com a utilização de ferramentas que auxiliem na [imersão](#imersão "imersão"), como, por exemplo, capacete e luva para simulação de visão e tato, auxiliando a sensação de estar dentro de um [mundo virtual](#mundo-virtual "mundo virtual"). E é **não-imersiva** quando o usuário é transportado para o domínio da aplicação parcialmente, interagindo com um [mundo virtual](#mundo-virtual "mundo virtual") sem fazer parte dele, como, por exemplo, a utilização de monitor e projeção.  
-
-Alguns pontos que devem ser observados para aumentar a [imersão](#imersão "imersão"):
-
-- representar do [mundo virtual](#mundo-virtual "mundo virtual") que permita a [imersão](#imersão "imersão") do usuário (quanto mais crível melhor);  
-- controlar os “sentidos” proporciona [imersão](#imersão "imersão") (mais comum: visão e tato);  
-- poder interagir ou não com o que vê ao seu redor.
-
-A Realidade Virtual Imersiva (RVi) procura trazer o usuário da aplicação para o ambiente virtual, já a Realidade Aumentada (RA), mantém o usuário no seu ambiente físico e transporta o ambiente virtual para o espaço do usuário, permitindo a [interação](#interação "interação") com o [mundo virtual](#mundo-virtual "mundo virtual"), de maneira mais natural e sem necessidade de treinamento ou adaptação.  
-
-Uma aplicação de RVi também é RV, mas uma aplicação de RV não é RVi.  
-
-##### RVi - Hardwares
-
-De uma forma geral, independente de qual tipo de Realidade Virtual se pretende usar é interessante pensar como o hardware pode proporcionar entrada, processamento e saída.  
-Alguns exemplos de equipamentos usados em RVi.  
-
-##### Data Gloves - Luvas
-
-Conhecidas como Luvas de Dados etc. Permite rastrear os movimentos das mãos e ter a sensação de tato. O LeapMotion não da retorno de tato.  
-
-![DataGlove_PowerGlove](_/Conceitos/DataGloves_PowerGlove.png "DataGlove_PowerGlove")  
-
-![DataGlove_Articulacao](_/Conceitos/DataGloves_Articulacao.png "DataGlove_Articulacao")
-
-##### Head-Mounted Display - Capacetes
-
-Conhecidos como óculos virtuais, cardboard etc.  
-
-![HMD_LynxR1](_/Conceitos/HMD_LynxR1.png "HMD_LynxR1")  
-![HMD_OculosRift](_/Conceitos/HMD_OculosRift.png "HMD_OculosRift")  
-![HMD_OculosGoogleCardBoard](_/Conceitos/HMD_OculosGoogleCardBoard.png "HMD_OculosGoogleCardBoard")  
-![HMD_OculosSamsungGearVR](_/Conceitos/HMD_OculosSamsungGearVR.png "HMD_OculosSamsungGearVR")  
-![HMD_OculusHololens](_/Conceitos/HMD_OculusHololens.png "HMD_OculusHololens")  
-![HMD_Oculus_TreinamentoParaquedas](_/Conceitos/HMD_Oculus_TreinamentoParaquedas.png "HMD_Oculus_TreinamentoParaquedas")  
-![HMD_Oculus_VirtuSphere](_/Conceitos/HMD_Oculus_VirtuSphere.png "HMD_Oculus_VirtuSphere")  
-
-![HMD_OculusQuest2](_/Conceitos/HMD_OculusQuest2.png "HMD_OculusQuest2")  
-
-Uso do Oculus Quest 2 por professores da FURB.  
-![HMD_Habitat_2021_2](_/Conceitos/HMD_Habitat_2021_2.png "HMD_Habitat_2021_2")  
-
-Uso do Oculus Quest 2 por professores da FURB - vídeo completo.  
-[HMD_Habitat_2021_2](_/Conceitos/HMD_Habitat_2021_2.mp4 "HMD_Habitat_2021_2")  
-
-Uso do Oculus Quest 2 por professores da FURB - TCCs.  
-[2021 - Gabriel Garcia Salvador](https://github.com/gcgfurb/tcc_GabrielGarciaSalvador/blob/master/Textos/tcc_bcc_2021_1_gabrielgarcia_gabrielgarciasalvador-VF.pdf "2021 - Gabriel Garcia Salvador")  
-[2021 - Leonardo Rovigo](https://github.com/gcgfurb/tcc_LeonardoRovigo/blob/main/Textos/tcc_bcc_2021_1_lrovigo_LeonardoRovigo-VF.pdf "2021 - Leonardo Rovigo")  
-
-###### Vision Pro - Apple
-
-[https://www.apple.com/apple-vision-pro/](https://www.apple.com/apple-vision-pro/)  
-![HMD_VisionPro](_/Conceitos/HMD_VisionPro.png)
-
-##### SmartPhones e outros
-
-Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
-
-Braçadeira Myo  
-![Braçadeira Myo](_/Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
-
-##### RVi - Exemplos
-
-Um exemplo de uso de RV é um usuário utilizando uma ferramenta de modelagem 3D (ex. Sketchup), e de RVi é quando o usuário coloca um HMD que "fecha" todo campo de visão do usuário, ou até mesmo "controlando" outros sentidos, e assim aumentando a [imersão](#imersão "imersão") deste usuário.  
-
-A RVi explora o uso HMD para "controlar" o campo de visão do usuário.  
-
-Quanto mais controle dos sentidos, mais imersão, então se explora o uso de equipamentos para dar um retorno de Tato.  
-
-![Usuário Diversão - Tato](_/Conceitos/RVi_Diversao.png "Usuário Diversão")  
-
-#### Realidade Virtual Aumentada (RA)  
-
-Uma aplicação de RA também é RV, mas uma aplicação de RV não é RA. Pois as aplicações que usam RA devem ter três características: combinar real com virtual, ter [interação](#interação "interação") em "tempo real" e usar o espaço 3D.  
-
-Alguns pontos que devem ser observados:
-
-- mistura do virtual com real;  
-- único sentido: do virtual para real ou real para virtual (mais comum);  
-- necessidade de marcadores (âncoras) no [mundo real](#mundo-real "mundo real").  
-
-##### RA - Exemplos
-
-Rótulos de Garrafas ( 📢 )  
-![Rótulos de Garrafas](_/Conceitos/RA_Garrafas.mov "Rótulos de Garrafas")  
-
-Mesa Tátil da TV Globo  
-![Mesa Tátil da TV Globo](_/Conceitos/RA_MesaTatil.mov "Mesa Tátil da TV Globo")  
-
-Painel de Fotos com Jogadores ( 📢 )  
-![Painel de Fotos com Jogadores](_/Conceitos/RA_Jogadores.mov "Painel de Fotos com Jogadores")  
-
-FolhAR - Explorando Folhas de Plantas com Realidade Aumentada  
-![Smartphone_Habitat_2021_2](_/Conceitos/Smartphone_Habitat_2021_2.png "Smartphone_Habitat_2021_2")  
-[2021 - Bruno Geiser Vigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
-
-###### Caixa E-Água - Caixa de Areia Interativa
-
-[http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html](http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html "http://caixae-agua.blogspot.com/p/projeto-nome-da-capes-adiconar.html")  
-
-[LCC - SARndbox](https://www10.furb.br/manuais/manual-caixa-de-areia.php "LCC - SARndbox")  
-Projeto realizado com base nos projetos Caixa E-Água e da University of California.  
-
-Alguns momentos da Caixa E-Água
-
-![CaixaEAgua_LIFE_maos](_/Conceitos/CaixaEAguaFURB_LIFE_maos.png "CaixaEAgua_LIFE_maos")  
-![CaixaEAgua_LIFE_pessoas](_/Conceitos/CaixaEAguaFURB_LIFE_pessoas.png "CaixaEAgua_LIFE_pessoas")  
-
-[Mais da Caixa E-Água](_/CaixaEAgua "Mais da Caixa E-Água")  
-
-[Home Design](https://apps.apple.com/br/app/home-design-3d/id463768717https://apps.apple.com/br/app/home-design-3d/id463768717 "Home Design") (ao vivo 😅)  
-
-FES - Sistema Solar (ao vivo 😅)  
-
-[2017 - Evandro Matheus Schmitz](https://www.furb.br/dsc/arquivos/tccs/monografias/2017_1_evandro-matheus_monografia.pdf "2017 - Evandro Matheus Schmitz")  
-
-##### RA - Hardwares
-
-Google Glass  
-![Google Glass](_/Conceitos/HMD_GloogleGlass_Dalton.png "Google Glass")  
-
-[Novo Google Glass](https://olhardigital.com.br/2019/05/20/noticias/google-anuncia-oculos-de-realidade-aumentada-com-visual-mais-comum/ "Novo Google Glass")  
-
-[LIDAR - LIght Detection And Ranging](https://pt.wikipedia.org/wiki/Lidar "LIDAR - LIght Detection And Ranging")  
-![LiDAR_Web](_/Conceitos/LiDAR_Web.mov "LiDAR_Web")  
-[2021 - Bruno Henrique de Borba](https://github.com/gcgfurb/tcc_BrunoHenriqueBorba/blob/main/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba/Textos/tcc_bcc_2021_2_bhborba_BrunoHenriqueDeBorba-VF.pdf "2021 - Bruno Henrique de Borba")  
-![2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC](_/Conceitos/LiDARtcc.mov "2021 - Bruno Henrique de Borba - Exemplo: LIDAR + VC") ( 📢 )  
-
-[Qualcomm Snapdragon XR2 5G Platform - Local](_/Conceitos/HMD_QualcommSnapdragonXR25G.mov "Qualcomm Snapdragon XR2 5G Platform - Local")  
-[Qualcomm Snapdragon XR2 5G Platform](https://www.youtube.com/watch?v=b_MMypnh_AI "Qualcomm Snapdragon XR2 5G Platform")  
+#### [Realidade Virtual Aumentada (RA)](_/RealidadeVirtualAumentada.md)  
 
 #### [Realidade Virtual Diminuída (RD)](_/RealidadeVirtualDiminuida.md)  
 
@@ -294,28 +170,7 @@ Equipe brasileira faz a primeira simulação de cirurgia no Metaverso ([https://
 
 Sem limites de distâncias, escala, tempo etc no mundo virtual.  
 
-## Para saber mais
-
-Principal evento Nacional sobre Realidade Virtual  
-
-### 2020 - Symposium on Virtual and Augmented Reality - SVR
-
-  Pre-Symposium (BR): <https://youtu.be/LU-LJUo6fyA>  
-  Data: 07/11/2020  
-  Formato: Remoto  
-  Livro do Simpósio: [Introdução aos Conceitos de RV](_/ParaSaberMais/Conceitos-rv-ra.pdf "Introdução aos Conceitos de RV")  
-
-#### 2022 - Symposium on Virtual and Augmented Reality - SVR
-
-Eu fui 😁 ...  
-
-  <http://www.natalnet.br/svr2022/>  
-  Data: 24/10 a 27/10  
-  Formato: presencial - Natal, RN  
-
-## Mais Exemplos
-
-[Mais Exemplos](_/MaisExemplos "Mais Exemplos")  
+## [Para saber mais](_/ParaSaberMais/ParaSaberMais.md)  
 
 ## Perguntas  
 
@@ -326,13 +181,6 @@ Eu fui 😁 ...
  ![Foto professor](_/img_EventoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
-
-<!--
-## Nossos cursos  
-
-- [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
-- [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
--->
 
 <!-- ![estacoes.drawio.svg](_/estacoes.drawio.svg)  -->
 ## Estações
