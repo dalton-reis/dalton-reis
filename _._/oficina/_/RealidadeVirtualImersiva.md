@@ -56,7 +56,7 @@ Uso do Oculus Quest 2 por professores da FURB - TCCs.
 
 ## SmartPhones e outros
 
-Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](../README.md#mundo-virtual) "Mundo Virtual") para ser usado na área da Realidade Virtual.  
+Uma das grande limitações atuais é gerar espaços virtuais ([Mundo Virtual](../README.md#mundo-virtual "Mundo Virtual") para ser usado na área da Realidade Virtual.  
 
 Braçadeira Myo  
 ![Braçadeira Myo](./Conceitos/BracadeiraMyo.mov "Braçadeira Myo")  
