@@ -8,6 +8,8 @@
         Nome: Dalton Solano dos Reis  
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
+----
+
 ## Departamento de Sistemas e Computação - DSC
 
 ![DSC_estrutura](_/DSC_estrutura.drawio.svg)  
