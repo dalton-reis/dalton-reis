@@ -1,5 +1,6 @@
 
 # Interação FURB 2024  
+
 ![Interacao2024](Interacao2024.png "Interacao2024")  
 <!-- # Formação Pomerode -  FURB 2024  -->
 
@@ -397,6 +398,7 @@ Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aume
 
 #### LibrAR
 
+...  
 
 #### ProgramAR
 
@@ -422,11 +424,13 @@ Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aume
 
 <https://drive.google.com/open?id=1-FuOGDWHad1txz-duBmWBFB6wWLBi6jv&usp=drive_fs>  
 
-<!-- #### Advinha Bicho -->
-
 #### Artivive
 
-[Artivive](#artivive-atividade)  
+[Artivive](https://artivive.com/)  
+
+#### AugmentedClass
+
+[AugmentedClass](https://www.creativitic.es/augmentedclass/)  
 
 ## Atividade
 
