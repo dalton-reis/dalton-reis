@@ -39,8 +39,7 @@ Pensei em algumas perguntas para tentarmos responder
 - [Conceitos](#conceitos)  
 - [Linha do Tempo](#linha-do-tempo)  
 - [Tipos de Realidades Virtuais](#tipos-de-realidades-virtuais)  
-- [Para saber mais](#para-saber-mais)  
-- [Mais Exemplos](#mais-exemplos)  
+- [Para saber mais](_/ParaSaberMais/ParaSaberMais.md)  
 - [Perguntas](#perguntas)
 - [Estações](#estações)  
 - [Atividade](#atividade)  
@@ -71,14 +70,16 @@ Sentimento de estar-se dentro do ambiente. Ser humano usa os sentidos para perce
 
 Está ligada com a capacidade do computador detectar as entradas do usuário e modificar “instantaneamente” o [mundo virtual](#mundo-virtual "mundo virtual") e as ações sobre ele. Se busca por formas mais "naturais" de [Interação](#interação "Interação") para maximizar a [Imersão](#imersão "Imersão").  
 
-##### Teclado Virtual - Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
+##### Teclado Virtual
 
+Alternativas de [Interação](#interação "Interação") usando formas tradicionais  
 ![TecladoVirtual](_/Conceitos/TecladoVirtual.png "TecladoVirtual")  
 
 Teclado Virtual (ao vivo 😅)  
 
-##### LeapMotion - Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
+##### LeapMotion
 
+Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
 ![LeapMotion_Menu](_/Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
 
 LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
@@ -157,21 +158,14 @@ Alguns exemplos de aplicativos desenvolvidos pelo nosso grupo na área de Realid
 
 ### Hardware
 
-#### Teclado Virtual  
-
-[Teclado Virtual](#teclado-virtual---alternativas-de-interação-usando-formas-tradicionais)  
-
-#### LeapMotion  
-
-[LeapMotion](#leapmotion---alternativas-de-interação-usando-formas-não-tradicionais)  
-
-#### Óculos RV (Flip)  
-
-#### CardBoard  
+- [Teclado Virtual](#teclado-virtual)  
+- [LeapMotion](#leapmotion)  
+- Óculos RV (Flip)  
+- CardBoard  
 
 ### Aplicativos: RVi
 
-Exemplos de aplicativos de [Realidade Virtual Imersiva](#realidade-virtual-imersiva-rv--rvi)  
+Exemplos de aplicativos de [Realidade Virtual Imersiva](_/RealidadeVirtualImersiva.md)  
 
 #### Defesa Civil
 
@@ -205,7 +199,7 @@ APP: <https://www.artsteps.com/>
 
 ### Aplicativos: RA
 
-Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aumentada-ra)  
+Exemplos de aplicativos de [Realidade Virtual Aumentada](_/RealidadeVirtualAumentada.md)  
 
 #### Sistema Solar
 
@@ -229,7 +223,7 @@ Exemplos de aplicativos de [Realidade Virtual Aumentada](#realidade-virtual-aume
 
 #### Caixa D'Areia
 
-[Caixa D'Areia](#caixa-e-água---caixa-de-areia-interativa)  
+[Caixa D'Areia](_/Nossos/CaixaEAgua/)  
 
 #### AnimAR
 
