@@ -39,9 +39,15 @@ Pensei em algumas perguntas para tentarmos responder
 - [Conceitos](#conceitos)  
 - [Linha do Tempo](#linha-do-tempo)  
 - [Tipos de Realidades Virtuais](#tipos-de-realidades-virtuais)  
+  - [Realidade Virtual Imersiva (RV / RVi)](_/RealidadeVirtualImersiva.md)  
+  - [Realidade Virtual Aumentada (RA)](_/RealidadeVirtualAumentada.md)  
+  - [Realidade Virtual Diminuída (RD)](_/RealidadeVirtualDiminuida.md)  
+  - [Realidade Virtual Misturada (RM)](_/RealidadeVirtualMisturada.md)  
+  - [Realidade Virtual Alternativa (RAl)](_/RealidadeVirtualAlternativa.md)  
+  - [Realidade Virtual - Metaverso](_/RealidadeVirtualMetaverso.md)  
 - [Para saber mais](_/ParaSaberMais/ParaSaberMais.md)  
-- [Perguntas](#perguntas)
-- [Estações](#estações)  
+- [Aplicativos](_/RealidadeVirtualAplicativos.md)  
+- [Perguntas](#perguntas)  
 - [Atividade](#atividade)  
 
 ## Conceitos
