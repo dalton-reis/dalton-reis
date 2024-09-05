@@ -72,6 +72,10 @@ Assuntos relacionados com a área da educação
 
 ## Orgulho
 
+### SBGames 2024 - finalista
+
+<https://www.furb.br/pt/noticias/furb-e-finalista-em-quatro-categorias-de-desenvolvimento-de-games-no-sbgames-2024>  
+
 ### Parque Spitz - Balonismo Virtual
 
 <https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7207500112627920896/?midToken=AQG-otX11vVbsA&midSig=3PHEzFG-Ay0Xk1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-agsv~lxf86qfa~m4-null-null&eid=agsv-lxf86qfa-m4>
