@@ -24,7 +24,7 @@ FolhAR - Explorando Folhas de Plantas com Realidade Aumentada
 [2021 - Bruno Geiser Vigentas](https://github.com/gcgfurb/tcc_BrunoGeislerVigentas/blob/main/Textos/tcc_bcc_2021_1_bvigentas_BrunoGeiserVigentas-VF.pdf "2021 - Bruno Geiser Vigentas")  
 
 Calculadora GeoGebra 3D  
-![CalculadoraGeoGebra3D](CalculadoraGeoGebra3D.png)  
+![CalculadoraGeoGebra](CalculadoraGeoGebra.png)  
 [Calculadora GeoGebra 3D](https://play.google.com/store/apps/details/GeoGebra_3D_Calculator?id=org.geogebra.android.g3d&hl=pt_BR "Calculadora GeoGebra 3D")  
 
 ### Caixa E-Água - Caixa de Areia Interativa
