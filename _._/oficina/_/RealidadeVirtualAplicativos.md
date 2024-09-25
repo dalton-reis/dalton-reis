@@ -22,6 +22,7 @@ APK: <https://play.google.com/store/apps/details?id=br.furb.ldtt.consequencia&pc
 ### FlorestaSC RA
 
 <https://play.google.com/store/apps/details?id=br.furb.ldtt.FlorestaSCRA&pcampaignid=web_share>  
+Marcadores: <https://github.com/LDTTFURB/site/blob/main/Marcadores/FlorestaSC_RA.pdf>  
 APK Teste: <https://drive.google.com/open?id=1PdJE8w7lk_oM_3i3FGqbLUFsLnPq1lqu&usp=drive_fs>  
 
 ### RotaVR
