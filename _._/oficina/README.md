@@ -12,6 +12,11 @@
 
 ## Departamento de Sistemas e Computação - DSC
 
+- 50 anos  
+- muitas vagas de emprego  
+- dupla titulação  
+- universidade gratuita  
+
 ![DSC_estrutura](_/DSC_estrutura.drawio.svg)  
 
 [Material sobre os cursos](./_/_._/OLD/2024_DSC.pdf "Material sobre os cursos")  
