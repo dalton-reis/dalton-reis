@@ -1,4 +1,4 @@
-# SEMINCO
+# SEMINCO - 2025
 
 Mais próximo do evento serão postadas informações aqui.  
 
