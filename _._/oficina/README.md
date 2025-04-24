@@ -3,9 +3,9 @@
 
 O que já fizemos e para onde vamos
 
-## Meninas Digitais - FURB!
+## Meninas Digitais - FURB
 
-[meninasDigitais](meninasDigitais.png)
+![meninasDigitais](meninasDigitais.png)
 <!-- ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")   -->
 <!-- # Formação Pomerode -  FURB 2024  -->
 
