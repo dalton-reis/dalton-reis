@@ -1,6 +1,6 @@
 # Semana Acadêmica - 2025
 
-Mais próximo do evento serão postadas informações aqui.  
+Programação ... participem.
 
 ![semanaAcademica_A](semanaAcademica_A.png)  
 ![semanaAcademica_B](semanaAcademica_B.png)  
