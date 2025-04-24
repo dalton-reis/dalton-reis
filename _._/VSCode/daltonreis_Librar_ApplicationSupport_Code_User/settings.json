@@ -225,7 +225,7 @@
 												],
 												"workbench.editor.empty.hint": "hidden",
 												"codegpt.apiKey": "sk-proj-eIhMGk0g2XX3MPSamTjxT3BlbkFJsD7oHXS1sypljg4PfUwd",
-												"bitoAI.codeCompletion.enableAutoCompletion": true,
+												"bitoAI.codeCompletion.enableAutoCompletion": false,
 												"bitoAI.codeCompletion.enableCommentToCode": true,
 												"editor.inlineSuggest.showToolbar": "always",
 												"gitlens.ai.experimental.provider": "openai",
@@ -241,5 +241,17 @@
 													}
 												},
 												"svg.preview.mode": "svg",
-												"scm.experimental.showHistoryGraph": true
+												"scm.experimental.showHistoryGraph": true,
+												"print.folder.fileNames": true,
+												"print.folder.include": [],
+												"print.folder.exclude": [
+													"{bin,obj,out}",
+													"node_modules",
+													"data",
+													"**/*.{bin,exe,dll,hex,pdb,pdf,pfx,png,jpg,gif,bmp,suo,design}"
+												],
+												"print.folder.maxLines": 1200,
+												"print.folder.maxFiles": 30,
+												"print.folder.includeFileList": false,
+												"markdown-preview-enhanced.enablePreviewZenMode": false
 }
