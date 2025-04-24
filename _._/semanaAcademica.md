@@ -2,8 +2,6 @@
 
 Mais próximo do evento serão postadas informações aqui.  
 
-## Data
-
-28 (segunda) de abril  
-29 (terça) de abril  
-30 (quarta) de abril  
+![semanaAcademica_A](semanaAcademica_A.png)  
+![semanaAcademica_B](semanaAcademica_B.png)  
+![semanaAcademica_C](semanaAcademica_C.png)  
