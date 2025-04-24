@@ -1,5 +1,5 @@
 
-# Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
+# Da Realidade Virtual ao Metaverso:  // o que já fizemos e para onde vamos
 
 ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")  
 <!-- # Formação Pomerode -  FURB 2024  -->
