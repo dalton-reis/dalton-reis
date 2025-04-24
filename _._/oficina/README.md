@@ -1,8 +1,6 @@
 
 # Da Realidade Virtual ao Metaverso
 
-O que já fizemos e para onde vamos
-
 ## Meninas Digitais - FURB
 
 <!-- ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")   -->
@@ -13,7 +11,7 @@ O que já fizemos e para onde vamos
         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
 ----
-
+<!-- 
 ## Departamento de Sistemas e Computação - DSC
 
 - 50 anos  
@@ -29,6 +27,10 @@ O que já fizemos e para onde vamos
 
 - [curso de Bacharel em Ciências da Computação](https://www.furb.br/pt/graduacao/ciencia-da-computacao "curso de Bacharel em Ciências da Computação")  
 - [curso de Sistemas de Informação](https://www.furb.br/pt/graduacao/sistemas-de-Informacao "curso de Sistemas de Informação")  
+ -->
+----
+
+Da Realidade Virtual ao Metaverso: o que já fizemos e para onde vamos
 
 ## Inquietações
 
