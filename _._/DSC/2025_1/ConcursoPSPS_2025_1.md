@@ -46,5 +46,4 @@ Edital: <>   -->
 
 ## Inscrições encerradas
 
-![ConcursoPSPS_006_2023](ConcursoPSPS_2024_2.png)  
-<https://is.gd/rMyZRe>  
+![ConcursoPSPS_2025_1_Instagram](ConcursoPSPS_2025_1_Instagram.png)  
