@@ -184,7 +184,7 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ### Aplicativo ArLab
 
-[ArLab](./_/_Aplicativos/ArLab/)
+[ArLab](https://drive.google.com/open?id=1WQD9PBPtEkWwRh__trqi40WfKazLugC_&usp=drive_fs)
 
 ### ArtSteps Atividade
 
