@@ -6,10 +6,10 @@
 <!-- ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")   -->
 <!-- # Formação Pomerode -  FURB 2024  -->
 
- ![Logo Evento](_/meninasDigitais.png "Logo Evento")  
-        Nome: Dalton Solano dos Reis  
-        Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
-
+ ![Foto professor](_/img_EventoDaltonReisQRCode_MeninasDigitais.png "Foto professor")  
+         Nome: Dalton Solano dos Reis  
+         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
+ 
 ![DSC_50anos](_/DSC_50anos.png)  
 
 <!-- 
