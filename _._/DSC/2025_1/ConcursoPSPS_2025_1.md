@@ -2,7 +2,7 @@
 
 Estão abertas as inscrições para os concursos de Professor Universitário em Caráter Temporário (PSPS) do Departamento de Sistemas e Computação (DSC) da Universidade Regional de Blumenau (FURB).  
 
-Qualquer dúvida favor entrar em contato com prof. Dalton Reis ([dalton@furb.br](dalton@furb.br)).  
+Qualquer dúvida favor entrar em contato com prof. Dalton Reis (<dalton@furb.br>).  
 
 ## Inscrições a serem abertas
 
