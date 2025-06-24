@@ -4,7 +4,7 @@ Estão abertas as inscrições para os concursos de Professor Universitário em 
 
 Qualquer dúvida favor entrar em contato com prof. Dalton Reis (<dalton@furb.br>).  
 
-## Inscrições a serem abertas
+## Inscrições ABERTAS
 
 ### Área Temática: Ciência da Computação
 
@@ -30,6 +30,8 @@ Edital N° 076/2025
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/44920ce9-81d6-45bd-b744-12641561f661.pdf>  
 
+## Inscrições a serem abertas
+
 ### Área Temática: Redes de Computadores
 
 Edital N° 085/2025  
@@ -42,7 +44,6 @@ Edital N° 088/2025
 As inscrições serão realizadas no período de 30 de junho a 04 de julho de 2025.  
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/425/anexos/b90e74ad-3b30-446c-81f9-799d0a45919b.pdf>  
 
-## Inscrições ABERTAS
 
 ## Inscrições encerradas
 
