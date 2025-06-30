@@ -33,27 +33,36 @@ Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/425/anexos/9134
 Edital N° 081/2025  
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/1d5b7b1b-a88b-437d-9d3e-4020ad4999fa.pdf>  
-1 inscrito
+Presidente: Joyce Martins  
+Titular: Dalton Solano dos Reis  
+Titular: Andreza Sartori  
 
-### Área Temática: Hardware
+**Quantidade de candidatos inscritos: 1**  
+
+<!-- ### Área Temática: Hardware
 
 Edital N° 082/2025  
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/66875d38-14b9-4203-ad5d-8c874fb1ccb9.pdf>  
-1 inscrito
+**Quantidade de candidatos inscritos: 1**
+**Inscrição não aprovada, por não contemplar a exigência da titulação** -->
 
-### Área Temática: Inteligência Artificial
+<!-- ### Área Temática: Inteligência Artificial
 
 Edital N° 074/2025  
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/96b3484c-5ad2-487a-b027-68f3ee6d78f2.pdf>  
-**Não teve candidatos inscritos**
+**Não teve candidatos inscritos** -->
 
 ### Área Temática: Programação de Computadores
 
 Edital N° 076/2025  
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/44920ce9-81d6-45bd-b744-12641561f661.pdf>  
-5 inscrições
+Presidente:  Dalton Solano dos Reis  
+Titular: Luciana Pereira de Araújo Kohler  
+Titular: Miguel Alexandre Wisintainer  
+
+**Quantidade de candidatos inscritos: 5**  
 
 ![ConcursoPSPS_2025_1_Instagram](ConcursoPSPS_2025_1_Instagram.png)  
