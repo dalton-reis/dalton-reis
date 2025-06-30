@@ -108,7 +108,7 @@
 		"omnisharp.monoPath": "",
 	"cSpell.language": "pt,pt-BR,en",
 	"cSpell.ignoreWords": [
-
+		"Vuforia"
 	],
 	"editor.codeLens": false,
 	"editor.accessibilitySupport": "off",
@@ -184,7 +184,6 @@
 
 				
 				],
-				"editor.minimap.enabled": false,
 				"remoteHub.commitDirectlyWarning": "off",
 				"github.copilot.enable": {
 					"*": false,
@@ -253,5 +252,19 @@
 												"print.folder.maxLines": 1200,
 												"print.folder.maxFiles": 30,
 												"print.folder.includeFileList": false,
-												"markdown-preview-enhanced.enablePreviewZenMode": false
+												"markdown-preview-enhanced.enablePreviewZenMode": false,
+												"[html]": {
+													"editor.defaultFormatter": "vscode.html-language-features"
+												},
+												"explorer.confirmPasteNative": false,
+												"editor.minimap.enabled": false,
+												"projectManager.tags": [
+													"disciplina_CG_privado",
+													"disciplina_CG"
+												],
+												"projectManager.git.baseFolders": [
+													"/Users/daltonreis/GitHub"
+												],
+												"projectManager.git.maxDepthRecursion": 6,
+												"githubPullRequests.pullBranch": "never"
 }
