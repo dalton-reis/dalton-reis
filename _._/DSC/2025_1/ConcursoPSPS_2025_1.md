@@ -31,6 +31,7 @@ Prova Didática: 15/07/2025 14h Sala S-432
 Presidente: Francisco Adell Péricas  
 Titular: Aurélio Faustino Hoppe  
 Titular: Everaldo Artur Grahl  
+
 ----
 
 ## Inscrições encerradas
