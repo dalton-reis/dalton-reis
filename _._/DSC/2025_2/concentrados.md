@@ -26,7 +26,11 @@ Disciplina: Prática em Redes de Computadores
 Turno: noturno (12~15)  
 Período: 07/07 à 25/07
 
-Ementa
+Ementa: Atividades práticas em redes locais de computadores. Experimentos com
+interconexão de redes de computadores. Experiências com topologias, protocolos e
+serviços em redes de computadores. Configuração de aplicações para Web, correio
+eletrônico, transferência de arquivos, tráfego de dados em tempo real (VoIP) e
+gerenciamento de redes.
 
 ----
 
@@ -52,4 +56,7 @@ Disciplina: Inovação Tecnológica
 Turno: noturno (12~15)  
 Período: 17/07 à 26/07  
 
-Ementa
+Ementa: Fundamentos da inovação. Criatividade. Processo de inovação nas
+empresas. Cultura da inovação. Estudos de casos de inovação tecnológica.
+Produção e transferência de Conhecimento. Cooperação universidade & empresa.
+Apresentação de modelos de negócio.
