@@ -43,7 +43,7 @@ Disciplina: Eletiva V
 Turno: noturno (12~15)  
 Período: 07/07 à 16/07  
 
-Ementa
+Ementa: Introdução à testes, avaliação e análise. Tipos de testes: caixa branca, caixa preta, caixa cinza, heurísticos, desempenho, performance, usabilidade, entre outros. Avaliação da qualidade de uso: usabilidade, comunicabilidade e acessibilidade. Testes e avaliação conforme o estágio do software: projeto, desenvolvimento e implantação. Classificação de métodos de avaliação. Técnicas de coleta de dados. Tipos de dados coletados (quantitativos x qualitativos). Tipo de análise (experimental, interpretativa, preditiva). Avaliação em diferentes domínios.  
 
 ----
 
