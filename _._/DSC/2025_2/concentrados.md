@@ -17,6 +17,8 @@ criar protótipos e validar soluções.
 
 ----
 
+## Prática em Redes de Computadores
+
 Laboratório: T-208  
 Professor: Francisco Adell Péricas  
 Código: SIS. 0108. 00. 001-9  
@@ -24,9 +26,11 @@ Disciplina: Prática em Redes de Computadores
 Turno: noturno (12~15)  
 Período: 07/07 à 25/07
 
-Ementa: 
+Ementa
 
 ----
+
+## Testes de Software
 
 Laboratório: S-432  
 Professor: Simone Erbs da Costa  
@@ -35,9 +39,11 @@ Disciplina: Eletiva V
 Turno: noturno (12~15)  
 Período: 07/07 à 16/07  
 
-Ementa: Testes de Software  
+Ementa
 
 ----
+
+## Inovação Tecnológica
 
 Laboratório: S-432  
 Professor: Simone Erbs da Costa  
@@ -46,4 +52,4 @@ Disciplina: Inovação Tecnológica
 Turno: noturno (12~15)  
 Período: 17/07 à 26/07  
 
-Ementa: 
+Ementa
