@@ -32,6 +32,8 @@ Presidente: Francisco Adell Péricas
 Titular: Aurélio Faustino Hoppe  
 Titular: Everaldo Artur Grahl  
 
+<!-- Gabriel Castelani de Oliveira -->
+
 ----
 
 ## Inscrições encerradas
@@ -74,5 +76,10 @@ Titular: Luciana Pereira de Araújo Kohler
 Titular: Miguel Alexandre Wisintainer  
 
 **Quantidade de candidatos inscritos: 5**  
+<!-- 1. Ricardo Voigt
+2. Marcos Rogério Cardoso
+3. Artur Ricardo Bizon
+4. Gabriel Vieira
+5. Nodji Vasconcelos Ferreira Junior -->
 
 ![ConcursoPSPS_2025_1_Instagram](ConcursoPSPS_2025_1_Instagram.png)  
