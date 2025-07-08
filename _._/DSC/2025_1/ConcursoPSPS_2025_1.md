@@ -15,9 +15,9 @@ Qualquer dúvida, favor entrar em contato com o prof. Dalton Reis ([dalton@furb.
 ### Área Temática: Programação de Computadores
 
 Edital N° 076/2025  
-<!-- As inscrições serão realizadas no período de 23 a 27 de junho de 2025. -->
+<!-- As inscrições serão realizadas no período de 23 a 27 de junho de 2025.  -->
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/44920ce9-81d6-45bd-b744-12641561f661.pdf>  
-Prova Didática: 09/07/2025 14h Sala S-432
+Prova Didática: 09/07/2025 14h Sala S-432  
 Presidente:  Dalton Solano dos Reis  
 Titular: Luciana Pereira de Araújo Kohler  
 Titular: Miguel Alexandre Wisintainer  
@@ -31,9 +31,9 @@ não vem 3. Artur Ricardo Bizon
 ### Área Temática: Ciência da Computação
 
 Edital N° 081/2025  
-<!-- As inscrições serão realizadas no período de 23 a 27 de junho de 2025. -->
+<!-- As inscrições serão realizadas no período de 23 a 27 de junho de 2025.  -->
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/1d5b7b1b-a88b-437d-9d3e-4020ad4999fa.pdf>  
-Prova Didática: 10/07/2025 14h Sala S-432
+Prova Didática: 10/07/2025 14h Sala S-432  
 Presidente: Joyce Martins  
 Titular: Dalton Solano dos Reis  
 Titular: Andreza Sartori  
@@ -43,9 +43,9 @@ Titular: Andreza Sartori
 ### Área Temática: Redes de Computadores
 
 Edital N° 085/2025  
-<!-- As inscrições serão realizadas no período de 01 a 07 de julho de 2025.   -->
+<!-- As inscrições serão realizadas no período de 01 a 07 de julho de 2025.  -->
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/425/anexos/9134d11e-69ac-4b16-9f0e-5437511e23c2.pdf>  
-Prova Didática: 15/07/2025 14h Sala S-432
+Prova Didática: 15/07/2025 14h Sala S-432  
 Presidente: Francisco Adell Péricas  
 Titular: Aurélio Faustino Hoppe  
 Titular: Everaldo Artur Grahl  
