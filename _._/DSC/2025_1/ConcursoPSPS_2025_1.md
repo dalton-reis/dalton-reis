@@ -38,18 +38,7 @@ Presidente: Joyce Martins
 Titular: Dalton Solano dos Reis  
 Titular: Andreza Sartori  
 **Quantidade de candidatos inscritos: 1**  
-
-### Área Temática: Sistemas de informação
-
-Edital N° 088/2025  
-<!-- As inscrições serão realizadas no período de 30 de junho a 04 de julho de 2025.   -->
-As inscrições serão realizadas no período de 01 a 07 de julho de 2025.  
-Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/425/anexos/b90e74ad-3b30-446c-81f9-799d0a45919b.pdf>  
-Prova Didática: 16/07/2025 14h Sala S-432  
-Presidente: Everaldo Artur Grahl  
-Titular: Francisco Adell Péricas  
-Titular: Alexander Roberto Valdameri  
-<!-- **Quantidade de candidatos inscritos: 0**   -->
+<!-- 1. Danton Cavalcanti Franco Junior -->
 
 ### Área Temática: Redes de Computadores
 
@@ -60,8 +49,9 @@ Prova Didática: 15/07/2025 14h Sala S-432
 Presidente: Francisco Adell Péricas  
 Titular: Aurélio Faustino Hoppe  
 Titular: Everaldo Artur Grahl  
-<!-- **Quantidade de candidatos inscritos: 1**   -->
-<!-- Gabriel Castelani de Oliveira -->
+<!-- **Quantidade de candidatos inscritos: 2**   -->
+<!-- 1. Gabriel Castellani De Oliveira
+2. Nodji vasconcelos ferreira junior -->
 
 ![ConcursoPSPS_2025_1_Instagram](ConcursoPSPS_2025_1_Instagram.png)  
 
@@ -83,4 +73,16 @@ Edital N° 074/2025
 As inscrições serão realizadas no período de 23 a 27 de junho de 2025.
 Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/422/anexos/96b3484c-5ad2-487a-b027-68f3ee6d78f2.pdf>  
 **Não teve candidatos inscritos** -->
+<!-- **Quantidade de candidatos inscritos: 0**   -->
+
+<!-- ### Área Temática: Sistemas de informação
+
+Edital N° 088/2025   -->
+<!-- As inscrições serão realizadas no período de 30 de junho a 04 de julho de 2025.   -->
+<!-- As inscrições serão realizadas no período de 01 a 07 de julho de 2025.  
+Edital: <https://anexos.cdn.selecao.net.br/uploads/342/concursos/425/anexos/b90e74ad-3b30-446c-81f9-799d0a45919b.pdf>  
+Prova Didática: 16/07/2025 14h Sala S-432  
+Presidente: Everaldo Artur Grahl  
+Titular: Francisco Adell Péricas  
+Titular: Alexander Roberto Valdameri   -->
 <!-- **Quantidade de candidatos inscritos: 0**   -->
