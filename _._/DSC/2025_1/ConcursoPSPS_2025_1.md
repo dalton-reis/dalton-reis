@@ -86,3 +86,33 @@ Presidente: Everaldo Artur Grahl
 Titular: Francisco Adell Péricas  
 Titular: Alexander Roberto Valdameri   -->
 <!-- **Quantidade de candidatos inscritos: 0**   -->
+
+<!-- # Concursos PSPS
+
+## Bancas
+
+|              | ConcursoPC | ConcursoHW | ConcursoSO | ConcursoRC | ConcursoTE | ConcursoSI | ConcursoBD |
+|              | 29/05/2024 | 05/06/2024 | 11/06/2024 | 12/06/2024 | 13/06/2024 | 20/06/2024 | 27/06/2024 |
+|--------------|------------|------------|------------|------------|------------|------------|------------|
+| Alexander    |            |            |            |            |     S      |      X     |      P     |
+| Andreza      |            |            |            |     X      |            |      X     |            |
+| Aurélio      |            |      S     |      P     |     X      |            |            |            |
+| Dalton       |     P      |      X     |            |     S      |     X      |      S     |      X     |
+| Everaldo     |            |            |            |            |            |      P     |            |
+| Francisco    |            |            |      X     |     P      |            |            |      X     |
+| Joyce        |            |            |            |            |            |            |            |
+| Luciana      |     X      |      X     |      S     |            |     X      |            |      S     |
+| Maurício     |     S      |            |            |            |     P      |            |            |
+| Miguel       |     X      |      P     |      X     |            |            |            |            |
+
+Bom dia, preciso lançar um novo concurso PSPS para BD.  
+A necessidade vai ser para inicio de 2025/1, mas como este ano é um “ano eleitoral”, preciso lançar este concurso no máximo esta semana.  
+
+Bom, segue a requisição do PSPS.  
+Peço que revise os campos:  
+
+- Exigências de Formação  
+- Banca Examinadora  
+- Temas para Prova Didática  
+
+E, possibilidade da “prova didática” ser no dia/horário indicado.   -->
