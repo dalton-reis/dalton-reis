@@ -14,8 +14,8 @@ Sala: T-210
 Sala: S-407  
 
 Funcionários:  
-  Suporte técnico: Charles Bambinetti
-  Suporte técnico: Dangelo de Moraes
+  Suporte técnico: Charles Bambinetti  
+  Suporte técnico: Dangelo de Moraes  
 
 -----  
 
