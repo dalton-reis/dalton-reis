@@ -5,15 +5,18 @@
 ## DSC - Departamento de Sistemas e Computação
 
 [https://dsc.furb.br](https://dsc.furb.br)  
+Sala: T-210  
 
 ## LCI - Laboratório de Computação e Informática
 
 [https://dsc.furb.br/laboratórios](https://dsc.furb.br/laboratórios)  
 
+Sala: S-407  
+
 Funcionários:  
   Suporte técnico: Charles Bambinetti
   Suporte técnico: Dangelo de Moraes
-  
+
 -----  
 
 ## AVA3 - Ambiente Virtual de Aprendizado
