@@ -266,5 +266,6 @@
 													"/Users/daltonreis/GitHub"
 												],
 												"projectManager.git.maxDepthRecursion": 6,
-												"githubPullRequests.pullBranch": "never"
+												"githubPullRequests.pullBranch": "never",
+												"github.copilot.nextEditSuggestions.enabled": true
 }
