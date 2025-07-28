@@ -30,10 +30,10 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 ## Leciono atualmente
 
 <!-- [1a fase - Introdução à Programação](https://github.com/dalton-reis/disciplina_IP_2024_2_A "1a fase - Introdução à Programação")   -->
-[7a fase - Computação Gráfica (BCC-N)](https://github.com/dalton-reis/disciplina_CG_2025_1 "7a fase - Computação Gráfica (BCC-M\/BCC-N)")  
-[8a fase - Realidade Virtual (BCC-N)](https://github.com/dalton-reis/disciplina_RV_2025_1 "8a fase - Realidade Virtual (BCC-N)")  
-[8a fase - Trabalho de Conclusão de Curso I (BCC-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_BCC "8a fase - Trabalho de Conclusão de Curso I (BCC-N)")  
-[7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")  
+[7a fase - Computação Gráfica (BCC-N)](https://github.com/dalton-reis/disciplina_CG_2025_2 "7a fase - Computação Gráfica (BCC-N)")  
+[8a fase - Realidade Virtual (BCC-M/BCC-N)](https://github.com/dalton-reis/disciplina_RV_2025_2 "8a fase - Realidade Virtual (BCC-M/BCC-N)")  
+[8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_BCC "8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N)")  
+<!-- [7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")   -->
 
 ## Profissional
 
@@ -42,7 +42,7 @@ Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em
 
 ## Oficinas
 
-[Interação FURB 2024](./_._/oficina/README.md)  
+[Interação FURB 2025](./_._/oficina/README.md)  
 
 ## Linhas pesquisa
 
