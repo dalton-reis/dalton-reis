@@ -83,7 +83,7 @@ Ponto de ônibus com Realidade Virtual
 
 Projeto Caixa de Areia - FURB  
 <http://caixae-agua.blogspot.com>  
-![Demonstração em Timbó](_/Nossos/CaixaEAgua/Timbo_08.mp4)  
+![Demonstração em Timbó](_/Nossos/CaixaEAgua/Timbo_08.mov)  
 
 ### Termos
 
