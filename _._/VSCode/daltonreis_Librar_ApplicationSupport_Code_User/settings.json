@@ -267,5 +267,6 @@
 												],
 												"projectManager.git.maxDepthRecursion": 6,
 												"githubPullRequests.pullBranch": "never",
-												"github.copilot.nextEditSuggestions.enabled": true
+												"github.copilot.nextEditSuggestions.enabled": true,
+												"python.defaultInterpreterPath": "/Library/Developer/CommandLineTools/usr/bin/python3"
 }

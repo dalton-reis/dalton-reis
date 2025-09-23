@@ -215,5 +215,6 @@ Para fazer a atividade siga o roteiro:
 
 Aos Grupos de Pesquisa  
 
-![logo_LDTT_Habitat](./_/logo_LDTT_Habitat.png "logo_LDTT_Habitat")  
-[https://www.furb.br/furbot](https://www.furb.br/furbot "https://www.furb.br/furbot") - [https://www.furb.br/habitat](https://www.furb.br/habitat "https://www.furb.br/habitat")  
+| [https://www.furb.br/furbot](https://www.furb.br/furbot "https://www.furb.br/furbot") | [https://www.furb.br/habitat](https://www.furb.br/habitat "https://www.furb.br/habitat") |
+|--|--|
+| ![logo_LDTT](./_/logo_LDTT.png "logo_LDTT") | ![logo_Habitat](./_/logo_Habitat.png "logo_Habitat") |
