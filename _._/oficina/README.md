@@ -5,7 +5,7 @@
 
  ![Foto professor](_/img_EventoDaltonReisQRCode_MeninasDigitais.png "Foto professor")  
          Nome: Dalton Solano dos Reis  
-         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")   -->
+         Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")   -->
 
 ## Interação 2025 - FURB
 
@@ -173,7 +173,7 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 ## Perguntas  
 
-[Perguntas e-mail: dalton@furb.br](mailto://dalton@furb.br "Perguntas e-mail: dalton@furb.br ")  
+[Perguntas e-mail: dalton@furb.br](mailto:dalton@furb.br "Perguntas e-mail: dalton@furb.br ")  
 
 <!-- <https://forms.office.com/pages/designpagev2.aspx?origin=OfficeDotCom&lang=pt-BR&sessionid=de2a5e05-60cc-4b3a-944e-b8078f5a0636&route=Templates&subpage=design&id=KiItDNrscEuWCqzvbO0wUkrE9Grf2d5FobLZ7kEfSV9UMUdNNkNOVkFGWUNOODIzTFBWTlVFMVU4Vi4u&analysis=true> -->
 
