@@ -179,7 +179,7 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
  ![Foto professor](_/img_EventoDaltonReisQRCode.png "Foto professor")  
         Nome: Dalton Solano dos Reis  
-        Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
+        Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")  
 
 <!-- ![estacoes.drawio.svg](_/estacoes.drawio.svg)  -->
 
