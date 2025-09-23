@@ -215,4 +215,4 @@ Aos Grupos de Pesquisa
 [https://www.furb.br/furbot](https://www.furb.br/furbot "https://www.furb.br/furbot")  
 [https://www.furb.br/habitat](https://www.furb.br/habitat "https://www.furb.br/habitat")  
 
-![Logo_LDTT](./_/logo_LDTT.png "Logo_LDTT")  ![Logo_Habitat](./_/logo_Habitat.png "Logo_Habitat")  
+![logo_LDTT_Habitat](./_/logo_LDTT_Habitat.png "logo_LDTT_Habitat")  
