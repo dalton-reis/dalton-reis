@@ -81,6 +81,10 @@ Exemplo sensor de ré do carro com projeção de percurso virtual
 Ponto de ônibus com Realidade Virtual  
 ![Ponto de ônibus com Realidade Virtual](_/Conceitos/RA_PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
+Projeto Caixa de Areia - FURB  
+<http://caixae-agua.blogspot.com>  
+![Demonstração em Timbó](_/Nossos/CaixaEAgua/Timbo_08.mp4)  
+
 ### Termos
 
 Alguns [termos](#termos "termos") importantes para área da Realidade Virtual.  
