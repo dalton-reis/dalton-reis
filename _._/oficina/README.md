@@ -1,12 +1,15 @@
 
 # Da Realidade Virtual ao Metaverso
 
-## Meninas Digitais - FURB
-
-<!-- ![Interacao2024](./_/_._/OLD/2024_Interacao.png "Interacao2024")   -->
-<!-- # Formação Pomerode -  FURB 2024  -->
+<!-- ## Meninas Digitais - FURB
 
  ![Foto professor](_/img_EventoDaltonReisQRCode_MeninasDigitais.png "Foto professor")  
+         Nome: Dalton Solano dos Reis  
+         Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")   -->
+
+## Interação 2025 - FURB
+
+ ![Foto professor](_/img_EventoDaltonReisQRCode_Interacao.png "Foto professor")  
          Nome: Dalton Solano dos Reis  
          Contato: [dalton@furb.br](mailto://dalton@furb.br "dalton@furb.br ")  
 
