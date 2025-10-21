@@ -211,7 +211,6 @@
 												"gitlens.views.commitDetails.files.layout": "tree",
 												"markdownlint.focusMode": false,
 												"translatorHelper.targetLanguage": "pt",
-												"workbench.colorTheme": "Visual Studio Light",
 												"marginalia.noteFolder": "${workspaceTopLevelFolder}/_._marginalia",
 												"workbench.editor.enablePreview": false,
 												"workbench.editor.showTabs": "single",
@@ -268,5 +267,17 @@
 												"projectManager.git.maxDepthRecursion": 6,
 												"githubPullRequests.pullBranch": "never",
 												"github.copilot.nextEditSuggestions.enabled": true,
-												"python.defaultInterpreterPath": "/Library/Developer/CommandLineTools/usr/bin/python3"
+												"python.defaultInterpreterPath": "/Library/Developer/CommandLineTools/usr/bin/python3",
+												"workbench.colorTheme": "Dracula Theme Soft",
+												"cSpell.caseSensitive": true,
+												"cSpell.ignorePaths": [
+													"package-lock.json",
+													"node_modules",
+													"vscode-extension",
+													".git/{info,lfs,logs,refs,objects}/**",
+													".git/{index,*refs,*HEAD}",
+													".vscode",
+													".vscode-insiders",
+													"**/*.bib"
+												]
 }
