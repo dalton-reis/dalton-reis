@@ -60,7 +60,7 @@ Assuntos relacionados com a área da educação
 [TecEdu - <https://tecedufurb.github.io/portal/>](https://tecedufurb.github.io/portal/ "grupo de pesquisa TecEdu")  
 [GCG - <https://github.com/gcgfurb/portal/>](https://github.com/gcgfurb/portal/ "grupo de pesquisa GCG")  
 
-- Zotero bibliografias:
+- Zotero bibliografias:  
         [https://www.zotero.org/daltonreis](https://www.zotero.org/daltonreis "Zotero")  
         [https://www.zotero.org/groups/daltonreis_rv](https://www.zotero.org/groups/daltonreis_rv "Zotero RV")  
         [https://www.zotero.org/groups/daltonreis_cg](https://www.zotero.org/groups/daltonreis_cg "Zotero CG")  
