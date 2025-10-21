@@ -61,7 +61,10 @@ Assuntos relacionados com a área da educação
 [GCG - <https://github.com/gcgfurb/portal/>](https://github.com/gcgfurb/portal/ "grupo de pesquisa GCG")  
 
 - Zotero bibliografias:
-        [<https://www.zotero.org/daltonreis>](https://www.zotero.org/daltonreis "Zotero")  
+        [https://www.zotero.org/daltonreis](https://www.zotero.org/daltonreis "Zotero")  
+        [https://www.zotero.org/groups/daltonreis_rv](https://www.zotero.org/groups/daltonreis_rv "Zotero RV")  
+        [https://www.zotero.org/groups/daltonreis_cg](https://www.zotero.org/groups/daltonreis_cg "Zotero CG")  
+        [https://www.zotero.org/groups/daltonreis_tcc](https://www.zotero.org/groups/daltonreis_tcc "Zotero TCC")  
 
 - WebPage:
         [<https://dalton-reis.github.io/dalton-reis/>](https://dalton-reis.github.io/dalton-reis/ "WebPage")  
