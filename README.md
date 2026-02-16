@@ -32,7 +32,7 @@ Graduado em Bacharel em Ciências da Computação pela FURB (1992) e mestrado em
 [1a fase - Introdução à Computação](https://github.com/dalton-reis/disciplina_IC_2026_1 "1a fase - Introdução à Computação")  
 <!-- [1a fase - Introdução à Programação](https://github.com/dalton-reis/disciplina_IP_2024_2_A "1a fase - Introdução à Programação")   -->
 [7a fase - Computação Gráfica](https://github.com/dalton-reis/disciplina_CG_2026_1 "7a fase - Computação Gráfica")  
-[7a fase - Processamento de Imagens](https://github.com/dalton-reis/disciplina_IP_2026_1 "7a fase - Processamento de Imagens")  
+[7a fase - Processamento de Imagens](https://github.com/dalton-reis/disciplina_PI_2026_1 "7a fase - Processamento de Imagens")  
 <!-- [8a fase - Realidade Virtual (BCC-M/BCC-N)](https://github.com/dalton-reis/disciplina_RV_2025_2 "8a fase - Realidade Virtual (BCC-M/BCC-N)")   -->
 <!-- [8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N/SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_2 "8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N/SIS-N)")   -->
 <!-- [7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")   -->
