@@ -151,6 +151,8 @@ Sabes como surgiu o QRCode?
 Na verdade ele veio de um Código de Barra que tentou o suicídio 😁.  
 ![alt text](_._/QRCode.png)
 
+![img_DaltonReis_desenho](_._/img_DaltonReis_desenho.png)  
+
 ## WakaTime
 
 ![DashBoard](https://wakatime.com/share/@dalton_reis/bdb5b58b-d49f-4716-8757-bcf4995b4cf6.svg "DashBoard")  
