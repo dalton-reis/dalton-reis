@@ -42,6 +42,7 @@
 	"editor.renderControlCharacters": true,
 	"todohighlight.isEnable": true,
     "todohighlight.include": [
+				"**/*.tex",
 				"**/*.md",
 				"**/*.java",
         "**/*.cs",
@@ -176,6 +177,7 @@
 		"pomodoro.pauseTime": 0,
 		"editor.inlineSuggest.enabled": true,
 		"todohighlight.defaultStyle": {
+
 		},
 				"compareFolders.includeFilter": [
 				
@@ -342,5 +344,28 @@
 															"tectonic"
 														]
 													}
-												]
-}
+												],
+												"gitlens.ai.model": "vscode",
+												"gitlens.ai.vscode.model": "copilot:gpt-4.1",
+												"open-translate.sourceLanguage": "auto",
+												"open-translate.targetLanguage": "pt",
+												"chat.tools.terminal.autoApprove": {
+													"dotnet build": true,
+													"dotnet test": true,
+													"g++": true,
+													"clang++": true,
+													"./main": true,
+													"/^/usr/bin/clang\\+\\+ -std=gnu\\+\\+14 -fcolor-diagnostics -fansi-escape-codes -g main\\.cpp -o main && \\./main$/": {
+														"approve": true,
+														"matchCommandLine": true
+													},
+													"/^/usr/bin/clang\\+\\+ -std=c\\+\\+17 -fcolor-diagnostics -fansi-escape-codes -g main\\.cpp -o main && \\./main$/": {
+														"approve": true,
+														"matchCommandLine": true
+													}
+												},
+												"chat.viewSessions.orientation": "stacked",
+												"codevisualizer.llm.model": "gpt-4o",
+												"codevisualizer.llm.provider": "openai",
+												"codevisualizer.llm.enabled": true
+											}
