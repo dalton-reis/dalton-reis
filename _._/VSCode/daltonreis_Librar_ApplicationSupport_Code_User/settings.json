@@ -81,6 +81,8 @@
 	"explorer.confirmDelete": false,
 	"compareFolders.excludeFilter": [
 
+
+
 	
 	"**/_._*",
 	"**/bin",
@@ -183,6 +185,7 @@
 				
 				],
 				"compareFolders.ignoreExtension": [
+					
 
 				
 				],
@@ -367,5 +370,7 @@
 												"chat.viewSessions.orientation": "stacked",
 												"codevisualizer.llm.model": "gpt-4o",
 												"codevisualizer.llm.provider": "openai",
-												"codevisualizer.llm.enabled": true
+												"codevisualizer.llm.enabled": true,
+												"notebook.lineNumbers": "on",
+												"files2prompt.systemMessage": "Sempre forneça código completo. Retorne apenas em formato XML com <files> e <file>. Inclua somente arquivos modificados."
 											}
