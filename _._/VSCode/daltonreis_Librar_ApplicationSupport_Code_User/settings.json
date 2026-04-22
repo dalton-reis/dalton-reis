@@ -367,10 +367,14 @@
 														"matchCommandLine": true
 													}
 												},
-												"chat.viewSessions.orientation": "stacked",
 												"codevisualizer.llm.model": "gpt-4o",
 												"codevisualizer.llm.provider": "openai",
 												"codevisualizer.llm.enabled": true,
 												"notebook.lineNumbers": "on",
-												"files2prompt.systemMessage": "Sempre forneça código completo. Retorne apenas em formato XML com <files> e <file>. Inclua somente arquivos modificados."
+												"files2prompt.systemMessage": "Sempre forneça código completo. Retorne apenas em formato XML com <files> e <file>. Inclua somente arquivos modificados.",
+												"notebook.cellToolbarLocation": {
+													"default": "right",
+													"jupyter-notebook": "right"
+												},
+												"chat.viewSessions.orientation": "stacked"
 											}
