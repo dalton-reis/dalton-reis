@@ -67,6 +67,7 @@ Assuntos relacionados com a área da educação
         [https://www.zotero.org/groups/daltonreis_rv](https://www.zotero.org/groups/daltonreis_rv "Zotero RV")  
         [https://www.zotero.org/groups/daltonreis_cg](https://www.zotero.org/groups/daltonreis_cg "Zotero CG")  
         [https://www.zotero.org/groups/daltonreis_tcc](https://www.zotero.org/groups/daltonreis_tcc "Zotero TCC")  
+        [https://www.zotero.org/groups/6554535/daltonreis_zo](https://www.zotero.org/groups/6554535/daltonreis_zo "Zotero configurações")  
 
 - WebPage:
         [<https://dalton-reis.github.io/dalton-reis/>](https://dalton-reis.github.io/dalton-reis/ "WebPage")  
