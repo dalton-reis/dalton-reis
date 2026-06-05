@@ -46,6 +46,8 @@
 				"**/*.md",
 				"**/*.java",
         "**/*.cs",
+				"**/*.ipynb",
+    		"**/*.py",
         "**/*.json"
     ],
     "todohighlight.exclude": [
@@ -80,10 +82,6 @@
 	"hediet.vscode-drawio.theme": "Kennedy",
 	"explorer.confirmDelete": false,
 	"compareFolders.excludeFilter": [
-
-
-
-	
 	"**/_._*",
 	"**/bin",
 	"**/obj",
@@ -376,5 +374,19 @@
 													"default": "right",
 													"jupyter-notebook": "right"
 												},
-												"chat.viewSessions.orientation": "stacked"
-											}
+												"chat.viewSessions.orientation": "stacked",
+	"todo-tree.general.tags": ["TODO", "FIXME"],
+	"todo-tree.tree.scanMode": "workspace and open files",
+	"todo-tree.filtering.includeGlobs": [
+		"**/*.ipynb",
+		"**/*.py",
+		"**/*.md",
+		"**/*.java",
+		"**/*.cs"
+	],
+	"todo-tree.filtering.excludeGlobs": [
+		"**/.git/**",
+		"**/.venv/**"
+	],
+	"todo-tree.filtering.passGlobsToRipgrep": true
+}
