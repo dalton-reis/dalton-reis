@@ -389,6 +389,6 @@
 		"**/.venv/**"
 	],
 	"todo-tree.filtering.passGlobsToRipgrep": true,
-	"todo-tree.ripgrep": "/Applications/Visual Studio Code.app/Contents/Resources/app/node_modules/@vscode/ripgrep-universal/bin/darwin-arm64/rg"
+	"todo-tree.ripgrep.ripgrep": "/Applications/Visual Studio Code.app/Contents/Resources/app/node_modules/@vscode/ripgrep-universal/bin/darwin-arm64/rg"
 }
 
