@@ -78,6 +78,13 @@ Assuntos relacionados com a área da educação
 
 ## Orgulho
 
+### Floresta SC 2026 - Aplicativos de Realidade Virtual
+
+<https://www.youtube.com/watch?v=-kffvTtJP4I>  
+![FlorestaSC_youtube](./_._/FlorestaSC_youtube.mp4)  
+<https://www.instagram.com/reel/DZIVN-5pkd7/?igsh=MWV1eGM5dGM0NjJlNQ%3D%3D>  
+![FlorestaSC_insta](./_._/FlorestaSC_insta.mp4)  
+
 ### SBGames 2024 - finalista
 
 <https://www.furb.br/pt/noticias/furb-e-finalista-em-quatro-categorias-de-desenvolvimento-de-games-no-sbgames-2024>  
