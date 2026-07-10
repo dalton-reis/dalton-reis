@@ -1,0 +1,6 @@
+{
+  "id": "furbot",
+  "displayName": "Furbot",
+  "description": "Um pequeno robô sobre rodas para acompanhar tarefas no Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}
