@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames",
+  "states": [
+    "running"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19758,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 1,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20206,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 2,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19143,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 3,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20544,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 4,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20898,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 5,
+          "file": "/Users/daltonreis/GitHub/dalton-reis/.codex-pet-runs/furbot-v2-model/qa/rows/running/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20402,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        }
+      ]
+    }
+  ]
+}

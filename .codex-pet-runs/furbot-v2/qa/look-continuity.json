@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "reviewRequired": true,
+  "medianDiffPixels": 1224.5,
+  "warnings": [
+    "180->202.5 diff is a local outlier (3644 pixels vs neighbor average 2214)",
+    "180->202.5 center shift is high (10.0px)",
+    "247.5->270 diff is a local outlier (4706 pixels vs neighbor average 2933)",
+    "247.5->270 sprite area ratio is high (1.33)",
+    "270->292.5 diff is a local outlier (4892 pixels vs neighbor average 2785)",
+    "270->292.5 sprite area ratio is high (1.40)",
+    "315->337.5 diff is a local outlier (2571 pixels vs neighbor average 1344)"
+  ],
+  "alphaHoles": [],
+  "pairs": [
+    {
+      "from": "000",
+      "to": "022.5",
+      "firstPixels": 12973,
+      "secondPixels": 12985,
+      "diffPixels": 1070,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0009249980729207
+    },
+    {
+      "from": "022.5",
+      "to": "045",
+      "firstPixels": 12985,
+      "secondPixels": 13195,
+      "diffPixels": 1046,
+      "centerDelta": 1.5811388300841898,
+      "areaRatio": 1.0161725067385445
+    },
+    {
+      "from": "045",
+      "to": "067.5",
+      "firstPixels": 13195,
+      "secondPixels": 12996,
+      "diffPixels": 790,
+      "centerDelta": 1.5,
+      "areaRatio": 1.0153124038165589
+    },
+    {
+      "from": "067.5",
+      "to": "090",
+      "firstPixels": 12996,
+      "secondPixels": 12936,
+      "diffPixels": 548,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0046382189239331
+    },
+    {
+      "from": "090",
+      "to": "112.5",
+      "firstPixels": 12936,
+      "secondPixels": 12899,
+      "diffPixels": 892,
+      "centerDelta": 0.0,
+      "areaRatio": 1.002868439413908
+    },
+    {
+      "from": "112.5",
+      "to": "135",
+      "firstPixels": 12899,
+      "secondPixels": 12463,
+      "diffPixels": 1354,
+      "centerDelta": 3.0413812651491097,
+      "areaRatio": 1.0349835513118832
+    },
+    {
+      "from": "135",
+      "to": "157.5",
+      "firstPixels": 12463,
+      "secondPixels": 11858,
+      "diffPixels": 1874,
+      "centerDelta": 5.0990195135927845,
+      "areaRatio": 1.0510204081632653
+    },
+    {
+      "from": "157.5",
+      "to": "180",
+      "firstPixels": 11858,
+      "secondPixels": 12557,
+      "diffPixels": 3332,
+      "centerDelta": 7.158910531638177,
+      "areaRatio": 1.0589475459605329
+    },
+    {
+      "from": "180",
+      "to": "202.5",
+      "firstPixels": 12557,
+      "secondPixels": 12190,
+      "diffPixels": 3644,
+      "centerDelta": 10.0,
+      "areaRatio": 1.030106644790812
+    },
+    {
+      "from": "202.5",
+      "to": "225",
+      "firstPixels": 12190,
+      "secondPixels": 11888,
+      "diffPixels": 1095,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0254037685060566
+    },
+    {
+      "from": "225",
+      "to": "247.5",
+      "firstPixels": 11888,
+      "secondPixels": 11434,
+      "diffPixels": 974,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0397061395836977
+    },
+    {
+      "from": "247.5",
+      "to": "270",
+      "firstPixels": 11434,
+      "secondPixels": 8573,
+      "diffPixels": 4706,
+      "centerDelta": 5.220153254455275,
+      "areaRatio": 1.3337221509389945
+    },
+    {
+      "from": "270",
+      "to": "292.5",
+      "firstPixels": 8573,
+      "secondPixels": 12000,
+      "diffPixels": 4892,
+      "centerDelta": 3.5355339059327378,
+      "areaRatio": 1.3997433803802637
+    },
+    {
+      "from": "292.5",
+      "to": "315",
+      "firstPixels": 12000,
+      "secondPixels": 12243,
+      "diffPixels": 864,
+      "centerDelta": 1.4142135623730951,
+      "areaRatio": 1.02025
+    },
+    {
+      "from": "315",
+      "to": "337.5",
+      "firstPixels": 12243,
+      "secondPixels": 12468,
+      "diffPixels": 2571,
+      "centerDelta": 3.1622776601683795,
+      "areaRatio": 1.0183778485665278
+    },
+    {
+      "from": "337.5",
+      "to": "000",
+      "firstPixels": 12468,
+      "secondPixels": 12973,
+      "diffPixels": 1825,
+      "centerDelta": 1.5,
+      "areaRatio": 1.040503689444979
+    }
+  ]
+}
