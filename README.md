@@ -127,6 +127,7 @@ Para saber quais ferramentas usamos para montar o material das disciplinas ver:
 ## GitHub
 
 <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/Git>  
+<https://github.com/LDTTFURB/site/blob/main/ProjetosEnsino/Topicos/Git/_._/GitCompleteNotes.pdf>  
 
 ## GitHub Organizações
 
