@@ -1,7 +1,7 @@
-# SEMINCO - 2025
+# SEMINCO - 2026
 
 Mais próximo do evento serão postadas informações aqui.  
 
 ## Data
 
-Dias: 29/09 a 03/10
+Dias: 07/10 a 09/10
