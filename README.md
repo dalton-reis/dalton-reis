@@ -58,7 +58,8 @@ Assuntos relacionados com a área da educação
 
 [LDTT Instagram](https://www.instagram.com/p/C74ev_HpiHt/?igsh=M2dmMGM5N29nZmNv&img_index=1 "LDTT Insta - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
 [LDTT LinkedIn](https://www.linkedin.com/company/laboratorio-de-desenvolvimento-e-transferência-tecnologica/ "LDTT LinkedIn")  
-[LDTT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")  
+[LDTT - <https://ldtt.furb.br>](https://ldtt.furb.br "LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia")
+[LDTT: FURBOT - <https://www.furb.br/furbot>](https://www.furb.br/furbot "LDTT - FURBOT")  
 [Habitat - <http://www.furb.br/habitat>](http://www.furb.br/habitat "Habitat - Educação, Inovação e Meio Ambiente")  
 [TecEdu - <https://tecedufurb.github.io/portal/>](https://tecedufurb.github.io/portal/ "grupo de pesquisa TecEdu")  
 [GCG - <https://github.com/gcgfurb/portal/>](https://github.com/gcgfurb/portal/ "grupo de pesquisa GCG")  
@@ -153,8 +154,8 @@ Apple: em breve ...
 
 ![ExterminadorWD40](_._/ExterminadorWD40.png)  
 
-Minha mesa de trabalho ...  
-![mesa](_._/Mesa.png)  
+Minha antiga mesa de trabalho no [LDTT](https://ldtt.furb.br)...  
+![mesa](_._/Mesa_LDTT.png)  
 
 Sabes como surgiu o QRCode?  
 Na verdade ele veio de um Código de Barra que tentou o suicídio 😁.  
