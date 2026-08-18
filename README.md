@@ -15,6 +15,17 @@
 
 Graduado em Bacharel em Ciências da Computação pela FURB (1992) e mestrado em Computação pela UFRGS (1997). Atualmente é professor titular da FURB. Tem experiência na área de Ciência da Computação, com ênfase em Computação Gráfica, atuando principalmente nos seguintes temas: Computação Gráfica, Realidade Virtual, Jogos e Aplicações Móveis, e desenvolvimento de material educacional explorando Tecnologias de Desenvolvimento de Sistemas Aplicadas à Educação.
 
+## Profissional
+
+        1989/XXXX - Início na FURB  
+        2022/2026 - Chefe do Departamento de Sistemas e Computação (DSC)  
+        2026/20230 - Diretor do Centro de Ciências Exatas e Naturais (CCEN)
+
+Formatura CCEN 2026-2  
+
+![img_Formatura_CCEN_2026-2.jpeg](_._/img_Formatura_CCEN_2026-2.jpeg)  
+![img_Formatura_CCEN_2026-2_Dalton.png](_._/img_Formatura_CCEN_2026-2_Dalton.png)  
+
 ## Já lecionei
 
 1a fase - Introdução à Computação  
@@ -37,11 +48,6 @@ Graduado em Bacharel em Ciências da Computação pela FURB (1992) e mestrado em
 [8a fase - Realidade Virtual (BCC-M)](https://github.com/dalton-reis/disciplina_RV_2026-2_mat "8a fase - Realidade Virtual (BCC-M)")  
 <!-- [8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N/SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_2 "8a fase - Trabalho de Conclusão de Curso I (BCC-M/BCC-N/SIS-N)")   -->
 <!-- [7a fase - Trabalho de Conclusão de Curso I (SIS-N)](https://github.com/dalton-reis/disciplina_TCC1_2025_1/tree/main/_SIS "7a fase - Trabalho de Conclusão de Curso I (SIS-N)")   -->
-
-## Profissional
-
-        1989/XXXX - Início na FURB  
-        2022/XXXX - Chefe do Departamento de Sistemas e Computação (DSC)  
 
 ## Oficinas
 
