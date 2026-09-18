@@ -92,6 +92,9 @@ Assuntos relacionados com a área da educação
 <https://www.instagram.com/reel/DZIVN-5pkd7/?igsh=MWV1eGM5dGM0NjJlNQ%3D%3D> - [FlorestaSC_insta](./_._/FlorestaSC_insta.mp4)  
 [FlorestaSC_banner](./_._/FlorestaSC_banner.pdf)  
 
+IV Prêmio Lucia Sevegnani de Democratização do Conhecimento  
+![Projeto_Premio_MIPE](_._/Projeto_Premio_MIPE.png)  
+
 ### SBGames 2024 - finalista
 
 <https://www.furb.br/pt/noticias/furb-e-finalista-em-quatro-categorias-de-desenvolvimento-de-games-no-sbgames-2024>  
