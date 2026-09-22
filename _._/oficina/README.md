@@ -17,6 +17,10 @@
         Leonardo Linhares Silva  
         Bernardo Chiamolera  
 
+## Curso de Ciências da Computação - BCC
+
+[PPTInteracao_2026](_/InteracaoDSC/PPTInteracao_2026.pdf)  
+
 <!-- 
 ----
 ## Departamento de Sistemas e Computação - DSC
@@ -174,7 +178,16 @@ Uma forma de conceituar o que é Realidade Virtual e entender os tipos de realid
 
 #### [Realidade Virtual - Metaverso](_/RealidadeVirtualMetaverso.md)  
 
+## Alguns projetos nossos
 
+### Floresta SC 2026 - Aplicativos de Realidade Virtual
+
+<https://www.youtube.com/watch?v=-kffvTtJP4I> - [FlorestaSC_youtube](../FlorestaSC_youtube.mp4)  
+<https://www.instagram.com/reel/DZIVN-5pkd7/?igsh=MWV1eGM5dGM0NjJlNQ%3D%3D> - [FlorestaSC_insta](../FlorestaSC_insta.mp4)  
+
+### Parque Spitz - Balonismo Virtual
+
+<https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7207500112627920896/?midToken=AQG-otX11vVbsA&midSig=3PHEzFG-Ay0Xk1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-agsv~lxf86qfa~m4-null-null&eid=agsv-lxf86qfa-m4>
 
 ----
 
