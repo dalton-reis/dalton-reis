@@ -10,8 +10,8 @@
 ## Interação 2026 - FURB
 
  ![Foto professor](_/img_EventoDaltonReisQRCode_Interacao.png "Foto professor")  
-         Nome: Dalton Solano dos Reis  
-         Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")  
+         <!-- Nome: Dalton Solano dos Reis  
+         Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")   -->
 ![DSC_50anos](_/DSC_50anos.png)  
 
 <!-- 
