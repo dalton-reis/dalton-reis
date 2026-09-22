@@ -68,9 +68,12 @@ Pensei em algumas perguntas para tentarmos responder
 - [Perguntas](#perguntas)  
 - [Atividade](#atividade)  
 
-## SBGames 2024 - finalista
+## Eventos
 
-<https://www.furb.br/pt/noticias/furb-e-finalista-em-quatro-categorias-de-desenvolvimento-de-games-no-sbgames-2024>  
+2024 - <https://www.furb.br/pt/noticias/furb-e-finalista-em-quatro-categorias-de-desenvolvimento-de-games-no-sbgames-2024>  
+
+2026 - <https://www.sbgames.org>  
+próxima semana ...  
 
 ## Conceitos
 
