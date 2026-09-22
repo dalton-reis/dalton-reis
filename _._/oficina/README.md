@@ -53,7 +53,7 @@ Pensei em algumas perguntas para tentarmos responder
 
 ## Agenda
 
-- Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")  
+<!-- - Quem sou eu: [https://github.com/dalton-reis/dalton-reis](https://github.com/dalton-reis/dalton-reis "https://github.com/dalton-reisdalton-reis/")   -->
 - [Conceitos](#conceitos)  
 - [Linha do Tempo](#linha-do-tempo)  
 - [Tipos de Realidades Virtuais](#tipos-de-realidades-virtuais)  
