@@ -51,7 +51,7 @@ Formatura CCEN 2026-2
 
 ## Oficinas
 
-[Interação FURB 2025](./_._/oficina/README.md)  
+[Interação FURB 2026](./_._/oficina/README.md)  
 
 ## Linhas pesquisa
 
