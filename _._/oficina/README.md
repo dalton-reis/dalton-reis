@@ -12,10 +12,10 @@
  ![Foto professor](_/img_EventoDaltonReisQRCode_Interacao.png "Foto professor")  
          <!-- Nome: Dalton Solano dos Reis  
          Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")   -->
-        prof. Bruno Fischer Ferreira Santos
-        Leonardo Linhares Silva
-        Bernardo Chiamolera
 ![DSC_50anos](_/DSC_50anos.png)  
+        prof. Bruno Fischer Ferreira Santos  
+        Leonardo Linhares Silva  
+        Bernardo Chiamolera  
 
 <!-- 
 ----
