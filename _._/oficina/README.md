@@ -14,7 +14,7 @@
          Contato: [dalton@furb.br](mailto:dalton@furb.br "dalton@furb.br ")   -->
 ![DSC_50anos](_/DSC_50anos.png)  
         prof. Bruno Fischer Ferreira Santos  
-        Leonardo Linhares Silva  
+        Fabian Formento  
         Bernardo Chiamolera  
 
 ## Curso de Ciências da Computação - BCC
