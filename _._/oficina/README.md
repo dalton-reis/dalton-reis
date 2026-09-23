@@ -86,14 +86,14 @@ Antes dos conceitos sobre Realidade Virtual voltamos por um momento a uma das pe
     Eu já usei algo de Realidade Virtual?  
 
 Exemplo sensor de ré do carro com projeção de percurso virtual  
-<video src="_/Conceitos/Uso_Carro_sensorRe.mov" controls width="50%"></video>
+![Uso_Carro_sensorRe](_/Conceitos/Uso_Carro_sensorRe.mov "Uso_Carro_sensorRe")  
 
 Ponto de ônibus com Realidade Virtual  
-<video src="_/Conceitos/RA_PontoOnibus.mov" controls width="50%"></video>  
+![Ponto de ônibus com Realidade Virtual](_/Conceitos/RA_PontoOnibus.mov "Ponto de ônibus com Realidade Virtual")  
 
 Projeto Caixa de Areia - FURB  
 <http://caixae-agua.blogspot.com>  
-<video src="_/Nossos/CaixaEAgua/Timbo_08.mov" controls width="50%"></video>  
+![Demonstração em Timbó](_/Nossos/CaixaEAgua/Timbo_08.mov)  
 
 ### Termos
 
@@ -119,13 +119,13 @@ Teclado Virtual (ao vivo 😅)
 ##### LeapMotion
 
 Alternativas de [Interação](#interação "Interação") usando formas **não** tradicionais  
-<video src="_/Conceitos/LeapMotion_Menu.mov" controls width="50%"></video>  
+![LeapMotion_Menu](_/Conceitos/LeapMotion_Menu.mov "LeapMotion_Menu")  
 
 LeapMotion - Explorando objetos virtuais: "descascador" de gatos  
-<video src="_/Conceitos/LeapMotion_Cat.mov" controls width="50%"></video>  
+![LeapMotion_Cat](_/Conceitos/LeapMotion_Cat.mov "LeapMotion_Cat")  
 
 Alguns Trabalhos nossos usando LeapMotion  
-<video src="_/Conceitos/LeapMotion_LIFE.mov" controls width="50%"></video> ( 📢 )  
+![2014 - Trabalho de Aula - LIFE](_/Conceitos/LeapMotion_LIFE.mov "2014 - Trabalho de Aula - LIFE") ( 📢 )  
 
 #### Envolvimento
 
@@ -158,7 +158,7 @@ Sistema criado por **Ivan Sutherland** no ano de 1968, como o objetivo de adicio
 ![Ivan Sutherland](_/LinhaTempo/IvanSutherland.png "Ivan Sutherland")  
 
 Equipamento para Visão Estereoscópica usado no Brasil na época colonial no **museu de Curitiba - PR**.  
-<video src="_/LinhaTempo/Estereoscopia_Museu_Curitiba.mov" controls width="50%"></video>  
+![Museu Curitiba](_/LinhaTempo/Estereoscopia_Museu_Curitiba.mov "Museu Curitiba")  
 
 ### Tipos de Realidades Virtuais
 
