@@ -118,11 +118,19 @@ Um dos desenvolvedores foi meu aluno (Bruno Fischer Ferreira Santos), orientando
         Novidades que facilitam o nosso dia-a-dia  
         Área Gráfica: desde que comecei a trabalhar aos 14 anos com desenho técnico
          de projetos arquitetônicos  
-## Preocupações 
+
+## Preocupações
 
 Estar presenciando uma sociedade que vive no isolamento, distanciamento emocional e a sensação de estar anestesiado diante da realidade.  
 
 Parece letra da música Comfortably Numb do Pink Floyd, mas não é.  
+
+Regra de ouro da comunicação:  
+
+- Quem propõem é aquele que assume  
+- Quem opina tem que dar uma solução  
+
+E se for só um comentário vago, manda “calar a boca”. Não precisa de conversa, só de resultado.  
 
 ## Ferramentas
 
